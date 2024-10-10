@@ -6001,3 +6001,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0984. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
+0903. ✅ test: mock database connection in test suite
