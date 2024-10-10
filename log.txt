@@ -2,3 +2,4 @@
 0904. ✨ feat: implement quiz timer feature
 0350. 🚀 perf: cache repeated calculations
 0383. 🐛 fix: fix broken CSS in mobile view
+0097. 🐛 fix: handle 500 error in quiz API
