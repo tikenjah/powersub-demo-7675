@@ -5,3 +5,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0641. 📚 docs: write FAQ section
 0589. 🐛 fix: fix broken CSS in mobile view
+0050. ✨ feat: enable dark mode toggle
