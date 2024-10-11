@@ -8000,3 +8000,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0870. ♻️ chore: clean up unused files
 0184. 📚 docs: improve code comments in utils
+0556. ✨ feat: support email verification
