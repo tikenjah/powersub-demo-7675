@@ -9004,3 +9004,4 @@
 0394. 🚀 perf: lazy-load components
 0429. ✨ feat: add user authentication
 0600. 🐛 fix: prevent crash on empty input
+0248. 🐛 fix: handle 500 error in quiz API
