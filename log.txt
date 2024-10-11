@@ -23,3 +23,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0688. 🚀 perf: reduce image load time
 0980. 🎨 style: reformat files with black
+0774. 🔧 refactor: refactor quiz grading logic
