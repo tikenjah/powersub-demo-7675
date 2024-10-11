@@ -19,3 +19,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0269. ✅ test: test user registration edge cases
 0778. 📚 docs: write FAQ section
+0752. ✅ test: add integration test for /submit endpoint
