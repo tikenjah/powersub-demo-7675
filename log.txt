@@ -6008,3 +6008,4 @@
 0806. 📚 docs: improve code comments in utils
 0756. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
+0548. 📚 docs: write FAQ section
