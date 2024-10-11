@@ -10001,3 +10001,4 @@
 0390. 🎨 style: standardize quote style
 0887. 📚 docs: add API usage examples
 0859. ✨ feat: create admin dashboard
+0359. 🔧 refactor: clean up auth middleware
