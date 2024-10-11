@@ -26,3 +26,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0804. ♻️ chore: add GitHub actions badge
 0992. ♻️ chore: clean up unused files
+0804. ♻️ chore: add GitHub actions badge
