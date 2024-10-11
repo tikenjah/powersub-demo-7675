@@ -6998,3 +6998,4 @@
 0570. 🎨 style: apply consistent indentation
 0051. ✨ feat: enable dark mode toggle
 0110. 🐛 fix: prevent crash on empty input
+0936. 🔧 refactor: organize models into subfolders
