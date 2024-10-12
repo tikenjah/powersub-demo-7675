@@ -41,3 +41,4 @@
 0632. 🎨 style: remove trailing whitespace
 0856. 🐛 fix: fix null pointer exception on login
 0792. 🎨 style: standardize quote style
+0953. 🎨 style: remove trailing whitespace
