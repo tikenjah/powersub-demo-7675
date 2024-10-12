@@ -45,3 +45,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0624. ✅ test: add unit test for quiz service
 0685. ✅ test: test user registration edge cases
+0469. 🚀 perf: lazy-load components
