@@ -37,3 +37,4 @@
 0215. 🎨 style: reformat files with black
 0902. ✨ feat: enable dark mode toggle
 0864. 🐛 fix: correct typo in registration form
+0514. 🐛 fix: fix broken CSS in mobile view
