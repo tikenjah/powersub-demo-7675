@@ -7001,3 +7001,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0838. 🎨 style: standardize quote style
 0780. 📚 docs: add API usage examples
+0467. ✅ test: add integration test for /submit endpoint
