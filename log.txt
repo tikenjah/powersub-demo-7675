@@ -7000,3 +7000,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0936. 🔧 refactor: organize models into subfolders
 0838. 🎨 style: standardize quote style
+0780. 📚 docs: add API usage examples
