@@ -8002,3 +8002,4 @@
 0184. 📚 docs: improve code comments in utils
 0556. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
+0268. 🐛 fix: prevent crash on empty input
