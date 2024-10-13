@@ -57,3 +57,4 @@
 0238. 🎨 style: apply consistent indentation
 0577. ✨ feat: implement quiz timer feature
 0147. ♻️ chore: bump dependencies
+0128. ♻️ chore: rename env.example
