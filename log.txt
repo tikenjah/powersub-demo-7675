@@ -5007,3 +5007,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0340. 🚀 perf: optimize database query for quiz results
 0166. 🚀 perf: cache repeated calculations
+0917. ✅ test: add integration test for /submit endpoint
