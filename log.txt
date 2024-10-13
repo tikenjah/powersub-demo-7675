@@ -54,3 +54,4 @@
 0297. 🎨 style: remove trailing whitespace
 0212. 🎨 style: standardize quote style
 0482. ✨ feat: add export to CSV option
+0238. 🎨 style: apply consistent indentation
