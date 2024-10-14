@@ -67,3 +67,4 @@
 0256. ✅ test: mock database connection in test suite
 0628. ♻️ chore: add GitHub actions badge
 0918. ✨ feat: enable dark mode toggle
+0359. 🔧 refactor: clean up auth middleware
