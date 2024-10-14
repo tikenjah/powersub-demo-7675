@@ -6018,3 +6018,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0798. 🚀 perf: reduce image load time
 0304. 🔧 refactor: remove redundant code blocks
+0222. 🐛 fix: handle 500 error in quiz API
