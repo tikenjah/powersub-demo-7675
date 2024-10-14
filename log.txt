@@ -8004,3 +8004,4 @@
 0685. ✅ test: test user registration edge cases
 0268. 🐛 fix: prevent crash on empty input
 0839. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
