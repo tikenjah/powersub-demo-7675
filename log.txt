@@ -83,3 +83,4 @@
 0136. 🚀 perf: lazy-load components
 0064. 📚 docs: clarify environment setup
 0364. 🐛 fix: resolve issue with date parsing
+0021. ✨ feat: support email verification
