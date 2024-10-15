@@ -6021,3 +6021,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0080. ✨ feat: support email verification
 0085. ✨ feat: support email verification
+0343. 🚀 perf: optimize database query for quiz results
