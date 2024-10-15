@@ -9015,3 +9015,4 @@
 0891. ✨ feat: create admin dashboard
 0331. 🐛 fix: fix broken CSS in mobile view
 0414. 🔧 refactor: remove redundant code blocks
+0378. 🐛 fix: prevent crash on empty input
