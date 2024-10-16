@@ -90,3 +90,4 @@
 0287. 📚 docs: write FAQ section
 0670. ✨ feat: add export to CSV option
 0870. ♻️ chore: clean up unused files
+0503. ♻️ chore: rename env.example
