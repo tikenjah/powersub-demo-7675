@@ -93,3 +93,4 @@
 0503. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
 0006. 🐛 fix: prevent crash on empty input
+0395. 📚 docs: write FAQ section
