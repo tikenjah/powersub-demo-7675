@@ -8009,3 +8009,4 @@
 0347. ♻️ chore: update .gitignore
 0088. 📚 docs: add API usage examples
 0535. 📚 docs: write FAQ section
+0475. 🔧 refactor: clean up auth middleware
