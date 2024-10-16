@@ -84,3 +84,4 @@
 0064. 📚 docs: clarify environment setup
 0364. 🐛 fix: resolve issue with date parsing
 0021. ✨ feat: support email verification
+0276. ✅ test: add integration test for /submit endpoint
