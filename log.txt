@@ -8011,3 +8011,4 @@
 0535. 📚 docs: write FAQ section
 0475. 🔧 refactor: clean up auth middleware
 0479. 🐛 fix: fix null pointer exception on login
+0393. 🚀 perf: lazy-load components
