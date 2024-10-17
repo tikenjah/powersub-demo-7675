@@ -111,3 +111,4 @@
 0679. ♻️ chore: bump dependencies
 0830. 🎨 style: apply consistent indentation
 0532. 🔧 refactor: split large controller into smaller functions
+0218. 🔧 refactor: clean up auth middleware
