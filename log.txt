@@ -94,3 +94,4 @@
 0297. 🎨 style: remove trailing whitespace
 0006. 🐛 fix: prevent crash on empty input
 0395. 📚 docs: write FAQ section
+0374. 🎨 style: standardize quote style
