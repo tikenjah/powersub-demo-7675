@@ -103,3 +103,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0262. 🎨 style: remove trailing whitespace
 0384. 📚 docs: clarify environment setup
+0924. ✅ test: mock database connection in test suite
