@@ -102,3 +102,4 @@
 0259. 🚀 perf: lazy-load components
 0978. 🐛 fix: prevent crash on empty input
 0262. 🎨 style: remove trailing whitespace
+0384. 📚 docs: clarify environment setup
