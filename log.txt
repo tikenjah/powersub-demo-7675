@@ -5020,3 +5020,4 @@
 0188. 🎨 style: apply consistent indentation
 0382. 📚 docs: improve code comments in utils
 0764. ✨ feat: add user authentication
+0307. ✨ feat: support email verification
