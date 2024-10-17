@@ -96,3 +96,4 @@
 0395. 📚 docs: write FAQ section
 0374. 🎨 style: standardize quote style
 0625. 🐛 fix: handle 500 error in quiz API
+0420. 🚀 perf: reduce image load time
