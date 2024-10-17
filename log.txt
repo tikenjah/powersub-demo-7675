@@ -101,3 +101,4 @@
 0078. ♻️ chore: update .gitignore
 0259. 🚀 perf: lazy-load components
 0978. 🐛 fix: prevent crash on empty input
+0262. 🎨 style: remove trailing whitespace
