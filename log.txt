@@ -7012,3 +7012,4 @@
 0688. 🚀 perf: reduce image load time
 0836. 🚀 perf: optimize database query for quiz results
 0447. ♻️ chore: bump dependencies
+0557. 🔧 refactor: clean up auth middleware
