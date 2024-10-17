@@ -105,3 +105,4 @@
 0384. 📚 docs: clarify environment setup
 0924. ✅ test: mock database connection in test suite
 0032. 🎨 style: apply consistent indentation
+0962. ✨ feat: create admin dashboard
