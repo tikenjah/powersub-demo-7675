@@ -98,3 +98,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0420. 🚀 perf: reduce image load time
 0697. ♻️ chore: bump dependencies
+0078. ♻️ chore: update .gitignore
