@@ -6031,3 +6031,4 @@
 0501. ✨ feat: add export to CSV option
 0884. 📚 docs: clarify environment setup
 0012. 🚀 perf: cache repeated calculations
+0674. 🔧 refactor: split large controller into smaller functions
