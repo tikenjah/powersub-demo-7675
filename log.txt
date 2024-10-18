@@ -115,3 +115,4 @@
 0543. ✨ feat: support email verification
 0923. ✨ feat: support email verification
 0944. ✨ feat: add user authentication
+0940. 📚 docs: document token refresh logic
