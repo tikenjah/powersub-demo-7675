@@ -114,3 +114,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0543. ✨ feat: support email verification
 0923. ✨ feat: support email verification
+0944. ✨ feat: add user authentication
