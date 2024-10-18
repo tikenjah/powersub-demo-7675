@@ -9023,3 +9023,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0360. ✨ feat: add export to CSV option
 0800. 🚀 perf: optimize database query for quiz results
+0118. 🚀 perf: reduce image load time
