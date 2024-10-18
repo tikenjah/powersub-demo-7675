@@ -113,3 +113,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0218. 🔧 refactor: clean up auth middleware
 0543. ✨ feat: support email verification
+0923. ✨ feat: support email verification
