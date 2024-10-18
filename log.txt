@@ -6030,3 +6030,4 @@
 0504. 📚 docs: document token refresh logic
 0501. ✨ feat: add export to CSV option
 0884. 📚 docs: clarify environment setup
+0012. 🚀 perf: cache repeated calculations
