@@ -129,3 +129,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0868. ✅ test: add unit test for quiz service
 0740. 🐛 fix: resolve issue with date parsing
+0731. 🎨 style: standardize quote style
