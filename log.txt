@@ -7018,3 +7018,4 @@
 0734. ✨ feat: add export to CSV option
 0119. 📚 docs: improve code comments in utils
 0547. 📚 docs: write FAQ section
+0970. ♻️ chore: update .gitignore
