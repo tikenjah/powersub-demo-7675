@@ -10021,3 +10021,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
 0012. 🚀 perf: cache repeated calculations
+0316. 🐛 fix: fix broken CSS in mobile view
