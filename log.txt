@@ -9026,3 +9026,4 @@
 0118. 🚀 perf: reduce image load time
 0807. 🔧 refactor: remove redundant code blocks
 0217. 🚀 perf: reduce image load time
+0535. 📚 docs: write FAQ section
