@@ -132,3 +132,4 @@
 0731. 🎨 style: standardize quote style
 0783. 🐛 fix: handle 500 error in quiz API
 0774. 🔧 refactor: refactor quiz grading logic
+0767. 🔧 refactor: remove redundant code blocks
