@@ -141,3 +141,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0632. 🎨 style: remove trailing whitespace
 0582. ✨ feat: add export to CSV option
+0724. ✅ test: mock database connection in test suite
