@@ -143,3 +143,4 @@
 0582. ✨ feat: add export to CSV option
 0724. ✅ test: mock database connection in test suite
 0643. 🎨 style: apply consistent indentation
+0526. ✨ feat: add user authentication
