@@ -148,3 +148,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0597. 🚀 perf: cache repeated calculations
 0923. ✨ feat: support email verification
+0571. 🔧 refactor: clean up auth middleware
