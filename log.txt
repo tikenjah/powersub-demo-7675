@@ -7021,3 +7021,4 @@
 0970. ♻️ chore: update .gitignore
 0851. ✅ test: mock database connection in test suite
 0415. 🐛 fix: handle 500 error in quiz API
+0581. ✅ test: add integration test for /submit endpoint
