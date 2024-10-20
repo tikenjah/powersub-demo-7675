@@ -140,3 +140,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0959. 🐛 fix: fix null pointer exception on login
 0632. 🎨 style: remove trailing whitespace
+0582. ✨ feat: add export to CSV option
