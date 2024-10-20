@@ -146,3 +146,4 @@
 0526. ✨ feat: add user authentication
 0611. ✅ test: test user registration edge cases
 0840. 🔧 refactor: refactor quiz grading logic
+0597. 🚀 perf: cache repeated calculations
