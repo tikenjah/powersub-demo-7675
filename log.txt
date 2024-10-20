@@ -152,3 +152,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0976. ✨ feat: implement quiz timer feature
 0060. ♻️ chore: clean up unused files
+0893. 🐛 fix: handle 500 error in quiz API
