@@ -9034,3 +9034,4 @@
 0585. 🚀 perf: lazy-load components
 0430. 🐛 fix: fix null pointer exception on login
 0139. 📚 docs: document token refresh logic
+0875. ✅ test: increase coverage on auth module
