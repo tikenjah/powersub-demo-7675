@@ -8021,3 +8021,4 @@
 0455. ♻️ chore: clean up unused files
 0533. ♻️ chore: add GitHub actions badge
 0705. 🔧 refactor: refactor quiz grading logic
+0880. 🐛 fix: fix broken CSS in mobile view
