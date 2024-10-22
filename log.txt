@@ -8023,3 +8023,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0880. 🐛 fix: fix broken CSS in mobile view
 0175. 📚 docs: add API usage examples
+0752. ✅ test: add integration test for /submit endpoint
