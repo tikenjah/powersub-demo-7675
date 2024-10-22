@@ -6044,3 +6044,4 @@
 0798. 🚀 perf: reduce image load time
 0258. 🐛 fix: prevent crash on empty input
 0469. 🚀 perf: lazy-load components
+0280. ✅ test: add integration test for /submit endpoint
