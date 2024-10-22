@@ -9036,3 +9036,4 @@
 0139. 📚 docs: document token refresh logic
 0875. ✅ test: increase coverage on auth module
 0323. 📚 docs: clarify environment setup
+0059. ♻️ chore: bump dependencies
