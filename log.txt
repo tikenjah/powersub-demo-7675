@@ -6041,3 +6041,4 @@
 0843. 📚 docs: document token refresh logic
 0965. 🎨 style: reformat files with black
 0725. 🚀 perf: lazy-load components
+0798. 🚀 perf: reduce image load time
