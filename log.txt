@@ -6042,3 +6042,4 @@
 0965. 🎨 style: reformat files with black
 0725. 🚀 perf: lazy-load components
 0798. 🚀 perf: reduce image load time
+0258. 🐛 fix: prevent crash on empty input
