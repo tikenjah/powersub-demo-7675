@@ -5032,3 +5032,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0086. 🐛 fix: correct typo in registration form
 0454. ♻️ chore: bump dependencies
+0911. ✅ test: increase coverage on auth module
