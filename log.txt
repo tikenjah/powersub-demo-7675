@@ -7026,3 +7026,4 @@
 0561. 📚 docs: write FAQ section
 0868. ✅ test: add unit test for quiz service
 0401. 🚀 perf: reduce image load time
+0588. 🔧 refactor: organize models into subfolders
