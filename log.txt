@@ -183,3 +183,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0352. ✨ feat: add export to CSV option
 0479. 🐛 fix: fix null pointer exception on login
+0207. 🐛 fix: prevent crash on empty input
