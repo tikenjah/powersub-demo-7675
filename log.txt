@@ -10026,3 +10026,4 @@
 0583. ✅ test: increase coverage on auth module
 0372. ✨ feat: add user authentication
 0171. 🐛 fix: fix broken CSS in mobile view
+0673. 🐛 fix: correct typo in registration form
