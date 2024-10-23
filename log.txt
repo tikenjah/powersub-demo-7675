@@ -5036,3 +5036,4 @@
 0984. ♻️ chore: clean up unused files
 0342. 🚀 perf: cache repeated calculations
 0779. 🔧 refactor: organize models into subfolders
+0428. 🐛 fix: fix null pointer exception on login
