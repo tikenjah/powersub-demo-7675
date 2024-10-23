@@ -191,3 +191,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0210. 🎨 style: apply consistent indentation
 0297. 🎨 style: remove trailing whitespace
+0557. 🔧 refactor: clean up auth middleware
