@@ -10028,3 +10028,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0673. 🐛 fix: correct typo in registration form
 0961. 📚 docs: add API usage examples
+0776. ✅ test: add integration test for /submit endpoint
