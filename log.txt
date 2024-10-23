@@ -187,3 +187,4 @@
 0980. 🎨 style: reformat files with black
 0709. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
+0958. 🐛 fix: prevent crash on empty input
