@@ -5035,3 +5035,4 @@
 0911. ✅ test: increase coverage on auth module
 0984. ♻️ chore: clean up unused files
 0342. 🚀 perf: cache repeated calculations
+0779. 🔧 refactor: organize models into subfolders
