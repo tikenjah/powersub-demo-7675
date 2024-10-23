@@ -188,3 +188,4 @@
 0709. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
+0507. 🔧 refactor: clean up auth middleware
