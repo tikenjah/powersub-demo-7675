@@ -10030,3 +10030,4 @@
 0961. 📚 docs: add API usage examples
 0776. ✅ test: add integration test for /submit endpoint
 0832. 🔧 refactor: remove redundant code blocks
+0081. 🐛 fix: fix null pointer exception on login
