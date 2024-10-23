@@ -10027,3 +10027,4 @@
 0372. ✨ feat: add user authentication
 0171. 🐛 fix: fix broken CSS in mobile view
 0673. 🐛 fix: correct typo in registration form
+0961. 📚 docs: add API usage examples
