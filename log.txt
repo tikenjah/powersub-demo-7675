@@ -9037,3 +9037,4 @@
 0875. ✅ test: increase coverage on auth module
 0323. 📚 docs: clarify environment setup
 0059. ♻️ chore: bump dependencies
+0924. ✅ test: mock database connection in test suite
