@@ -8025,3 +8025,4 @@
 0175. 📚 docs: add API usage examples
 0752. ✅ test: add integration test for /submit endpoint
 0583. ✅ test: increase coverage on auth module
+0926. 🔧 refactor: organize models into subfolders
