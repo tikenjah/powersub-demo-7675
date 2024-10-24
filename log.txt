@@ -195,3 +195,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0285. 🐛 fix: resolve issue with date parsing
 0969. ✨ feat: create admin dashboard
+0652. 🔧 refactor: organize models into subfolders
