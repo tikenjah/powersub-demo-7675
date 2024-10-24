@@ -5038,3 +5038,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0428. 🐛 fix: fix null pointer exception on login
 0373. 📚 docs: document token refresh logic
+0461. ✨ feat: add user authentication
