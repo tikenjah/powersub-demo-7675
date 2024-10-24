@@ -199,3 +199,4 @@
 0787. ♻️ chore: rename env.example
 0881. 🔧 refactor: split large controller into smaller functions
 0251. ♻️ chore: update .gitignore
+0609. 🐛 fix: handle 500 error in quiz API
