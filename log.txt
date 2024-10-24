@@ -194,3 +194,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0316. 🐛 fix: fix broken CSS in mobile view
 0285. 🐛 fix: resolve issue with date parsing
+0969. ✨ feat: create admin dashboard
