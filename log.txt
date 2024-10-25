@@ -219,3 +219,4 @@
 0060. ♻️ chore: clean up unused files
 0583. ✅ test: increase coverage on auth module
 0356. 📚 docs: write FAQ section
+0096. 🐛 fix: prevent crash on empty input
