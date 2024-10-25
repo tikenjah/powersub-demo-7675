@@ -206,3 +206,4 @@
 0792. 🎨 style: standardize quote style
 0474. ✅ test: add unit test for quiz service
 0173. 🚀 perf: cache repeated calculations
+0116. ✨ feat: support email verification
