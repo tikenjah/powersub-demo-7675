@@ -209,3 +209,4 @@
 0116. ✨ feat: support email verification
 0204. 🎨 style: standardize quote style
 0650. ✅ test: add unit test for quiz service
+0756. ✨ feat: support email verification
