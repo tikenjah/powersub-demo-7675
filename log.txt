@@ -218,3 +218,4 @@
 0347. ♻️ chore: update .gitignore
 0060. ♻️ chore: clean up unused files
 0583. ✅ test: increase coverage on auth module
+0356. 📚 docs: write FAQ section
