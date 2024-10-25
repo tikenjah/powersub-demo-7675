@@ -212,3 +212,4 @@
 0756. ✨ feat: support email verification
 0805. ♻️ chore: add GitHub actions badge
 0948. 🐛 fix: fix broken CSS in mobile view
+0272. 🔧 refactor: remove redundant code blocks
