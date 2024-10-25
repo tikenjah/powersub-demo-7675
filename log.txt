@@ -6047,3 +6047,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0827. 🚀 perf: optimize database query for quiz results
 0683. ✅ test: mock database connection in test suite
+0455. ♻️ chore: clean up unused files
