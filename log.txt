@@ -5044,3 +5044,4 @@
 0786. ✨ feat: enable dark mode toggle
 0619. ✨ feat: create admin dashboard
 0710. 🐛 fix: fix broken CSS in mobile view
+0139. 📚 docs: document token refresh logic
