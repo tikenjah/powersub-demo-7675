@@ -223,3 +223,4 @@
 0170. ✅ test: increase coverage on auth module
 0931. 🚀 perf: reduce image load time
 0085. ✨ feat: support email verification
+0216. 🎨 style: rename variables for clarity
