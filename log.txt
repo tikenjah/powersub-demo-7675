@@ -221,3 +221,4 @@
 0356. 📚 docs: write FAQ section
 0096. 🐛 fix: prevent crash on empty input
 0170. ✅ test: increase coverage on auth module
+0931. 🚀 perf: reduce image load time
