@@ -6052,3 +6052,4 @@
 0902. ✨ feat: enable dark mode toggle
 0767. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
+0695. ✨ feat: create admin dashboard
