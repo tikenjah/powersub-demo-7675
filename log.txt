@@ -6054,3 +6054,4 @@
 0682. ♻️ chore: rename env.example
 0695. ✨ feat: create admin dashboard
 0439. 🐛 fix: correct typo in registration form
+0344. ♻️ chore: add GitHub actions badge
