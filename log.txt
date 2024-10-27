@@ -237,3 +237,4 @@
 0244. ✨ feat: add export to CSV option
 0178. ✨ feat: support email verification
 0798. 🚀 perf: reduce image load time
+0424. ✨ feat: add user authentication
