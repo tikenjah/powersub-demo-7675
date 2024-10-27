@@ -7041,3 +7041,4 @@
 0848. 📚 docs: update README with setup steps
 0346. ✅ test: mock database connection in test suite
 0430. 🐛 fix: fix null pointer exception on login
+0589. 🐛 fix: fix broken CSS in mobile view
