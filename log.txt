@@ -236,3 +236,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0244. ✨ feat: add export to CSV option
 0178. ✨ feat: support email verification
+0798. 🚀 perf: reduce image load time
