@@ -10036,3 +10036,4 @@
 0823. ✨ feat: add user authentication
 0792. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
+0068. 🐛 fix: fix null pointer exception on login
