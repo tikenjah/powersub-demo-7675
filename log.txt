@@ -10038,3 +10038,4 @@
 0336. ✨ feat: add export to CSV option
 0068. 🐛 fix: fix null pointer exception on login
 0685. ✅ test: test user registration edge cases
+0289. 🐛 fix: resolve issue with date parsing
