@@ -9043,3 +9043,4 @@
 0730. ✅ test: test user registration edge cases
 0321. 🔧 refactor: organize models into subfolders
 0081. 🐛 fix: fix null pointer exception on login
+0668. 🚀 perf: optimize database query for quiz results
