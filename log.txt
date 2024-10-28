@@ -239,3 +239,4 @@
 0798. 🚀 perf: reduce image load time
 0424. ✨ feat: add user authentication
 0113. ✨ feat: add user authentication
+0240. 🔧 refactor: remove redundant code blocks
