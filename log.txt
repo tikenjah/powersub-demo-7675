@@ -5051,3 +5051,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0273. 🚀 perf: reduce image load time
 0034. 📚 docs: improve code comments in utils
+0878. 🔧 refactor: split large controller into smaller functions
