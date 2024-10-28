@@ -249,3 +249,4 @@
 0682. ♻️ chore: rename env.example
 0485. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
+0668. 🚀 perf: optimize database query for quiz results
