@@ -261,3 +261,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0797. 📚 docs: add API usage examples
 0135. ✅ test: test user registration edge cases
+0042. 📚 docs: document token refresh logic
