@@ -256,3 +256,4 @@
 0172. 📚 docs: add API usage examples
 0648. ♻️ chore: bump dependencies
 0270. ♻️ chore: rename env.example
+0264. 🚀 perf: optimize database query for quiz results
