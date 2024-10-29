@@ -263,3 +263,4 @@
 0135. ✅ test: test user registration edge cases
 0042. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
+0158. 📚 docs: clarify environment setup
