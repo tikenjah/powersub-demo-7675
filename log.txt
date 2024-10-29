@@ -8038,3 +8038,4 @@
 0981. 🚀 perf: lazy-load components
 0877. 🚀 perf: optimize database query for quiz results
 0883. 📚 docs: improve code comments in utils
+0278. 🔧 refactor: clean up auth middleware
