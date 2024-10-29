@@ -10042,3 +10042,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0843. 📚 docs: document token refresh logic
 0489. 🔧 refactor: organize models into subfolders
+0257. 📚 docs: clarify environment setup
