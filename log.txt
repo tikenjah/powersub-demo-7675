@@ -10044,3 +10044,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0257. 📚 docs: clarify environment setup
 0448. 🐛 fix: correct typo in registration form
+0339. 📚 docs: update README with setup steps
