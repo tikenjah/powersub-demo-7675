@@ -10046,3 +10046,4 @@
 0448. 🐛 fix: correct typo in registration form
 0339. 📚 docs: update README with setup steps
 0792. 🎨 style: standardize quote style
+0971. 🎨 style: standardize quote style
