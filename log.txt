@@ -266,3 +266,4 @@
 0158. 📚 docs: clarify environment setup
 0154. 🐛 fix: prevent crash on empty input
 0451. ✨ feat: support email verification
+0906. 📚 docs: add API usage examples
