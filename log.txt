@@ -277,3 +277,4 @@
 0188. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
 0340. 🚀 perf: optimize database query for quiz results
+0291. 📚 docs: write FAQ section
