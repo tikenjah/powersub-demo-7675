@@ -264,3 +264,4 @@
 0042. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
 0158. 📚 docs: clarify environment setup
+0154. 🐛 fix: prevent crash on empty input
