@@ -9050,3 +9050,4 @@
 0250. 📚 docs: update README with setup steps
 0697. ♻️ chore: bump dependencies
 0029. 🚀 perf: lazy-load components
+0229. 🚀 perf: optimize database query for quiz results
