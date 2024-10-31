@@ -5056,3 +5056,4 @@
 0118. 🚀 perf: reduce image load time
 0935. 📚 docs: update README with setup steps
 0750. 🎨 style: apply consistent indentation
+0294. 🐛 fix: prevent crash on empty input
