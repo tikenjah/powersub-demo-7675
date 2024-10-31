@@ -285,3 +285,4 @@
 0899. 🚀 perf: cache repeated calculations
 0015. ✨ feat: implement quiz timer feature
 0465. 🎨 style: rename variables for clarity
+0571. 🔧 refactor: clean up auth middleware
