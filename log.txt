@@ -6061,3 +6061,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0834. ✅ test: increase coverage on auth module
 0204. 🎨 style: standardize quote style
+0079. 🐛 fix: correct typo in registration form
