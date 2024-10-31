@@ -10048,3 +10048,4 @@
 0792. 🎨 style: standardize quote style
 0971. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
+0104. 🎨 style: apply consistent indentation
