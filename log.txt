@@ -304,3 +304,4 @@
 0123. ✨ feat: implement quiz timer feature
 0119. 📚 docs: improve code comments in utils
 0338. ♻️ chore: add GitHub actions badge
+0846. ✨ feat: implement quiz timer feature
