@@ -299,3 +299,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0570. 🎨 style: apply consistent indentation
 0150. 🎨 style: remove trailing whitespace
+0522. 🐛 fix: handle 500 error in quiz API
