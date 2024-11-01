@@ -9058,3 +9058,4 @@
 0869. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
 0756. ✨ feat: support email verification
+0562. 🔧 refactor: clean up auth middleware
