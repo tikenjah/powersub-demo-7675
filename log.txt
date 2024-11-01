@@ -9057,3 +9057,4 @@
 0593. 🐛 fix: correct typo in registration form
 0869. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
+0756. ✨ feat: support email verification
