@@ -7053,3 +7053,4 @@
 0970. ♻️ chore: update .gitignore
 0639. 🐛 fix: correct typo in registration form
 0749. ✨ feat: support email verification
+0417. 🎨 style: rename variables for clarity
