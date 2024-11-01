@@ -297,3 +297,4 @@
 0962. ✨ feat: create admin dashboard
 0500. ✅ test: add integration test for /submit endpoint
 0578. ✅ test: add integration test for /submit endpoint
+0570. 🎨 style: apply consistent indentation
