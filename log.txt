@@ -313,3 +313,4 @@
 0724. ✅ test: mock database connection in test suite
 0336. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
+0118. 🚀 perf: reduce image load time
