@@ -318,3 +318,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0148. 🔧 refactor: organize models into subfolders
 0209. ✨ feat: implement quiz timer feature
+0258. 🐛 fix: prevent crash on empty input
