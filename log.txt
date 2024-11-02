@@ -324,3 +324,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0438. ♻️ chore: bump dependencies
 0631. ✨ feat: create admin dashboard
+0676. 🐛 fix: prevent crash on empty input
