@@ -326,3 +326,4 @@
 0631. ✨ feat: create admin dashboard
 0676. 🐛 fix: prevent crash on empty input
 0852. ✨ feat: enable dark mode toggle
+0995. ✅ test: mock database connection in test suite
