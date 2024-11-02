@@ -310,3 +310,4 @@
 0332. 🎨 style: standardize quote style
 0561. 📚 docs: write FAQ section
 0968. 🎨 style: standardize quote style
+0724. ✅ test: mock database connection in test suite
