@@ -7058,3 +7058,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0909. 🔧 refactor: organize models into subfolders
 0204. 🎨 style: standardize quote style
+0063. 🐛 fix: handle 500 error in quiz API
