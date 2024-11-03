@@ -331,3 +331,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0305. ✨ feat: enable dark mode toggle
 0301. 🎨 style: apply consistent indentation
+0074. ♻️ chore: add GitHub actions badge
