@@ -6066,3 +6066,4 @@
 0121. ✨ feat: support email verification
 0608. 🔧 refactor: remove redundant code blocks
 0603. 🐛 fix: fix broken CSS in mobile view
+0356. 📚 docs: write FAQ section
