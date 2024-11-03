@@ -334,3 +334,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0061. ✨ feat: create admin dashboard
 0259. 🚀 perf: lazy-load components
+0847. ♻️ chore: clean up unused files
