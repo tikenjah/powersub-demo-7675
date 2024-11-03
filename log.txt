@@ -10056,3 +10056,4 @@
 0077. ♻️ chore: rename env.example
 0335. ♻️ chore: update .gitignore
 0061. ✨ feat: create admin dashboard
+0639. 🐛 fix: correct typo in registration form
