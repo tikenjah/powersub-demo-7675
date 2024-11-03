@@ -8051,3 +8051,4 @@
 0333. 🚀 perf: cache repeated calculations
 0292. 📚 docs: clarify environment setup
 0271. ✅ test: add unit test for quiz service
+0551. 📚 docs: write FAQ section
