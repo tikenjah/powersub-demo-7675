@@ -348,3 +348,4 @@
 0357. ✅ test: add unit test for quiz service
 0142. ✨ feat: implement quiz timer feature
 0470. 🎨 style: remove trailing whitespace
+0841. 🚀 perf: optimize database query for quiz results
