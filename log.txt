@@ -9065,3 +9065,4 @@
 0083. 🎨 style: reformat files with black
 0338. ♻️ chore: add GitHub actions badge
 0509. ♻️ chore: bump dependencies
+0114. ♻️ chore: update .gitignore
