@@ -8055,3 +8055,4 @@
 0971. 🎨 style: standardize quote style
 0265. 🎨 style: reformat files with black
 0895. ✨ feat: support email verification
+0887. 📚 docs: add API usage examples
