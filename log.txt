@@ -9063,3 +9063,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0123. ✨ feat: implement quiz timer feature
 0083. 🎨 style: reformat files with black
+0338. ♻️ chore: add GitHub actions badge
