@@ -356,3 +356,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0187. ✨ feat: support email verification
 0828. ♻️ chore: add GitHub actions badge
+0107. 🐛 fix: prevent crash on empty input
