@@ -358,3 +358,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0107. 🐛 fix: prevent crash on empty input
 0349. ✅ test: increase coverage on auth module
+0237. 🎨 style: standardize quote style
