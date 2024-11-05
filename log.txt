@@ -368,3 +368,4 @@
 0837. 🚀 perf: cache repeated calculations
 0529. 📚 docs: write FAQ section
 0396. 🔧 refactor: split large controller into smaller functions
+0218. 🔧 refactor: clean up auth middleware
