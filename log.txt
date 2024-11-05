@@ -6072,3 +6072,4 @@
 0928. 🎨 style: apply consistent indentation
 0937. 🐛 fix: handle 500 error in quiz API
 0430. 🐛 fix: fix null pointer exception on login
+0364. 🐛 fix: resolve issue with date parsing
