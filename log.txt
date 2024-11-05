@@ -10065,3 +10065,4 @@
 0861. ♻️ chore: clean up unused files
 0151. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
+0358. 🚀 perf: reduce image load time
