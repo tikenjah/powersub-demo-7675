@@ -360,3 +360,4 @@
 0349. ✅ test: increase coverage on auth module
 0237. 🎨 style: standardize quote style
 0287. 📚 docs: write FAQ section
+0556. ✨ feat: support email verification
