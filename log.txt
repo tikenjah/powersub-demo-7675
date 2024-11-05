@@ -5064,3 +5064,4 @@
 0121. ✨ feat: support email verification
 0502. 📚 docs: update README with setup steps
 0003. ✅ test: increase coverage on auth module
+0598. 🔧 refactor: remove redundant code blocks
