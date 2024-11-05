@@ -366,3 +366,4 @@
 0044. ✅ test: add unit test for quiz service
 0626. 🎨 style: standardize quote style
 0837. 🚀 perf: cache repeated calculations
+0529. 📚 docs: write FAQ section
