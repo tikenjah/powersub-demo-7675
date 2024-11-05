@@ -361,3 +361,4 @@
 0237. 🎨 style: standardize quote style
 0287. 📚 docs: write FAQ section
 0556. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
