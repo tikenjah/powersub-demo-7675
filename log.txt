@@ -7066,3 +7066,4 @@
 0037. 🐛 fix: correct typo in registration form
 0876. ♻️ chore: rename env.example
 0561. 📚 docs: write FAQ section
+0006. 🐛 fix: prevent crash on empty input
