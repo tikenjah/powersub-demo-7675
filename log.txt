@@ -9075,3 +9075,4 @@
 0232. 🎨 style: apply consistent indentation
 0529. 📚 docs: write FAQ section
 0102. ✨ feat: support email verification
+0374. 🎨 style: standardize quote style
