@@ -389,3 +389,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0714. 📚 docs: improve code comments in utils
 0245. 🐛 fix: resolve issue with date parsing
+0726. ✨ feat: enable dark mode toggle
