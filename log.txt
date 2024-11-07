@@ -384,3 +384,4 @@
 0352. ✨ feat: add export to CSV option
 0196. ♻️ chore: bump dependencies
 0864. 🐛 fix: correct typo in registration form
+0219. ✅ test: increase coverage on auth module
