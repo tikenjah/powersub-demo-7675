@@ -382,3 +382,4 @@
 0374. 🎨 style: standardize quote style
 0209. ✨ feat: implement quiz timer feature
 0352. ✨ feat: add export to CSV option
+0196. ♻️ chore: bump dependencies
