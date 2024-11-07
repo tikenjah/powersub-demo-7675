@@ -393,3 +393,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0291. 📚 docs: write FAQ section
 0746. ♻️ chore: add GitHub actions badge
+0699. 🎨 style: standardize quote style
