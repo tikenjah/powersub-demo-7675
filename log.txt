@@ -5069,3 +5069,4 @@
 0519. 📚 docs: document token refresh logic
 0593. 🐛 fix: correct typo in registration form
 0935. 📚 docs: update README with setup steps
+0135. ✅ test: test user registration edge cases
