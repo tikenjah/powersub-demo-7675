@@ -8062,3 +8062,4 @@
 0143. ✨ feat: implement quiz timer feature
 0839. 🎨 style: apply consistent indentation
 0307. ✨ feat: support email verification
+0077. ♻️ chore: rename env.example
