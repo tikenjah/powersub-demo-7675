@@ -396,3 +396,4 @@
 0699. 🎨 style: standardize quote style
 0558. ✨ feat: enable dark mode toggle
 0611. ✅ test: test user registration edge cases
+0233. 🚀 perf: lazy-load components
