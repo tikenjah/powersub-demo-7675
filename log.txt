@@ -7073,3 +7073,4 @@
 0090. ✅ test: increase coverage on auth module
 0563. 📚 docs: clarify environment setup
 0506. 🐛 fix: handle 500 error in quiz API
+0298. ♻️ chore: update .gitignore
