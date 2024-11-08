@@ -9081,3 +9081,4 @@
 0512. 🚀 perf: reduce image load time
 0530. 🔧 refactor: refactor quiz grading logic
 0538. 🐛 fix: fix broken CSS in mobile view
+0539. 🔧 refactor: organize models into subfolders
