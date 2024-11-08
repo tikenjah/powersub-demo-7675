@@ -401,3 +401,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0697. ♻️ chore: bump dependencies
 0336. ✨ feat: add export to CSV option
+0805. ♻️ chore: add GitHub actions badge
