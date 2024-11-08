@@ -10071,3 +10071,4 @@
 0305. ✨ feat: enable dark mode toggle
 0513. ♻️ chore: bump dependencies
 0185. 📚 docs: write FAQ section
+0460. 📚 docs: write FAQ section
