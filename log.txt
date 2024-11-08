@@ -7074,3 +7074,4 @@
 0563. 📚 docs: clarify environment setup
 0506. 🐛 fix: handle 500 error in quiz API
 0298. ♻️ chore: update .gitignore
+0450. 🐛 fix: fix broken CSS in mobile view
