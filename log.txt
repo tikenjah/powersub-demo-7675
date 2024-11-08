@@ -6083,3 +6083,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0285. 🐛 fix: resolve issue with date parsing
 0682. ♻️ chore: rename env.example
+0220. 🐛 fix: fix null pointer exception on login
