@@ -408,3 +408,4 @@
 0269. ✅ test: test user registration edge cases
 0531. 🐛 fix: prevent crash on empty input
 0878. 🔧 refactor: split large controller into smaller functions
+0980. 🎨 style: reformat files with black
