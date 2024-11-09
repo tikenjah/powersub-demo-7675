@@ -416,3 +416,4 @@
 0756. ✨ feat: support email verification
 0800. 🚀 perf: optimize database query for quiz results
 0407. 🚀 perf: cache repeated calculations
+0946. ✅ test: add unit test for quiz service
