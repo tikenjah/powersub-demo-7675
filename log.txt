@@ -412,3 +412,4 @@
 0954. 🚀 perf: cache repeated calculations
 0607. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
+0576. ♻️ chore: update .gitignore
