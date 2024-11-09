@@ -403,3 +403,4 @@
 0336. ✨ feat: add export to CSV option
 0805. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
+0289. 🐛 fix: resolve issue with date parsing
