@@ -413,3 +413,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
 0576. ♻️ chore: update .gitignore
+0756. ✨ feat: support email verification
