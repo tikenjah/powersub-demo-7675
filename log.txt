@@ -405,3 +405,4 @@
 0019. ✨ feat: enable dark mode toggle
 0289. 🐛 fix: resolve issue with date parsing
 0324. 📚 docs: document token refresh logic
+0269. ✅ test: test user registration edge cases
