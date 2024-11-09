@@ -7076,3 +7076,4 @@
 0298. ♻️ chore: update .gitignore
 0450. 🐛 fix: fix broken CSS in mobile view
 0644. 🎨 style: apply consistent indentation
+0475. 🔧 refactor: clean up auth middleware
