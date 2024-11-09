@@ -414,3 +414,4 @@
 0061. ✨ feat: create admin dashboard
 0576. ♻️ chore: update .gitignore
 0756. ✨ feat: support email verification
+0800. 🚀 perf: optimize database query for quiz results
