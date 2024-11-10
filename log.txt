@@ -426,3 +426,4 @@
 0648. ♻️ chore: bump dependencies
 0967. ♻️ chore: add GitHub actions badge
 0986. 📚 docs: document token refresh logic
+0910. 🎨 style: remove trailing whitespace
