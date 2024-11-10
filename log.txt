@@ -6088,3 +6088,4 @@
 0646. ✅ test: test user registration edge cases
 0100. ♻️ chore: update .gitignore
 0305. ✨ feat: enable dark mode toggle
+0507. 🔧 refactor: clean up auth middleware
