@@ -429,3 +429,4 @@
 0910. 🎨 style: remove trailing whitespace
 0957. 🐛 fix: fix null pointer exception on login
 0602. 🔧 refactor: remove redundant code blocks
+0990. ♻️ chore: rename env.example
