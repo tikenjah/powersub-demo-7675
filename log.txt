@@ -5075,3 +5075,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0863. 🐛 fix: correct typo in registration form
 0807. 🔧 refactor: remove redundant code blocks
+0603. 🐛 fix: fix broken CSS in mobile view
