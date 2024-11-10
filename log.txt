@@ -419,3 +419,4 @@
 0946. ✅ test: add unit test for quiz service
 0525. ✅ test: mock database connection in test suite
 0399. ✅ test: mock database connection in test suite
+0403. ✅ test: mock database connection in test suite
