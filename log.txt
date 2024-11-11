@@ -435,3 +435,4 @@
 0768. 🎨 style: remove trailing whitespace
 0487. 🎨 style: reformat files with black
 0927. ♻️ chore: bump dependencies
+0897. 🐛 fix: prevent crash on empty input
