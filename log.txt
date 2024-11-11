@@ -9087,3 +9087,4 @@
 0510. 🎨 style: rename variables for clarity
 0524. ♻️ chore: rename env.example
 0449. ✅ test: add unit test for quiz service
+0956. 📚 docs: clarify environment setup
