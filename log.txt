@@ -441,3 +441,4 @@
 0023. 📚 docs: clarify environment setup
 0392. 🎨 style: remove trailing whitespace
 0657. 🎨 style: standardize quote style
+0764. ✨ feat: add user authentication
