@@ -443,3 +443,4 @@
 0657. 🎨 style: standardize quote style
 0764. ✨ feat: add user authentication
 0252. 🎨 style: remove trailing whitespace
+0536. ✨ feat: add user authentication
