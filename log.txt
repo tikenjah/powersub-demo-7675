@@ -9089,3 +9089,4 @@
 0449. ✅ test: add unit test for quiz service
 0956. 📚 docs: clarify environment setup
 0435. ✅ test: add unit test for quiz service
+0297. 🎨 style: remove trailing whitespace
