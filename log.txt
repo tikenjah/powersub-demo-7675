@@ -7087,3 +7087,4 @@
 0579. 📚 docs: clarify environment setup
 0790. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
+0840. 🔧 refactor: refactor quiz grading logic
