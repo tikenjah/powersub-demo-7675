@@ -7085,3 +7085,4 @@
 0715. ✨ feat: create admin dashboard
 0474. ✅ test: add unit test for quiz service
 0579. 📚 docs: clarify environment setup
+0790. 📚 docs: write FAQ section
