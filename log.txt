@@ -8075,3 +8075,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0726. ✨ feat: enable dark mode toggle
 0990. ♻️ chore: rename env.example
+0048. 📚 docs: update README with setup steps
