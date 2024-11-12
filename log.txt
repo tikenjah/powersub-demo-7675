@@ -446,3 +446,4 @@
 0536. ✨ feat: add user authentication
 0939. 📚 docs: update README with setup steps
 0166. 🚀 perf: cache repeated calculations
+0140. 🐛 fix: handle 500 error in quiz API
