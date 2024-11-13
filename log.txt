@@ -451,3 +451,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0943. 🎨 style: rename variables for clarity
 0567. 📚 docs: add API usage examples
+0895. ✨ feat: support email verification
