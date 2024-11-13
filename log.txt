@@ -459,3 +459,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0054. ♻️ chore: update .gitignore
 0446. 🎨 style: apply consistent indentation
+0666. 🐛 fix: fix broken CSS in mobile view
