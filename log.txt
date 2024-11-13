@@ -6099,3 +6099,4 @@
 0960. ✅ test: increase coverage on auth module
 0605. ✨ feat: support email verification
 0829. 🔧 refactor: organize models into subfolders
+0076. 🎨 style: reformat files with black
