@@ -464,3 +464,4 @@
 0811. 🎨 style: reformat files with black
 0591. ♻️ chore: clean up unused files
 0272. 🔧 refactor: remove redundant code blocks
+0945. ♻️ chore: add GitHub actions badge
