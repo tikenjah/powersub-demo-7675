@@ -473,3 +473,4 @@
 0889. 🚀 perf: lazy-load components
 0804. ♻️ chore: add GitHub actions badge
 0968. 🎨 style: standardize quote style
+0408. ♻️ chore: add GitHub actions badge
