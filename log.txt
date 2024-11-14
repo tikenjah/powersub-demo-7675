@@ -7091,3 +7091,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0887. 📚 docs: add API usage examples
 0174. 📚 docs: clarify environment setup
+0131. 📚 docs: write FAQ section
