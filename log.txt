@@ -6101,3 +6101,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0076. 🎨 style: reformat files with black
 0633. ✨ feat: add user authentication
+0074. ♻️ chore: add GitHub actions badge
