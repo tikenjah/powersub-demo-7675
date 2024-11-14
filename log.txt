@@ -469,3 +469,4 @@
 0739. 🎨 style: remove trailing whitespace
 0033. 🎨 style: apply consistent indentation
 0389. 📚 docs: improve code comments in utils
+0979. 🎨 style: standardize quote style
