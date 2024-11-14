@@ -7089,3 +7089,4 @@
 0895. ✨ feat: support email verification
 0840. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
+0887. 📚 docs: add API usage examples
