@@ -9094,3 +9094,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0232. 🎨 style: apply consistent indentation
 0680. ♻️ chore: add GitHub actions badge
+0094. 📚 docs: document token refresh logic
