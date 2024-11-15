@@ -475,3 +475,4 @@
 0968. 🎨 style: standardize quote style
 0408. ♻️ chore: add GitHub actions badge
 0358. 🚀 perf: reduce image load time
+0869. ♻️ chore: bump dependencies
