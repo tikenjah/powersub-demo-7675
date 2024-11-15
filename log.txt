@@ -478,3 +478,4 @@
 0869. ♻️ chore: bump dependencies
 0926. 🔧 refactor: organize models into subfolders
 0131. 📚 docs: write FAQ section
+0703. 🔧 refactor: clean up auth middleware
