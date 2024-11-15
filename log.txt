@@ -476,3 +476,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0358. 🚀 perf: reduce image load time
 0869. ♻️ chore: bump dependencies
+0926. 🔧 refactor: organize models into subfolders
