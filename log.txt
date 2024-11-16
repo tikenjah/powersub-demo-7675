@@ -8088,3 +8088,4 @@
 0923. ✨ feat: support email verification
 0054. ♻️ chore: update .gitignore
 0362. 📚 docs: add API usage examples
+0040. 🔧 refactor: clean up auth middleware
