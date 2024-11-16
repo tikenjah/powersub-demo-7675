@@ -9106,3 +9106,4 @@
 0847. ♻️ chore: clean up unused files
 0116. ✨ feat: support email verification
 0421. 🔧 refactor: split large controller into smaller functions
+0203. 🚀 perf: lazy-load components
