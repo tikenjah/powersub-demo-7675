@@ -500,3 +500,4 @@
 0100. ♻️ chore: update .gitignore
 0323. 📚 docs: clarify environment setup
 0976. ✨ feat: implement quiz timer feature
+0140. 🐛 fix: handle 500 error in quiz API
