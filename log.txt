@@ -495,3 +495,4 @@
 0610. 🚀 perf: lazy-load components
 0837. 🚀 perf: cache repeated calculations
 0541. 🐛 fix: correct typo in registration form
+0462. ♻️ chore: update .gitignore
