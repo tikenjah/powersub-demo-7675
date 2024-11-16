@@ -489,3 +489,4 @@
 0471. ✨ feat: support email verification
 0715. ✨ feat: create admin dashboard
 0877. 🚀 perf: optimize database query for quiz results
+0463. 🚀 perf: reduce image load time
