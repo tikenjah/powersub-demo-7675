@@ -6110,3 +6110,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0463. 🚀 perf: reduce image load time
 0925. ✨ feat: add export to CSV option
+0798. 🚀 perf: reduce image load time
