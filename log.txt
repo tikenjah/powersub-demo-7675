@@ -10091,3 +10091,4 @@
 0395. 📚 docs: write FAQ section
 0348. ✅ test: test user registration edge cases
 0289. 🐛 fix: resolve issue with date parsing
+0172. 📚 docs: add API usage examples
