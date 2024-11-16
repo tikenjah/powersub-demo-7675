@@ -6112,3 +6112,4 @@
 0925. ✨ feat: add export to CSV option
 0798. 🚀 perf: reduce image load time
 0330. ✅ test: test user registration edge cases
+0409. 🚀 perf: lazy-load components
