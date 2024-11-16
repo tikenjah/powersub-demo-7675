@@ -8085,3 +8085,4 @@
 0855. 🎨 style: reformat files with black
 0344. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0923. ✨ feat: support email verification
