@@ -8094,3 +8094,4 @@
 0424. ✨ feat: add user authentication
 0964. ♻️ chore: clean up unused files
 0103. 🔧 refactor: remove redundant code blocks
+0783. 🐛 fix: handle 500 error in quiz API
