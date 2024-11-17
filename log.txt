@@ -8092,3 +8092,4 @@
 0586. 🎨 style: remove trailing whitespace
 0789. ✨ feat: create admin dashboard
 0424. ✨ feat: add user authentication
+0964. ♻️ chore: clean up unused files
