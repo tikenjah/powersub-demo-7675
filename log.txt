@@ -514,3 +514,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0850. ♻️ chore: rename env.example
 0398. 🚀 perf: cache repeated calculations
+0576. ♻️ chore: update .gitignore
