@@ -9112,3 +9112,4 @@
 0419. 🎨 style: remove trailing whitespace
 0501. ✨ feat: add export to CSV option
 0457. 🐛 fix: handle 500 error in quiz API
+0549. ✨ feat: enable dark mode toggle
