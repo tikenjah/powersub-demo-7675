@@ -505,3 +505,4 @@
 0639. 🐛 fix: correct typo in registration form
 0885. ♻️ chore: update .gitignore
 0236. 🔧 refactor: remove redundant code blocks
+0863. 🐛 fix: correct typo in registration form
