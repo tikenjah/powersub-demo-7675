@@ -512,3 +512,4 @@
 0281. ✨ feat: support email verification
 0751. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
+0850. ♻️ chore: rename env.example
