@@ -502,3 +502,4 @@
 0976. ✨ feat: implement quiz timer feature
 0140. 🐛 fix: handle 500 error in quiz API
 0473. 📚 docs: write FAQ section
+0639. 🐛 fix: correct typo in registration form
