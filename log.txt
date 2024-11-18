@@ -518,3 +518,4 @@
 0308. 🚀 perf: reduce image load time
 0381. ♻️ chore: clean up unused files
 0302. ✨ feat: implement quiz timer feature
+0498. ✅ test: mock database connection in test suite
