@@ -517,3 +517,4 @@
 0576. ♻️ chore: update .gitignore
 0308. 🚀 perf: reduce image load time
 0381. ♻️ chore: clean up unused files
+0302. ✨ feat: implement quiz timer feature
