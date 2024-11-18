@@ -521,3 +521,4 @@
 0498. ✅ test: mock database connection in test suite
 0202. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0836. 🚀 perf: optimize database query for quiz results
