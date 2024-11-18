@@ -8096,3 +8096,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0783. 🐛 fix: handle 500 error in quiz API
 0317. ✅ test: test user registration edge cases
+0607. 🐛 fix: prevent crash on empty input
