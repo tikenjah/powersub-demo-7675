@@ -10097,3 +10097,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0405. ✅ test: mock database connection in test suite
 0719. 🎨 style: apply consistent indentation
+0018. 🔧 refactor: organize models into subfolders
