@@ -538,3 +538,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0706. ✨ feat: support email verification
 0242. ♻️ chore: clean up unused files
+0603. 🐛 fix: fix broken CSS in mobile view
