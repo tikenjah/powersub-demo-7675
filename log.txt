@@ -535,3 +535,4 @@
 0092. 🚀 perf: reduce image load time
 0365. 🚀 perf: reduce image load time
 0757. 🔧 refactor: remove redundant code blocks
+0958. 🐛 fix: prevent crash on empty input
