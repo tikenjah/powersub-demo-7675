@@ -6117,3 +6117,4 @@
 0677. 📚 docs: add API usage examples
 0077. ♻️ chore: rename env.example
 0893. 🐛 fix: handle 500 error in quiz API
+0908. ♻️ chore: bump dependencies
