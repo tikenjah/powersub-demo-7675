@@ -533,3 +533,4 @@
 0492. 🎨 style: remove trailing whitespace
 0306. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0365. 🚀 perf: reduce image load time
