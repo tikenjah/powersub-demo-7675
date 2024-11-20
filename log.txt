@@ -10102,3 +10102,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0417. 🎨 style: rename variables for clarity
 0798. 🚀 perf: reduce image load time
+0545. 🎨 style: standardize quote style
