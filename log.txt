@@ -543,3 +543,4 @@
 0476. 🚀 perf: reduce image load time
 0373. 📚 docs: document token refresh logic
 0269. ✅ test: test user registration edge cases
+0960. ✅ test: increase coverage on auth module
