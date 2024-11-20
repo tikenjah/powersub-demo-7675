@@ -6121,3 +6121,4 @@
 0143. ✨ feat: implement quiz timer feature
 0738. 🐛 fix: prevent crash on empty input
 0502. 📚 docs: update README with setup steps
+0538. 🐛 fix: fix broken CSS in mobile view
