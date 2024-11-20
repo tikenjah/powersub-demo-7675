@@ -549,3 +549,4 @@
 0389. 📚 docs: improve code comments in utils
 0586. 🎨 style: remove trailing whitespace
 0423. ✅ test: mock database connection in test suite
+0996. ✅ test: test user registration edge cases
