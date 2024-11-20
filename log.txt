@@ -550,3 +550,4 @@
 0586. 🎨 style: remove trailing whitespace
 0423. ✅ test: mock database connection in test suite
 0996. ✅ test: test user registration edge cases
+0838. 🎨 style: standardize quote style
