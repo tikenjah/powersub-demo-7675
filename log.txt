@@ -540,3 +540,4 @@
 0242. ♻️ chore: clean up unused files
 0603. 🐛 fix: fix broken CSS in mobile view
 0363. 📚 docs: clarify environment setup
+0476. 🚀 perf: reduce image load time
