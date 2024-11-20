@@ -544,3 +544,4 @@
 0373. 📚 docs: document token refresh logic
 0269. ✅ test: test user registration edge cases
 0960. ✅ test: increase coverage on auth module
+0338. ♻️ chore: add GitHub actions badge
