@@ -559,3 +559,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0288. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
+0647. 🐛 fix: prevent crash on empty input
