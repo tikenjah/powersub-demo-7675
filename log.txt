@@ -555,3 +555,4 @@
 0927. ♻️ chore: bump dependencies
 0324. 📚 docs: document token refresh logic
 0908. ♻️ chore: bump dependencies
+0884. 📚 docs: clarify environment setup
