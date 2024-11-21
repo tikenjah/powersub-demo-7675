@@ -553,3 +553,4 @@
 0838. 🎨 style: standardize quote style
 0663. 🚀 perf: reduce image load time
 0927. ♻️ chore: bump dependencies
+0324. 📚 docs: document token refresh logic
