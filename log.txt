@@ -561,3 +561,4 @@
 0770. ♻️ chore: rename env.example
 0647. 🐛 fix: prevent crash on empty input
 0054. ♻️ chore: update .gitignore
+0649. 📚 docs: update README with setup steps
