@@ -6125,3 +6125,4 @@
 0305. ✨ feat: enable dark mode toggle
 0597. 🚀 perf: cache repeated calculations
 0760. 🐛 fix: resolve issue with date parsing
+0144. ✅ test: increase coverage on auth module
