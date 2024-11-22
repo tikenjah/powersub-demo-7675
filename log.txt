@@ -8104,3 +8104,4 @@
 0332. 🎨 style: standardize quote style
 1000. ✅ test: increase coverage on auth module
 0615. 🐛 fix: correct typo in registration form
+0546. 🐛 fix: fix null pointer exception on login
