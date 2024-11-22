@@ -569,3 +569,4 @@
 0341. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
 0443. 🎨 style: standardize quote style
+0243. 🔧 refactor: clean up auth middleware
