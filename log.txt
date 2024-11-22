@@ -563,3 +563,4 @@
 0054. ♻️ chore: update .gitignore
 0649. 📚 docs: update README with setup steps
 0589. 🐛 fix: fix broken CSS in mobile view
+0799. ♻️ chore: clean up unused files
