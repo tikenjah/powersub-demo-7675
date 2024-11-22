@@ -8103,3 +8103,4 @@
 0393. 🚀 perf: lazy-load components
 0332. 🎨 style: standardize quote style
 1000. ✅ test: increase coverage on auth module
+0615. 🐛 fix: correct typo in registration form
