@@ -7108,3 +7108,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0852. ✨ feat: enable dark mode toggle
 0619. ✨ feat: create admin dashboard
+0186. ✅ test: test user registration edge cases
