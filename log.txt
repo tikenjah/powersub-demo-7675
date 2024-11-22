@@ -8102,3 +8102,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0393. 🚀 perf: lazy-load components
 0332. 🎨 style: standardize quote style
+1000. ✅ test: increase coverage on auth module
