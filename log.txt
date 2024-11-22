@@ -6126,3 +6126,4 @@
 0597. 🚀 perf: cache repeated calculations
 0760. 🐛 fix: resolve issue with date parsing
 0144. ✅ test: increase coverage on auth module
+0758. 🚀 perf: optimize database query for quiz results
