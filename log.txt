@@ -9128,3 +9128,4 @@
 0525. ✅ test: mock database connection in test suite
 0424. ✨ feat: add user authentication
 0592. 📚 docs: add API usage examples
+0778. 📚 docs: write FAQ section
