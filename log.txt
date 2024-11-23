@@ -602,3 +602,4 @@
 0394. 🚀 perf: lazy-load components
 0389. 📚 docs: improve code comments in utils
 0284. ✨ feat: implement quiz timer feature
+0144. ✅ test: increase coverage on auth module
