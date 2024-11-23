@@ -590,3 +590,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0090. ✅ test: increase coverage on auth module
 0209. ✨ feat: implement quiz timer feature
+0456. 🚀 perf: optimize database query for quiz results
