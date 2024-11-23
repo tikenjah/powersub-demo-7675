@@ -7112,3 +7112,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0650. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
+0961. 📚 docs: add API usage examples
