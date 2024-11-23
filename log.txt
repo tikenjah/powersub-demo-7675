@@ -596,3 +596,4 @@
 0623. 🎨 style: standardize quote style
 0723. 🔧 refactor: remove redundant code blocks
 0392. 🎨 style: remove trailing whitespace
+0629. 🔧 refactor: organize models into subfolders
