@@ -9133,3 +9133,4 @@
 0115. 🚀 perf: reduce image load time
 0569. 📚 docs: document token refresh logic
 0116. ✨ feat: support email verification
+0787. ♻️ chore: rename env.example
