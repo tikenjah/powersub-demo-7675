@@ -8107,3 +8107,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0022. 📚 docs: document token refresh logic
 0398. 🚀 perf: cache repeated calculations
+0355. 🚀 perf: optimize database query for quiz results
