@@ -7113,3 +7113,4 @@
 0650. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
 0961. 📚 docs: add API usage examples
+0878. 🔧 refactor: split large controller into smaller functions
