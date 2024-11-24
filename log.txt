@@ -6127,3 +6127,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0144. ✅ test: increase coverage on auth module
 0758. 🚀 perf: optimize database query for quiz results
+0111. 📚 docs: update README with setup steps
