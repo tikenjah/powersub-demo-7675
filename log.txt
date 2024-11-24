@@ -612,3 +612,4 @@
 0797. 📚 docs: add API usage examples
 0790. 📚 docs: write FAQ section
 0191. 🔧 refactor: refactor quiz grading logic
+0997. ✅ test: increase coverage on auth module
