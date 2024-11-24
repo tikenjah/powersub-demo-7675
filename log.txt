@@ -606,3 +606,4 @@
 0885. ♻️ chore: update .gitignore
 0155. ✨ feat: create admin dashboard
 0461. ✨ feat: add user authentication
+0949. 📚 docs: write FAQ section
