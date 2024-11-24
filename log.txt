@@ -608,3 +608,4 @@
 0461. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
 0532. 🔧 refactor: split large controller into smaller functions
+0742. 📚 docs: clarify environment setup
