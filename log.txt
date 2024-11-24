@@ -616,3 +616,4 @@
 0942. ✅ test: increase coverage on auth module
 0971. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
+0754. 🐛 fix: handle 500 error in quiz API
