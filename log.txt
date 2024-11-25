@@ -10118,3 +10118,4 @@
 0451. ✨ feat: support email verification
 0582. ✨ feat: add export to CSV option
 0926. 🔧 refactor: organize models into subfolders
+0305. ✨ feat: enable dark mode toggle
