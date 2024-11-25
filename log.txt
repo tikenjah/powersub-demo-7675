@@ -7117,3 +7117,4 @@
 0427. ✅ test: mock database connection in test suite
 0774. 🔧 refactor: refactor quiz grading logic
 0804. ♻️ chore: add GitHub actions badge
+0564. 📚 docs: clarify environment setup
