@@ -624,3 +624,4 @@
 0244. ✨ feat: add export to CSV option
 0892. ✅ test: add unit test for quiz service
 0729. 🔧 refactor: refactor quiz grading logic
+0307. ✨ feat: support email verification
