@@ -7118,3 +7118,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0804. ♻️ chore: add GitHub actions badge
 0564. 📚 docs: clarify environment setup
+0876. ♻️ chore: rename env.example
