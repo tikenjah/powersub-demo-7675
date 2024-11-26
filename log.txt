@@ -636,3 +636,4 @@
 0153. ♻️ chore: rename env.example
 0171. 🐛 fix: fix broken CSS in mobile view
 0339. 📚 docs: update README with setup steps
+0008. 🚀 perf: reduce image load time
