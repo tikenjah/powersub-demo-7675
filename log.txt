@@ -10122,3 +10122,4 @@
 0365. 🚀 perf: reduce image load time
 0275. 🎨 style: standardize quote style
 0975. 🎨 style: apply consistent indentation
+0434. 📚 docs: document token refresh logic
