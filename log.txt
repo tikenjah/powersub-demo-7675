@@ -643,3 +643,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0884. 📚 docs: clarify environment setup
 0148. 🔧 refactor: organize models into subfolders
+0485. 📚 docs: update README with setup steps
