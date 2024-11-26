@@ -639,3 +639,4 @@
 0008. 🚀 perf: reduce image load time
 0322. 🔧 refactor: split large controller into smaller functions
 0249. ✅ test: increase coverage on auth module
+0104. 🎨 style: apply consistent indentation
