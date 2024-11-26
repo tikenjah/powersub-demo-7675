@@ -632,3 +632,4 @@
 0024. 📚 docs: write FAQ section
 0647. 🐛 fix: prevent crash on empty input
 0387. ✨ feat: enable dark mode toggle
+0293. ✅ test: add integration test for /submit endpoint
