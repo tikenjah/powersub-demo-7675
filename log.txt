@@ -7119,3 +7119,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0564. 📚 docs: clarify environment setup
 0876. ♻️ chore: rename env.example
+0480. ♻️ chore: add GitHub actions badge
