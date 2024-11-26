@@ -9138,3 +9138,4 @@
 0706. ✨ feat: support email verification
 0763. 🔧 refactor: organize models into subfolders
 0758. 🚀 perf: optimize database query for quiz results
+0572. ✨ feat: add user authentication
