@@ -659,3 +659,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0198. 📚 docs: clarify environment setup
 0264. 🚀 perf: optimize database query for quiz results
+0048. 📚 docs: update README with setup steps
