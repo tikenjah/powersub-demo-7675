@@ -651,3 +651,4 @@
 0528. ♻️ chore: clean up unused files
 0451. ✨ feat: support email verification
 0065. ✅ test: add integration test for /submit endpoint
+0024. 📚 docs: write FAQ section
