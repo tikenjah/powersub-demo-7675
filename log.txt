@@ -645,3 +645,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0485. 📚 docs: update README with setup steps
 0391. 🐛 fix: fix null pointer exception on login
+0544. 🔧 refactor: organize models into subfolders
