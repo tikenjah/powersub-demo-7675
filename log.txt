@@ -649,3 +649,4 @@
 0301. 🎨 style: apply consistent indentation
 0031. 📚 docs: document token refresh logic
 0528. ♻️ chore: clean up unused files
+0451. ✨ feat: support email verification
