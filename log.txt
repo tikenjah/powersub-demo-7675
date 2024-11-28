@@ -667,3 +667,4 @@
 0637. 🎨 style: apply consistent indentation
 0684. 🚀 perf: reduce image load time
 0760. 🐛 fix: resolve issue with date parsing
+0360. ✨ feat: add export to CSV option
