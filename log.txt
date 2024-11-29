@@ -689,3 +689,4 @@
 0186. ✅ test: test user registration edge cases
 0014. 🔧 refactor: remove redundant code blocks
 0541. 🐛 fix: correct typo in registration form
+0026. 🔧 refactor: clean up auth middleware
