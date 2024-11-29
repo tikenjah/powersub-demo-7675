@@ -682,3 +682,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0306. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
+0727. ♻️ chore: add GitHub actions badge
