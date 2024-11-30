@@ -5118,3 +5118,4 @@
 0634. 🎨 style: reformat files with black
 0859. ✨ feat: create admin dashboard
 0273. 🚀 perf: reduce image load time
+0639. 🐛 fix: correct typo in registration form
