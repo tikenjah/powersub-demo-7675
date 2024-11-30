@@ -701,3 +701,4 @@
 0470. 🎨 style: remove trailing whitespace
 0220. 🐛 fix: fix null pointer exception on login
 0511. 🐛 fix: fix broken CSS in mobile view
+0422. 🔧 refactor: organize models into subfolders
