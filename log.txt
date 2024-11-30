@@ -708,3 +708,4 @@
 0665. ♻️ chore: update .gitignore
 0456. 🚀 perf: optimize database query for quiz results
 0636. ✅ test: increase coverage on auth module
+0946. ✅ test: add unit test for quiz service
