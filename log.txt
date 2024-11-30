@@ -9148,3 +9148,4 @@
 0561. 📚 docs: write FAQ section
 0188. 🎨 style: apply consistent indentation
 0998. 🐛 fix: fix null pointer exception on login
+0053. ✅ test: increase coverage on auth module
