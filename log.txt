@@ -8120,3 +8120,4 @@
 0662. ♻️ chore: clean up unused files
 0567. 📚 docs: add API usage examples
 0809. ♻️ chore: rename env.example
+0536. ✨ feat: add user authentication
