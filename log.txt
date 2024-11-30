@@ -5119,3 +5119,4 @@
 0859. ✨ feat: create admin dashboard
 0273. 🚀 perf: reduce image load time
 0639. 🐛 fix: correct typo in registration form
+0573. ✅ test: add integration test for /submit endpoint
