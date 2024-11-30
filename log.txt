@@ -8118,3 +8118,4 @@
 0345. 📚 docs: document token refresh logic
 0966. 📚 docs: improve code comments in utils
 0662. ♻️ chore: clean up unused files
+0567. 📚 docs: add API usage examples
