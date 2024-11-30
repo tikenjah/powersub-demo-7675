@@ -10135,3 +10135,4 @@
 0080. ✨ feat: support email verification
 0599. ✅ test: test user registration edge cases
 0242. ♻️ chore: clean up unused files
+0623. 🎨 style: standardize quote style
