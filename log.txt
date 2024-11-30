@@ -695,3 +695,4 @@
 0334. 🚀 perf: cache repeated calculations
 0819. 🚀 perf: reduce image load time
 0048. 📚 docs: update README with setup steps
+0031. 📚 docs: document token refresh logic
