@@ -696,3 +696,4 @@
 0819. 🚀 perf: reduce image load time
 0048. 📚 docs: update README with setup steps
 0031. 📚 docs: document token refresh logic
+0900. 🐛 fix: handle 500 error in quiz API
