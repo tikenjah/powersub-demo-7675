@@ -7132,3 +7132,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0171. 🐛 fix: fix broken CSS in mobile view
 0169. 📚 docs: add API usage examples
+0122. ✨ feat: support email verification
