@@ -10133,3 +10133,4 @@
 0349. ✅ test: increase coverage on auth module
 0819. 🚀 perf: reduce image load time
 0080. ✨ feat: support email verification
+0599. ✅ test: test user registration edge cases
