@@ -720,3 +720,4 @@
 0970. ♻️ chore: update .gitignore
 0248. 🐛 fix: handle 500 error in quiz API
 0471. ✨ feat: support email verification
+0174. 📚 docs: clarify environment setup
