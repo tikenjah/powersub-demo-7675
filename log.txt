@@ -710,3 +710,4 @@
 0636. ✅ test: increase coverage on auth module
 0946. ✅ test: add unit test for quiz service
 0992. ♻️ chore: clean up unused files
+0543. ✨ feat: support email verification
