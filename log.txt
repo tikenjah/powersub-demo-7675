@@ -719,3 +719,4 @@
 0087. ✨ feat: add export to CSV option
 0970. ♻️ chore: update .gitignore
 0248. 🐛 fix: handle 500 error in quiz API
+0471. ✨ feat: support email verification
