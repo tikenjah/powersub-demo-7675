@@ -8123,3 +8123,4 @@
 0536. ✨ feat: add user authentication
 0244. ✨ feat: add export to CSV option
 0337. 📚 docs: document token refresh logic
+0743. 🎨 style: apply consistent indentation
