@@ -10140,3 +10140,4 @@
 0564. 📚 docs: clarify environment setup
 0358. 🚀 perf: reduce image load time
 0549. ✨ feat: enable dark mode toggle
+0148. 🔧 refactor: organize models into subfolders
