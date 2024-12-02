@@ -723,3 +723,4 @@
 0174. 📚 docs: clarify environment setup
 0879. 🎨 style: standardize quote style
 0197. 📚 docs: update README with setup steps
+0702. ✨ feat: add user authentication
