@@ -8125,3 +8125,4 @@
 0337. 📚 docs: document token refresh logic
 0743. 🎨 style: apply consistent indentation
 0297. 🎨 style: remove trailing whitespace
+0186. ✅ test: test user registration edge cases
