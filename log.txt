@@ -7139,3 +7139,4 @@
 0347. ♻️ chore: update .gitignore
 0224. 🐛 fix: fix broken CSS in mobile view
 0078. ♻️ chore: update .gitignore
+0273. 🚀 perf: reduce image load time
