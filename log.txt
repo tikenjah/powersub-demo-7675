@@ -5128,3 +5128,4 @@
 0427. ✅ test: mock database connection in test suite
 0834. ✅ test: increase coverage on auth module
 0058. ♻️ chore: add GitHub actions badge
+0153. ♻️ chore: rename env.example
