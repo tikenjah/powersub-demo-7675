@@ -735,3 +735,4 @@
 0526. ✨ feat: add user authentication
 0170. ✅ test: increase coverage on auth module
 0748. 🚀 perf: optimize database query for quiz results
+0888. 🚀 perf: lazy-load components
