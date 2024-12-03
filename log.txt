@@ -10148,3 +10148,4 @@
 0161. ✨ feat: create admin dashboard
 0775. 🐛 fix: fix null pointer exception on login
 0975. 🎨 style: apply consistent indentation
+0628. ♻️ chore: add GitHub actions badge
