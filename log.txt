@@ -7137,3 +7137,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0262. 🎨 style: remove trailing whitespace
 0347. ♻️ chore: update .gitignore
+0224. 🐛 fix: fix broken CSS in mobile view
