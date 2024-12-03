@@ -733,3 +733,4 @@
 0541. 🐛 fix: correct typo in registration form
 0012. 🚀 perf: cache repeated calculations
 0526. ✨ feat: add user authentication
+0170. ✅ test: increase coverage on auth module
