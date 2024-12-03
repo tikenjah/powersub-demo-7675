@@ -737,3 +737,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0888. 🚀 perf: lazy-load components
 0167. 🚀 perf: reduce image load time
+0342. 🚀 perf: cache repeated calculations
