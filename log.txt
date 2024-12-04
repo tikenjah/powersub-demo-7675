@@ -740,3 +740,4 @@
 0342. 🚀 perf: cache repeated calculations
 0674. 🔧 refactor: split large controller into smaller functions
 0484. 🐛 fix: handle 500 error in quiz API
+0186. ✅ test: test user registration edge cases
