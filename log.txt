@@ -753,3 +753,4 @@
 0946. ✅ test: add unit test for quiz service
 0785. ✨ feat: enable dark mode toggle
 0817. 🔧 refactor: remove redundant code blocks
+0062. ♻️ chore: update .gitignore
