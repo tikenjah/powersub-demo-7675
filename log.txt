@@ -751,3 +751,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0062. ♻️ chore: update .gitignore
 0946. ✅ test: add unit test for quiz service
+0785. ✨ feat: enable dark mode toggle
