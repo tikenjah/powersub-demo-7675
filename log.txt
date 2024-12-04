@@ -7140,3 +7140,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0078. ♻️ chore: update .gitignore
 0273. 🚀 perf: reduce image load time
+0595. ✨ feat: enable dark mode toggle
