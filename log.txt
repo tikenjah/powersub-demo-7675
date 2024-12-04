@@ -739,3 +739,4 @@
 0167. 🚀 perf: reduce image load time
 0342. 🚀 perf: cache repeated calculations
 0674. 🔧 refactor: split large controller into smaller functions
+0484. 🐛 fix: handle 500 error in quiz API
