@@ -742,3 +742,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0186. ✅ test: test user registration edge cases
 0462. ♻️ chore: update .gitignore
+0769. ✨ feat: create admin dashboard
