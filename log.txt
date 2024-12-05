@@ -755,3 +755,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0062. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0584. 🚀 perf: lazy-load components
