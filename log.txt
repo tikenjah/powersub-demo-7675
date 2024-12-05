@@ -759,3 +759,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0023. 📚 docs: clarify environment setup
 0497. 🔧 refactor: refactor quiz grading logic
+0701. 🔧 refactor: clean up auth middleware
