@@ -757,3 +757,4 @@
 1000. ✅ test: increase coverage on auth module
 0584. 🚀 perf: lazy-load components
 0285. 🐛 fix: resolve issue with date parsing
+0023. 📚 docs: clarify environment setup
