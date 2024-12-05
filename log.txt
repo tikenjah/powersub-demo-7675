@@ -760,3 +760,4 @@
 0023. 📚 docs: clarify environment setup
 0497. 🔧 refactor: refactor quiz grading logic
 0701. 🔧 refactor: clean up auth middleware
+0226. 🚀 perf: lazy-load components
