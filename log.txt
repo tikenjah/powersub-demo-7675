@@ -765,3 +765,4 @@
 0111. 📚 docs: update README with setup steps
 0088. 📚 docs: add API usage examples
 0975. 🎨 style: apply consistent indentation
+0413. ✅ test: add integration test for /submit endpoint
