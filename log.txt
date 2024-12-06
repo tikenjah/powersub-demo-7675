@@ -8136,3 +8136,4 @@
 0928. 🎨 style: apply consistent indentation
 0793. 📚 docs: clarify environment setup
 0957. 🐛 fix: fix null pointer exception on login
+0754. 🐛 fix: handle 500 error in quiz API
