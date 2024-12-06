@@ -8134,3 +8134,4 @@
 0341. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
 0928. 🎨 style: apply consistent indentation
+0793. 📚 docs: clarify environment setup
