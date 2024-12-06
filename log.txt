@@ -771,3 +771,4 @@
 0254. 🚀 perf: reduce image load time
 0066. 🔧 refactor: clean up auth middleware
 0867. 🔧 refactor: refactor quiz grading logic
+0607. 🐛 fix: prevent crash on empty input
