@@ -7147,3 +7147,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0538. 🐛 fix: fix broken CSS in mobile view
 0777. 📚 docs: document token refresh logic
+0305. ✨ feat: enable dark mode toggle
