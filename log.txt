@@ -782,3 +782,4 @@
 0339. 📚 docs: update README with setup steps
 0354. 📚 docs: add API usage examples
 0158. 📚 docs: clarify environment setup
+0350. 🚀 perf: cache repeated calculations
