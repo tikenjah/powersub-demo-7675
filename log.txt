@@ -7146,3 +7146,4 @@
 0158. 📚 docs: clarify environment setup
 0552. 🐛 fix: fix null pointer exception on login
 0538. 🐛 fix: fix broken CSS in mobile view
+0777. 📚 docs: document token refresh logic
