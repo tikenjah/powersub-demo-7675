@@ -8139,3 +8139,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0790. 📚 docs: write FAQ section
 0162. ♻️ chore: add GitHub actions badge
+0450. 🐛 fix: fix broken CSS in mobile view
