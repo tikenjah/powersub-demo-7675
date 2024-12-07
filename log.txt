@@ -6152,3 +6152,4 @@
 0149. ✨ feat: add export to CSV option
 0301. 🎨 style: apply consistent indentation
 0717. 🔧 refactor: refactor quiz grading logic
+0611. ✅ test: test user registration edge cases
