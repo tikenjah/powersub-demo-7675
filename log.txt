@@ -785,3 +785,4 @@
 0350. 🚀 perf: cache repeated calculations
 0708. ✅ test: add integration test for /submit endpoint
 0512. 🚀 perf: reduce image load time
+0159. 🚀 perf: lazy-load components
