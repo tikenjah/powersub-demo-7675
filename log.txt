@@ -10156,3 +10156,4 @@
 0677. 📚 docs: add API usage examples
 0635. 🎨 style: apply consistent indentation
 0629. 🔧 refactor: organize models into subfolders
+0096. 🐛 fix: prevent crash on empty input
