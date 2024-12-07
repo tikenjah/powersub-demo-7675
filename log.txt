@@ -9169,3 +9169,4 @@
 0780. 📚 docs: add API usage examples
 0419. 🎨 style: remove trailing whitespace
 0781. 🚀 perf: reduce image load time
+0934. ✨ feat: support email verification
