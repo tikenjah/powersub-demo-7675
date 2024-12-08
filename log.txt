@@ -10158,3 +10158,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0096. 🐛 fix: prevent crash on empty input
 0407. 🚀 perf: cache repeated calculations
+0947. 📚 docs: write FAQ section
