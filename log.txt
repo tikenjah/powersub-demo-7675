@@ -5141,3 +5141,4 @@
 0891. ✨ feat: create admin dashboard
 0011. ✅ test: add unit test for quiz service
 0782. 📚 docs: improve code comments in utils
+0081. 🐛 fix: fix null pointer exception on login
