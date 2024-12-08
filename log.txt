@@ -805,3 +805,4 @@
 0225. 🚀 perf: reduce image load time
 0050. ✨ feat: enable dark mode toggle
 0292. 📚 docs: clarify environment setup
+0861. ♻️ chore: clean up unused files
