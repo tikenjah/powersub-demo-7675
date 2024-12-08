@@ -8145,3 +8145,4 @@
 0910. 🎨 style: remove trailing whitespace
 0552. 🐛 fix: fix null pointer exception on login
 0361. ✨ feat: support email verification
+0401. 🚀 perf: reduce image load time
