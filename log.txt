@@ -6160,3 +6160,4 @@
 0167. 🚀 perf: reduce image load time
 0548. 📚 docs: write FAQ section
 0628. ♻️ chore: add GitHub actions badge
+0587. 🔧 refactor: remove redundant code blocks
