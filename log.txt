@@ -8146,3 +8146,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0361. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
+0676. 🐛 fix: prevent crash on empty input
