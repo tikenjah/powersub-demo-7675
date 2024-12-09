@@ -809,3 +809,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0358. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
+0453. 🎨 style: standardize quote style
