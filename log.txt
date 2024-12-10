@@ -828,3 +828,4 @@
 0287. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
 0706. ✨ feat: support email verification
+0604. 📚 docs: add API usage examples
