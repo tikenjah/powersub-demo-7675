@@ -824,3 +824,4 @@
 0594. 🎨 style: reformat files with black
 0772. 🐛 fix: fix null pointer exception on login
 0878. 🔧 refactor: split large controller into smaller functions
+0378. 🐛 fix: prevent crash on empty input
