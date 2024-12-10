@@ -10166,3 +10166,4 @@
 0995. ✅ test: mock database connection in test suite
 0079. 🐛 fix: correct typo in registration form
 0931. 🚀 perf: reduce image load time
+0617. ✨ feat: support email verification
