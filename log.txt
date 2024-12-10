@@ -821,3 +821,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0300. ✨ feat: add export to CSV option
 0114. ♻️ chore: update .gitignore
+0594. 🎨 style: reformat files with black
