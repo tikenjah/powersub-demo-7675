@@ -816,3 +816,4 @@
 0903. ✅ test: mock database connection in test suite
 0466. 🚀 perf: optimize database query for quiz results
 0533. ♻️ chore: add GitHub actions badge
+0636. ✅ test: increase coverage on auth module
