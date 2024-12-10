@@ -6162,3 +6162,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0587. 🔧 refactor: remove redundant code blocks
 0662. ♻️ chore: clean up unused files
+0096. 🐛 fix: prevent crash on empty input
