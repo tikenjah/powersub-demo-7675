@@ -842,3 +842,4 @@
 0859. ✨ feat: create admin dashboard
 0809. ♻️ chore: rename env.example
 0517. ✅ test: mock database connection in test suite
+0872. 🎨 style: rename variables for clarity
