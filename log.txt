@@ -835,3 +835,4 @@
 0617. ✨ feat: support email verification
 0470. 🎨 style: remove trailing whitespace
 0420. 🚀 perf: reduce image load time
+0718. 🐛 fix: resolve issue with date parsing
