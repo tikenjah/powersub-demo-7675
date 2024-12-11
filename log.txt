@@ -839,3 +839,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0050. ✨ feat: enable dark mode toggle
 0557. 🔧 refactor: clean up auth middleware
+0859. ✨ feat: create admin dashboard
