@@ -10168,3 +10168,4 @@
 0931. 🚀 perf: reduce image load time
 0617. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
+0196. ♻️ chore: bump dependencies
