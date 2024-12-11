@@ -832,3 +832,4 @@
 0335. ♻️ chore: update .gitignore
 0306. 🎨 style: apply consistent indentation
 0332. 🎨 style: standardize quote style
+0617. ✨ feat: support email verification
