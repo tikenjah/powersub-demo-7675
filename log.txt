@@ -5148,3 +5148,4 @@
 0034. 📚 docs: improve code comments in utils
 0880. 🐛 fix: fix broken CSS in mobile view
 0618. ✨ feat: support email verification
+0688. 🚀 perf: reduce image load time
