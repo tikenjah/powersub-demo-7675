@@ -9179,3 +9179,4 @@
 0277. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
 0883. 📚 docs: improve code comments in utils
+0400. 🐛 fix: fix null pointer exception on login
