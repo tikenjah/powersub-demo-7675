@@ -10173,3 +10173,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0774. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0410. 🎨 style: reformat files with black
