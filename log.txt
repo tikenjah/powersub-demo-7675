@@ -7158,3 +7158,4 @@
 0859. ✨ feat: create admin dashboard
 0687. 🎨 style: remove trailing whitespace
 0280. ✅ test: add integration test for /submit endpoint
+0237. 🎨 style: standardize quote style
