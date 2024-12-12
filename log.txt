@@ -5150,3 +5150,4 @@
 0618. ✨ feat: support email verification
 0688. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
+0065. ✅ test: add integration test for /submit endpoint
