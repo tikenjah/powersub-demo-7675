@@ -10169,3 +10169,4 @@
 0617. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
 0196. ♻️ chore: bump dependencies
+0644. 🎨 style: apply consistent indentation
