@@ -10172,3 +10172,4 @@
 0644. 🎨 style: apply consistent indentation
 0380. 🐛 fix: fix null pointer exception on login
 0774. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
