@@ -868,3 +868,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
 0638. 📚 docs: improve code comments in utils
+0207. 🐛 fix: prevent crash on empty input
