@@ -6169,3 +6169,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0870. ♻️ chore: clean up unused files
 0267. 📚 docs: improve code comments in utils
+0365. 🚀 perf: reduce image load time
