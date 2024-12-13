@@ -10175,3 +10175,4 @@
 0090. ✅ test: increase coverage on auth module
 0410. 🎨 style: reformat files with black
 0568. 🐛 fix: handle 500 error in quiz API
+0564. 📚 docs: clarify environment setup
