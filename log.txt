@@ -7164,3 +7164,4 @@
 0144. ✅ test: increase coverage on auth module
 0809. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
+0677. 📚 docs: add API usage examples
