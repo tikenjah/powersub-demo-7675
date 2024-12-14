@@ -879,3 +879,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0915. 🚀 perf: cache repeated calculations
 0973. 🔧 refactor: organize models into subfolders
+0275. 🎨 style: standardize quote style
