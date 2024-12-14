@@ -6172,3 +6172,4 @@
 0365. 🚀 perf: reduce image load time
 0324. 📚 docs: document token refresh logic
 0049. 🐛 fix: handle 500 error in quiz API
+0871. ✅ test: add integration test for /submit endpoint
