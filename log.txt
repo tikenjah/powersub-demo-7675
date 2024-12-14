@@ -885,3 +885,4 @@
 0242. ♻️ chore: clean up unused files
 0834. ✅ test: increase coverage on auth module
 0919. 🚀 perf: optimize database query for quiz results
+0750. 🎨 style: apply consistent indentation
