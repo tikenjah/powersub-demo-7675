@@ -880,3 +880,4 @@
 0915. 🚀 perf: cache repeated calculations
 0973. 🔧 refactor: organize models into subfolders
 0275. 🎨 style: standardize quote style
+0040. 🔧 refactor: clean up auth middleware
