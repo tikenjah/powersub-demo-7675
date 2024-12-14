@@ -8160,3 +8160,4 @@
 0406. ✨ feat: add export to CSV option
 0191. 🔧 refactor: refactor quiz grading logic
 0885. ♻️ chore: update .gitignore
+0837. 🚀 perf: cache repeated calculations
