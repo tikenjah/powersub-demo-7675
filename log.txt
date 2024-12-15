@@ -898,3 +898,4 @@
 0180. ✨ feat: add export to CSV option
 0257. 📚 docs: clarify environment setup
 0975. 🎨 style: apply consistent indentation
+0609. 🐛 fix: handle 500 error in quiz API
