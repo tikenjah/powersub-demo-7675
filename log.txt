@@ -9185,3 +9185,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0961. 📚 docs: add API usage examples
 0912. 📚 docs: document token refresh logic
+0206. 🐛 fix: handle 500 error in quiz API
