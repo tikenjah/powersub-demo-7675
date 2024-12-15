@@ -9188,3 +9188,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0587. 🔧 refactor: remove redundant code blocks
 0615. 🐛 fix: correct typo in registration form
+0151. ✅ test: add unit test for quiz service
