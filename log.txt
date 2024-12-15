@@ -7166,3 +7166,4 @@
 0749. ✨ feat: support email verification
 0677. 📚 docs: add API usage examples
 0444. ✅ test: add unit test for quiz service
+0599. ✅ test: test user registration edge cases
