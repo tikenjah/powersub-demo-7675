@@ -10178,3 +10178,4 @@
 0564. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
+0901. ✨ feat: add user authentication
