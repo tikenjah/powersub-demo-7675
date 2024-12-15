@@ -890,3 +890,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0758. 🚀 perf: optimize database query for quiz results
 0923. ✨ feat: support email verification
+0722. 📚 docs: add API usage examples
