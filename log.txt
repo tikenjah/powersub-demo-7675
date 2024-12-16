@@ -6178,3 +6178,4 @@
 0556. ✨ feat: support email verification
 0463. 🚀 perf: reduce image load time
 0875. ✅ test: increase coverage on auth module
+0278. 🔧 refactor: clean up auth middleware
