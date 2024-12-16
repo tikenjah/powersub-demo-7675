@@ -906,3 +906,4 @@
 0070. ✨ feat: implement quiz timer feature
 0402. 🎨 style: reformat files with black
 0486. ✨ feat: add export to CSV option
+0787. ♻️ chore: rename env.example
