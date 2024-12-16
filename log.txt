@@ -913,3 +913,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0251. ♻️ chore: update .gitignore
 0659. 📚 docs: add API usage examples
+0581. ✅ test: add integration test for /submit endpoint
