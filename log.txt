@@ -7171,3 +7171,4 @@
 0768. 🎨 style: remove trailing whitespace
 0534. 🔧 refactor: split large controller into smaller functions
 0391. 🐛 fix: fix null pointer exception on login
+0475. 🔧 refactor: clean up auth middleware
