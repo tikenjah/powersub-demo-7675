@@ -911,3 +911,4 @@
 0416. 🎨 style: rename variables for clarity
 0612. ✅ test: test user registration edge cases
 0696. 🔧 refactor: clean up auth middleware
+0251. ♻️ chore: update .gitignore
