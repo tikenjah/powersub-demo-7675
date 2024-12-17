@@ -932,3 +932,4 @@
 0178. ✨ feat: support email verification
 0383. 🐛 fix: fix broken CSS in mobile view
 0922. 📚 docs: write FAQ section
+0896. 🚀 perf: reduce image load time
