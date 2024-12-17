@@ -7174,3 +7174,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0964. ♻️ chore: clean up unused files
 0670. ✨ feat: add export to CSV option
+0519. 📚 docs: document token refresh logic
