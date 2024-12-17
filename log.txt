@@ -929,3 +929,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0972. 🔧 refactor: refactor quiz grading logic
 0870. ♻️ chore: clean up unused files
+0178. ✨ feat: support email verification
