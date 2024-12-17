@@ -917,3 +917,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0484. 🐛 fix: handle 500 error in quiz API
 0150. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
