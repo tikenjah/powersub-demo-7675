@@ -918,3 +918,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0150. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
+0269. ✅ test: test user registration edge cases
