@@ -934,3 +934,4 @@
 0922. 📚 docs: write FAQ section
 0896. 🚀 perf: reduce image load time
 0677. 📚 docs: add API usage examples
+0108. 🎨 style: remove trailing whitespace
