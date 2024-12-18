@@ -939,3 +939,4 @@
 0003. ✅ test: increase coverage on auth module
 0649. 📚 docs: update README with setup steps
 0504. 📚 docs: document token refresh logic
+0199. ✨ feat: create admin dashboard
