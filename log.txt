@@ -8172,3 +8172,4 @@
 0061. ✨ feat: create admin dashboard
 0026. 🔧 refactor: clean up auth middleware
 0604. 📚 docs: add API usage examples
+0471. ✨ feat: support email verification
