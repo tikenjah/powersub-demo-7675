@@ -8174,3 +8174,4 @@
 0604. 📚 docs: add API usage examples
 0471. ✨ feat: support email verification
 0740. 🐛 fix: resolve issue with date parsing
+0319. 🐛 fix: handle 500 error in quiz API
