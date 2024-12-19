@@ -957,3 +957,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0612. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
+0911. ✅ test: increase coverage on auth module
