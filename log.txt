@@ -959,3 +959,4 @@
 0641. 📚 docs: write FAQ section
 0911. ✅ test: increase coverage on auth module
 0582. ✨ feat: add export to CSV option
+0814. 🔧 refactor: remove redundant code blocks
