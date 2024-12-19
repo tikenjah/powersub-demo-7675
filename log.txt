@@ -952,3 +952,4 @@
 0111. 📚 docs: update README with setup steps
 0081. 🐛 fix: fix null pointer exception on login
 0523. ♻️ chore: bump dependencies
+0441. 📚 docs: add API usage examples
