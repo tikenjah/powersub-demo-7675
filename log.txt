@@ -10185,3 +10185,4 @@
 0010. ✨ feat: add user authentication
 0049. 🐛 fix: handle 500 error in quiz API
 0561. 📚 docs: write FAQ section
+0605. ✨ feat: support email verification
