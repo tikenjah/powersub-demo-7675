@@ -965,3 +965,4 @@
 0342. 🚀 perf: cache repeated calculations
 0909. 🔧 refactor: organize models into subfolders
 0046. 🎨 style: rename variables for clarity
+0882. 🚀 perf: optimize database query for quiz results
