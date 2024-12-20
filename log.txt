@@ -979,3 +979,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0488. ♻️ chore: add GitHub actions badge
 0099. 🚀 perf: reduce image load time
+0796. 🔧 refactor: refactor quiz grading logic
