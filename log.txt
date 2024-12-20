@@ -980,3 +980,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0099. 🚀 perf: reduce image load time
 0796. 🔧 refactor: refactor quiz grading logic
+1000. ✅ test: increase coverage on auth module
