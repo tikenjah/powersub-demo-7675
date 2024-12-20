@@ -8176,3 +8176,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0319. 🐛 fix: handle 500 error in quiz API
 0773. 📚 docs: document token refresh logic
+0879. 🎨 style: standardize quote style
