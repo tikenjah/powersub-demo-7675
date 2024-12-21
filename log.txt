@@ -9205,3 +9205,4 @@
 0947. 📚 docs: write FAQ section
 0553. 🐛 fix: correct typo in registration form
 0017. ✅ test: mock database connection in test suite
+0187. ✨ feat: support email verification
