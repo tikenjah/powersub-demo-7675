@@ -7187,3 +7187,4 @@
 0173. 🚀 perf: cache repeated calculations
 0152. ✨ feat: add user authentication
 0458. ✨ feat: create admin dashboard
+0827. 🚀 perf: optimize database query for quiz results
