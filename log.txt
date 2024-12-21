@@ -10190,3 +10190,4 @@
 0122. ✨ feat: support email verification
 0495. 🔧 refactor: remove redundant code blocks
 0818. 🔧 refactor: remove redundant code blocks
+0295. 🎨 style: remove trailing whitespace
