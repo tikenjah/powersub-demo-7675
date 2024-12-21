@@ -8180,3 +8180,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0451. ✨ feat: support email verification
 0613. 🐛 fix: prevent crash on empty input
+0592. 📚 docs: add API usage examples
