@@ -983,3 +983,4 @@
 1000. ✅ test: increase coverage on auth module
 0630. 🚀 perf: lazy-load components
 0058. ♻️ chore: add GitHub actions badge
+0467. ✅ test: add integration test for /submit endpoint
