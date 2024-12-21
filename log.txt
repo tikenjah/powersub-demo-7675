@@ -982,3 +982,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
 0630. 🚀 perf: lazy-load components
+0058. ♻️ chore: add GitHub actions badge
