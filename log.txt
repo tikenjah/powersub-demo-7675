@@ -9203,3 +9203,4 @@
 0615. 🐛 fix: correct typo in registration form
 0777. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
+0553. 🐛 fix: correct typo in registration form
