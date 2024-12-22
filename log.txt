@@ -9211,3 +9211,4 @@
 0442. 🎨 style: standardize quote style
 0528. ♻️ chore: clean up unused files
 0028. 🎨 style: standardize quote style
+0205. 📚 docs: update README with setup steps
