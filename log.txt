@@ -9207,3 +9207,4 @@
 0017. ✅ test: mock database connection in test suite
 0187. ✨ feat: support email verification
 0737. 🐛 fix: handle 500 error in quiz API
+0730. ✅ test: test user registration edge cases
