@@ -5173,3 +5173,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0175. 📚 docs: add API usage examples
 0655. 🚀 perf: cache repeated calculations
+0096. 🐛 fix: prevent crash on empty input
