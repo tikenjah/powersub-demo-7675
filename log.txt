@@ -994,3 +994,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0091. ✨ feat: add user authentication
 0855. 🎨 style: reformat files with black
+0932. ✅ test: add integration test for /submit endpoint
