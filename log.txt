@@ -1013,3 +1013,4 @@
 0260. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
 0105. 🐛 fix: correct typo in registration form
+0289. 🐛 fix: resolve issue with date parsing
