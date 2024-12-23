@@ -8191,3 +8191,4 @@
 0982. 🚀 perf: lazy-load components
 0431. 🎨 style: reformat files with black
 0873. 🚀 perf: cache repeated calculations
+0956. 📚 docs: clarify environment setup
