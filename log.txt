@@ -1012,3 +1012,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0260. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
+0105. 🐛 fix: correct typo in registration form
