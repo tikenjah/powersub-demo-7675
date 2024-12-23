@@ -1014,3 +1014,4 @@
 0482. ✨ feat: add export to CSV option
 0105. 🐛 fix: correct typo in registration form
 0289. 🐛 fix: resolve issue with date parsing
+0587. 🔧 refactor: remove redundant code blocks
