@@ -1011,3 +1011,4 @@
 0385. ♻️ chore: clean up unused files
 0433. 🐛 fix: prevent crash on empty input
 0260. ✨ feat: create admin dashboard
+0482. ✨ feat: add export to CSV option
