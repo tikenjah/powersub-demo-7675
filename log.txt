@@ -1037,3 +1037,4 @@
 0216. 🎨 style: rename variables for clarity
 0673. 🐛 fix: correct typo in registration form
 0321. 🔧 refactor: organize models into subfolders
+0731. 🎨 style: standardize quote style
