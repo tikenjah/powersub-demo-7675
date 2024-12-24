@@ -9220,3 +9220,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0970. ♻️ chore: update .gitignore
 0733. 🐛 fix: fix null pointer exception on login
+0642. 🚀 perf: optimize database query for quiz results
