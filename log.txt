@@ -8192,3 +8192,4 @@
 0431. 🎨 style: reformat files with black
 0873. 🚀 perf: cache repeated calculations
 0956. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
