@@ -1035,3 +1035,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0587. 🔧 refactor: remove redundant code blocks
 0216. 🎨 style: rename variables for clarity
+0673. 🐛 fix: correct typo in registration form
