@@ -9218,3 +9218,4 @@
 0468. 📚 docs: update README with setup steps
 0121. ✨ feat: support email verification
 0532. 🔧 refactor: split large controller into smaller functions
+0970. ♻️ chore: update .gitignore
