@@ -1029,3 +1029,4 @@
 0930. 🎨 style: apply consistent indentation
 0625. 🐛 fix: handle 500 error in quiz API
 0502. 📚 docs: update README with setup steps
+0535. 📚 docs: write FAQ section
