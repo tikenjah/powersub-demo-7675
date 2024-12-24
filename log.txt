@@ -1027,3 +1027,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0784. ♻️ chore: clean up unused files
 0930. 🎨 style: apply consistent indentation
+0625. 🐛 fix: handle 500 error in quiz API
