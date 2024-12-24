@@ -1038,3 +1038,4 @@
 0673. 🐛 fix: correct typo in registration form
 0321. 🔧 refactor: organize models into subfolders
 0731. 🎨 style: standardize quote style
+0020. ✅ test: add integration test for /submit endpoint
