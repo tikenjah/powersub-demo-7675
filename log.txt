@@ -1033,3 +1033,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0089. 🔧 refactor: remove redundant code blocks
 0383. 🐛 fix: fix broken CSS in mobile view
+0587. 🔧 refactor: remove redundant code blocks
