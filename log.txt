@@ -5183,3 +5183,4 @@
 0982. 🚀 perf: lazy-load components
 0472. 🐛 fix: fix null pointer exception on login
 0435. ✅ test: add unit test for quiz service
+0580. ♻️ chore: bump dependencies
