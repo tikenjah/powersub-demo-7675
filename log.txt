@@ -8193,3 +8193,4 @@
 0873. 🚀 perf: cache repeated calculations
 0956. 📚 docs: clarify environment setup
 0502. 📚 docs: update README with setup steps
+0917. ✅ test: add integration test for /submit endpoint
