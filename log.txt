@@ -5185,3 +5185,4 @@
 0435. ✅ test: add unit test for quiz service
 0580. ♻️ chore: bump dependencies
 0664. ✅ test: add unit test for quiz service
+0636. ✅ test: increase coverage on auth module
