@@ -1052,3 +1052,4 @@
 0271. ✅ test: add unit test for quiz service
 0811. 🎨 style: reformat files with black
 0276. ✅ test: add integration test for /submit endpoint
+0529. 📚 docs: write FAQ section
