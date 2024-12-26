@@ -6197,3 +6197,4 @@
 0169. 📚 docs: add API usage examples
 0137. 🎨 style: rename variables for clarity
 0151. ✅ test: add unit test for quiz service
+0308. 🚀 perf: reduce image load time
