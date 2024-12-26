@@ -7199,3 +7199,4 @@
 0658. 🎨 style: rename variables for clarity
 0146. 🎨 style: apply consistent indentation
 0904. ✨ feat: implement quiz timer feature
+0394. 🚀 perf: lazy-load components
