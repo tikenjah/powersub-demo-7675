@@ -1072,3 +1072,4 @@
 0419. 🎨 style: remove trailing whitespace
 0848. 📚 docs: update README with setup steps
 0592. 📚 docs: add API usage examples
+0773. 📚 docs: document token refresh logic
