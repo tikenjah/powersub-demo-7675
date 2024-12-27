@@ -8197,3 +8197,4 @@
 0749. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0643. 🎨 style: apply consistent indentation
+0189. 📚 docs: clarify environment setup
