@@ -1070,3 +1070,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0141. 📚 docs: document token refresh logic
 0419. 🎨 style: remove trailing whitespace
+0848. 📚 docs: update README with setup steps
