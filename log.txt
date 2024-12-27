@@ -1068,3 +1068,4 @@
 0234. ♻️ chore: rename env.example
 0075. ✅ test: mock database connection in test suite
 0740. 🐛 fix: resolve issue with date parsing
+0141. 📚 docs: document token refresh logic
