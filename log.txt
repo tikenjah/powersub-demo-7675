@@ -1080,3 +1080,4 @@
 0163. ✨ feat: implement quiz timer feature
 0498. ✅ test: mock database connection in test suite
 0152. ✨ feat: add user authentication
+0112. ✨ feat: enable dark mode toggle
