@@ -9227,3 +9227,4 @@
 0974. ✨ feat: add export to CSV option
 0915. 🚀 perf: cache repeated calculations
 0065. ✅ test: add integration test for /submit endpoint
+0542. 🔧 refactor: organize models into subfolders
