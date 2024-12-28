@@ -1085,3 +1085,4 @@
 0486. ✨ feat: add export to CSV option
 0940. 📚 docs: document token refresh logic
 0107. 🐛 fix: prevent crash on empty input
+0216. 🎨 style: rename variables for clarity
