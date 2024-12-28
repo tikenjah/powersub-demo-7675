@@ -6202,3 +6202,4 @@
 0287. 📚 docs: write FAQ section
 0161. ✨ feat: create admin dashboard
 0712. 🎨 style: apply consistent indentation
+0423. ✅ test: mock database connection in test suite
