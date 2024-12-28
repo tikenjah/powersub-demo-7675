@@ -6201,3 +6201,4 @@
 0336. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
 0161. ✨ feat: create admin dashboard
+0712. 🎨 style: apply consistent indentation
