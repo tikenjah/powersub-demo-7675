@@ -1090,3 +1090,4 @@
 0669. ✨ feat: enable dark mode toggle
 0392. 🎨 style: remove trailing whitespace
 0754. 🐛 fix: handle 500 error in quiz API
+0935. 📚 docs: update README with setup steps
