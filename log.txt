@@ -1095,3 +1095,4 @@
 0750. 🎨 style: apply consistent indentation
 0983. 🔧 refactor: split large controller into smaller functions
 0907. 🔧 refactor: split large controller into smaller functions
+0793. 📚 docs: clarify environment setup
