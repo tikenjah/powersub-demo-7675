@@ -6200,3 +6200,4 @@
 0308. 🚀 perf: reduce image load time
 0336. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
+0161. ✨ feat: create admin dashboard
