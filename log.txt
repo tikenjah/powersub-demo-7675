@@ -8199,3 +8199,4 @@
 0643. 🎨 style: apply consistent indentation
 0189. 📚 docs: clarify environment setup
 0711. 🐛 fix: fix broken CSS in mobile view
+0981. 🚀 perf: lazy-load components
