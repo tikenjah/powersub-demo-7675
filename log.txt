@@ -8200,3 +8200,4 @@
 0189. 📚 docs: clarify environment setup
 0711. 🐛 fix: fix broken CSS in mobile view
 0981. 🚀 perf: lazy-load components
+0489. 🔧 refactor: organize models into subfolders
