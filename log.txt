@@ -1107,3 +1107,4 @@
 0806. 📚 docs: improve code comments in utils
 0865. ♻️ chore: add GitHub actions badge
 0331. 🐛 fix: fix broken CSS in mobile view
+0053. ✅ test: increase coverage on auth module
