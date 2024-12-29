@@ -7205,3 +7205,4 @@
 0624. ✅ test: add unit test for quiz service
 0916. ♻️ chore: bump dependencies
 0112. ✨ feat: enable dark mode toggle
+0923. ✨ feat: support email verification
