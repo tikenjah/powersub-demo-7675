@@ -1126,3 +1126,4 @@
 0664. ✅ test: add unit test for quiz service
 0584. 🚀 perf: lazy-load components
 0243. 🔧 refactor: clean up auth middleware
+0120. ✅ test: add integration test for /submit endpoint
