@@ -9233,3 +9233,4 @@
 0196. ♻️ chore: bump dependencies
 0172. 📚 docs: add API usage examples
 0641. 📚 docs: write FAQ section
+0218. 🔧 refactor: clean up auth middleware
