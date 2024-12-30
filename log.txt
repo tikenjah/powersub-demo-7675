@@ -8203,3 +8203,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0089. 🔧 refactor: remove redundant code blocks
 0233. 🚀 perf: lazy-load components
+0792. 🎨 style: standardize quote style
