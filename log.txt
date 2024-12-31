@@ -8205,3 +8205,4 @@
 0233. 🚀 perf: lazy-load components
 0792. 🎨 style: standardize quote style
 0285. 🐛 fix: resolve issue with date parsing
+0582. ✨ feat: add export to CSV option
