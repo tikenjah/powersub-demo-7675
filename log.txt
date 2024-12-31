@@ -1137,3 +1137,4 @@
 0062. ♻️ chore: update .gitignore
 0198. 📚 docs: clarify environment setup
 0438. ♻️ chore: bump dependencies
+0213. ✅ test: add integration test for /submit endpoint
