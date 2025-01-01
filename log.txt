@@ -7211,3 +7211,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0092. 🚀 perf: reduce image load time
 0488. ♻️ chore: add GitHub actions badge
+0604. 📚 docs: add API usage examples
