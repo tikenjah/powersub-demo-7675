@@ -1168,3 +1168,4 @@
 0681. ✨ feat: create admin dashboard
 0281. ✨ feat: support email verification
 0876. ♻️ chore: rename env.example
+0085. ✨ feat: support email verification
