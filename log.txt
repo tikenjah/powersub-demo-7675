@@ -1179,3 +1179,4 @@
 0911. ✅ test: increase coverage on auth module
 0095. ✅ test: mock database connection in test suite
 0653. 🐛 fix: prevent crash on empty input
+0579. 📚 docs: clarify environment setup
