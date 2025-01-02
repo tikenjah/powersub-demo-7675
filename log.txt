@@ -8212,3 +8212,4 @@
 0390. 🎨 style: standardize quote style
 0850. ♻️ chore: rename env.example
 0174. 📚 docs: clarify environment setup
+0696. 🔧 refactor: clean up auth middleware
