@@ -1177,3 +1177,4 @@
 0302. ✨ feat: implement quiz timer feature
 0133. 🐛 fix: fix null pointer exception on login
 0911. ✅ test: increase coverage on auth module
+0095. ✅ test: mock database connection in test suite
