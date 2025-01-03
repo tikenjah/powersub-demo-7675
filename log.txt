@@ -10218,3 +10218,4 @@
 0350. 🚀 perf: cache repeated calculations
 0214. 📚 docs: improve code comments in utils
 0903. ✅ test: mock database connection in test suite
+0868. ✅ test: add unit test for quiz service
