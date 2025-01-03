@@ -1196,3 +1196,4 @@
 0720. ✨ feat: add export to CSV option
 0401. 🚀 perf: reduce image load time
 0056. ♻️ chore: rename env.example
+0434. 📚 docs: document token refresh logic
