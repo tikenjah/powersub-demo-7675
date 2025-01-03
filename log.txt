@@ -7220,3 +7220,4 @@
 0769. ✨ feat: create admin dashboard
 0756. ✨ feat: support email verification
 0278. 🔧 refactor: clean up auth middleware
+0995. ✅ test: mock database connection in test suite
