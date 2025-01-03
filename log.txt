@@ -1183,3 +1183,4 @@
 0032. 🎨 style: apply consistent indentation
 0880. 🐛 fix: fix broken CSS in mobile view
 0639. 🐛 fix: correct typo in registration form
+0871. ✅ test: add integration test for /submit endpoint
