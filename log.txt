@@ -1202,3 +1202,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0479. 🐛 fix: fix null pointer exception on login
 0532. 🔧 refactor: split large controller into smaller functions
+0759. 🔧 refactor: organize models into subfolders
