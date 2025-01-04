@@ -9245,3 +9245,4 @@
 0086. 🐛 fix: correct typo in registration form
 0495. 🔧 refactor: remove redundant code blocks
 0948. 🐛 fix: fix broken CSS in mobile view
+0825. 🔧 refactor: split large controller into smaller functions
