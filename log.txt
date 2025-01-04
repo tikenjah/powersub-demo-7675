@@ -7223,3 +7223,4 @@
 0995. ✅ test: mock database connection in test suite
 0404. 📚 docs: improve code comments in utils
 0656. 🎨 style: apply consistent indentation
+0866. 📚 docs: add API usage examples
