@@ -10222,3 +10222,4 @@
 0597. 🚀 perf: cache repeated calculations
 0021. ✨ feat: support email verification
 0027. 📚 docs: clarify environment setup
+0041. 🐛 fix: fix broken CSS in mobile view
