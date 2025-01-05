@@ -6217,3 +6217,4 @@
 0070. ✨ feat: implement quiz timer feature
 0390. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
+0500. ✅ test: add integration test for /submit endpoint
