@@ -1220,3 +1220,4 @@
 0363. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
 0625. 🐛 fix: handle 500 error in quiz API
+0944. ✨ feat: add user authentication
