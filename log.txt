@@ -1223,3 +1223,4 @@
 0944. ✨ feat: add user authentication
 0468. 📚 docs: update README with setup steps
 0663. 🚀 perf: reduce image load time
+0544. 🔧 refactor: organize models into subfolders
