@@ -1209,3 +1209,4 @@
 0417. 🎨 style: rename variables for clarity
 0160. ♻️ chore: bump dependencies
 0769. ✨ feat: create admin dashboard
+0348. ✅ test: test user registration edge cases
