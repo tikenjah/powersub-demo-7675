@@ -1210,3 +1210,4 @@
 0160. ♻️ chore: bump dependencies
 0769. ✨ feat: create admin dashboard
 0348. ✅ test: test user registration edge cases
+0201. 🔧 refactor: clean up auth middleware
