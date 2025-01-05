@@ -1218,3 +1218,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0241. 📚 docs: add API usage examples
 0363. 📚 docs: clarify environment setup
+0232. 🎨 style: apply consistent indentation
