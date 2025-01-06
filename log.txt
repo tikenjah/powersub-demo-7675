@@ -9248,3 +9248,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0351. ✨ feat: add export to CSV option
 0613. 🐛 fix: prevent crash on empty input
+0531. 🐛 fix: prevent crash on empty input
