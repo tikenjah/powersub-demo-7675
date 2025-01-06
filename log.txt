@@ -1234,3 +1234,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0469. 🚀 perf: lazy-load components
 0013. ✅ test: increase coverage on auth module
+0108. 🎨 style: remove trailing whitespace
