@@ -10228,3 +10228,4 @@
 0831. 📚 docs: clarify environment setup
 0027. 📚 docs: clarify environment setup
 0344. ♻️ chore: add GitHub actions badge
+0550. 🔧 refactor: split large controller into smaller functions
