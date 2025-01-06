@@ -1230,3 +1230,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0933. 📚 docs: clarify environment setup
 0419. 🎨 style: remove trailing whitespace
+0321. 🔧 refactor: organize models into subfolders
