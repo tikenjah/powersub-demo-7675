@@ -1243,3 +1243,4 @@
 0047. 🎨 style: rename variables for clarity
 0576. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
+0218. 🔧 refactor: clean up auth middleware
