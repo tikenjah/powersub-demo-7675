@@ -1247,3 +1247,4 @@
 0250. 📚 docs: update README with setup steps
 0620. ✨ feat: implement quiz timer feature
 0199. ✨ feat: create admin dashboard
+0041. 🐛 fix: fix broken CSS in mobile view
