@@ -8222,3 +8222,4 @@
 0128. ♻️ chore: rename env.example
 0611. ✅ test: test user registration edge cases
 0241. 📚 docs: add API usage examples
+0961. 📚 docs: add API usage examples
