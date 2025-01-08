@@ -9254,3 +9254,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0433. 🐛 fix: prevent crash on empty input
 0818. 🔧 refactor: remove redundant code blocks
+0922. 📚 docs: write FAQ section
