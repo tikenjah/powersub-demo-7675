@@ -1250,3 +1250,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0374. 🎨 style: standardize quote style
 0735. ♻️ chore: add GitHub actions badge
+0737. 🐛 fix: handle 500 error in quiz API
