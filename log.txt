@@ -1252,3 +1252,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0737. 🐛 fix: handle 500 error in quiz API
 0811. 🎨 style: reformat files with black
+0818. 🔧 refactor: remove redundant code blocks
