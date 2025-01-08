@@ -1249,3 +1249,4 @@
 0199. ✨ feat: create admin dashboard
 0041. 🐛 fix: fix broken CSS in mobile view
 0374. 🎨 style: standardize quote style
+0735. ♻️ chore: add GitHub actions badge
