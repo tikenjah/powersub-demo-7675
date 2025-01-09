@@ -9258,3 +9258,4 @@
 0994. 🚀 perf: reduce image load time
 0517. ✅ test: mock database connection in test suite
 0574. ✨ feat: enable dark mode toggle
+0109. 🚀 perf: lazy-load components
