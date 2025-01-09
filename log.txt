@@ -1264,3 +1264,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0352. ✨ feat: add export to CSV option
 0553. 🐛 fix: correct typo in registration form
+0915. 🚀 perf: cache repeated calculations
