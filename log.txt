@@ -1269,3 +1269,4 @@
 0971. 🎨 style: standardize quote style
 0173. 🚀 perf: cache repeated calculations
 0291. 📚 docs: write FAQ section
+0077. ♻️ chore: rename env.example
