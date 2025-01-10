@@ -1277,3 +1277,4 @@
 0011. ✅ test: add unit test for quiz service
 0459. 🔧 refactor: organize models into subfolders
 0830. 🎨 style: apply consistent indentation
+0029. 🚀 perf: lazy-load components
