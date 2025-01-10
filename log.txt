@@ -8230,3 +8230,4 @@
 0785. ✨ feat: enable dark mode toggle
 0537. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
+0384. 📚 docs: clarify environment setup
