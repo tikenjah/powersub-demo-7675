@@ -1271,3 +1271,4 @@
 0291. 📚 docs: write FAQ section
 0077. ♻️ chore: rename env.example
 0122. ✨ feat: support email verification
+0447. ♻️ chore: bump dependencies
