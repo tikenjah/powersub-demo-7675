@@ -1284,3 +1284,4 @@
 0819. 🚀 perf: reduce image load time
 0502. 📚 docs: update README with setup steps
 0458. ✨ feat: create admin dashboard
+0673. 🐛 fix: correct typo in registration form
