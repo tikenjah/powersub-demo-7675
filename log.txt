@@ -7242,3 +7242,4 @@
 0509. ♻️ chore: bump dependencies
 0638. 📚 docs: improve code comments in utils
 0864. 🐛 fix: correct typo in registration form
+0789. ✨ feat: create admin dashboard
