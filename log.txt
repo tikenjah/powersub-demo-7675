@@ -8235,3 +8235,4 @@
 0405. ✅ test: mock database connection in test suite
 0110. 🐛 fix: prevent crash on empty input
 0482. ✨ feat: add export to CSV option
+0395. 📚 docs: write FAQ section
