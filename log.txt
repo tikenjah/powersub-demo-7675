@@ -5216,3 +5216,4 @@
 0108. 🎨 style: remove trailing whitespace
 0464. 🎨 style: remove trailing whitespace
 0984. ♻️ chore: clean up unused files
+0580. ♻️ chore: bump dependencies
