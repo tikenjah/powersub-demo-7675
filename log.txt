@@ -9266,3 +9266,4 @@
 0079. 🐛 fix: correct typo in registration form
 0364. 🐛 fix: resolve issue with date parsing
 0099. 🚀 perf: reduce image load time
+0859. ✨ feat: create admin dashboard
