@@ -9264,3 +9264,4 @@
 0769. ✨ feat: create admin dashboard
 0343. 🚀 perf: optimize database query for quiz results
 0079. 🐛 fix: correct typo in registration form
+0364. 🐛 fix: resolve issue with date parsing
