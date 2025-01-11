@@ -1287,3 +1287,4 @@
 0673. 🐛 fix: correct typo in registration form
 0746. ♻️ chore: add GitHub actions badge
 0655. 🚀 perf: cache repeated calculations
+0474. ✅ test: add unit test for quiz service
