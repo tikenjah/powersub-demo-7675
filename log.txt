@@ -1280,3 +1280,4 @@
 0029. 🚀 perf: lazy-load components
 0267. 📚 docs: improve code comments in utils
 0742. 📚 docs: clarify environment setup
+0457. 🐛 fix: handle 500 error in quiz API
