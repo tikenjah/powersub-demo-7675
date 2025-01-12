@@ -8239,3 +8239,4 @@
 0986. 📚 docs: document token refresh logic
 0044. ✅ test: add unit test for quiz service
 0452. ✨ feat: implement quiz timer feature
+0201. 🔧 refactor: clean up auth middleware
