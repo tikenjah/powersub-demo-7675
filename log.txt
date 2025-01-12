@@ -10239,3 +10239,4 @@
 0524. ♻️ chore: rename env.example
 0565. ♻️ chore: add GitHub actions badge
 0905. ♻️ chore: bump dependencies
+0038. 🎨 style: rename variables for clarity
