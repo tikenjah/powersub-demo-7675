@@ -9267,3 +9267,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0099. 🚀 perf: reduce image load time
 0859. ✨ feat: create admin dashboard
+0049. 🐛 fix: handle 500 error in quiz API
