@@ -1300,3 +1300,4 @@
 0686. 🎨 style: standardize quote style
 0111. 📚 docs: update README with setup steps
 0310. 🔧 refactor: refactor quiz grading logic
+0748. 🚀 perf: optimize database query for quiz results
