@@ -10241,3 +10241,4 @@
 0905. ♻️ chore: bump dependencies
 0038. 🎨 style: rename variables for clarity
 0444. ✅ test: add unit test for quiz service
+0756. ✨ feat: support email verification
