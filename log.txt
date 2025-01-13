@@ -6231,3 +6231,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0175. 📚 docs: add API usage examples
 0732. ♻️ chore: add GitHub actions badge
+0280. ✅ test: add integration test for /submit endpoint
