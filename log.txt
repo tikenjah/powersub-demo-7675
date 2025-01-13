@@ -1296,3 +1296,4 @@
 0100. ♻️ chore: update .gitignore
 0710. 🐛 fix: fix broken CSS in mobile view
 0309. 🔧 refactor: refactor quiz grading logic
+0623. 🎨 style: standardize quote style
