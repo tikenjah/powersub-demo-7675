@@ -6234,3 +6234,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0187. ✨ feat: support email verification
 0575. ✅ test: add unit test for quiz service
+0786. ✨ feat: enable dark mode toggle
