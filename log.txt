@@ -5223,3 +5223,4 @@
 0950. 🎨 style: reformat files with black
 0804. ♻️ chore: add GitHub actions badge
 0765. ♻️ chore: clean up unused files
+0013. ✅ test: increase coverage on auth module
