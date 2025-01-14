@@ -1324,3 +1324,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0430. 🐛 fix: fix null pointer exception on login
 0545. 🎨 style: standardize quote style
+0120. ✅ test: add integration test for /submit endpoint
