@@ -1321,3 +1321,4 @@
 0555. ✨ feat: create admin dashboard
 0670. ✨ feat: add export to CSV option
 0779. 🔧 refactor: organize models into subfolders
+0218. 🔧 refactor: clean up auth middleware
