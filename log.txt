@@ -1316,3 +1316,4 @@
 0109. 🚀 perf: lazy-load components
 0732. ♻️ chore: add GitHub actions badge
 0385. ♻️ chore: clean up unused files
+0003. ✅ test: increase coverage on auth module
