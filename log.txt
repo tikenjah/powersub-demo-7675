@@ -10243,3 +10243,4 @@
 0444. ✅ test: add unit test for quiz service
 0756. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
+0901. ✨ feat: add user authentication
