@@ -1342,3 +1342,4 @@
 0424. ✨ feat: add user authentication
 0724. ✅ test: mock database connection in test suite
 0684. 🚀 perf: reduce image load time
+0796. 🔧 refactor: refactor quiz grading logic
