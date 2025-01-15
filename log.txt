@@ -10246,3 +10246,4 @@
 0901. ✨ feat: add user authentication
 0109. 🚀 perf: lazy-load components
 0153. ♻️ chore: rename env.example
+0512. 🚀 perf: reduce image load time
