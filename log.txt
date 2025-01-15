@@ -1344,3 +1344,4 @@
 0684. 🚀 perf: reduce image load time
 0796. 🔧 refactor: refactor quiz grading logic
 0119. 📚 docs: improve code comments in utils
+0276. ✅ test: add integration test for /submit endpoint
