@@ -1334,3 +1334,4 @@
 0137. 🎨 style: rename variables for clarity
 0614. 🚀 perf: reduce image load time
 0525. ✅ test: mock database connection in test suite
+0277. 🎨 style: standardize quote style
