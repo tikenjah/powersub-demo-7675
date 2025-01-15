@@ -7252,3 +7252,4 @@
 0620. ✨ feat: implement quiz timer feature
 0560. 🎨 style: rename variables for clarity
 0950. 🎨 style: reformat files with black
+0502. 📚 docs: update README with setup steps
