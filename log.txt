@@ -5225,3 +5225,4 @@
 0765. ♻️ chore: clean up unused files
 0013. ✅ test: increase coverage on auth module
 0631. ✨ feat: create admin dashboard
+0147. ♻️ chore: bump dependencies
