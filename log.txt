@@ -1337,3 +1337,4 @@
 0277. 🎨 style: standardize quote style
 0814. 🔧 refactor: remove redundant code blocks
 0189. 📚 docs: clarify environment setup
+0208. 🔧 refactor: clean up auth middleware
