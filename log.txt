@@ -6248,3 +6248,4 @@
 0090. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
 0599. ✅ test: test user registration edge cases
+0572. ✨ feat: add user authentication
