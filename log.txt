@@ -10248,3 +10248,4 @@
 0153. ♻️ chore: rename env.example
 0512. 🚀 perf: reduce image load time
 0280. ✅ test: add integration test for /submit endpoint
+0090. ✅ test: increase coverage on auth module
