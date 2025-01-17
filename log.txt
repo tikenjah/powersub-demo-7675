@@ -6251,3 +6251,4 @@
 0572. ✨ feat: add user authentication
 0329. 📚 docs: update README with setup steps
 0377. ✨ feat: add user authentication
+0370. 🚀 perf: reduce image load time
