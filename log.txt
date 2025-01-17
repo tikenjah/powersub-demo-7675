@@ -1366,3 +1366,4 @@
 0431. 🎨 style: reformat files with black
 0279. ✨ feat: support email verification
 0437. 📚 docs: clarify environment setup
+0671. 🐛 fix: fix null pointer exception on login
