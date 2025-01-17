@@ -6253,3 +6253,4 @@
 0377. ✨ feat: add user authentication
 0370. 🚀 perf: reduce image load time
 0190. 🎨 style: rename variables for clarity
+0307. ✨ feat: support email verification
