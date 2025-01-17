@@ -1363,3 +1363,4 @@
 0192. ✨ feat: enable dark mode toggle
 0278. 🔧 refactor: clean up auth middleware
 0122. ✨ feat: support email verification
+0431. 🎨 style: reformat files with black
