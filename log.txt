@@ -1374,3 +1374,4 @@
 0403. ✅ test: mock database connection in test suite
 0195. 📚 docs: clarify environment setup
 0938. 🎨 style: rename variables for clarity
+0809. ♻️ chore: rename env.example
