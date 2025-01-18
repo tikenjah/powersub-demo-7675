@@ -1372,3 +1372,4 @@
 0518. ✨ feat: support email verification
 0817. 🔧 refactor: remove redundant code blocks
 0403. ✅ test: mock database connection in test suite
+0195. 📚 docs: clarify environment setup
