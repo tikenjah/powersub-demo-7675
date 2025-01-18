@@ -1371,3 +1371,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0518. ✨ feat: support email verification
 0817. 🔧 refactor: remove redundant code blocks
+0403. ✅ test: mock database connection in test suite
