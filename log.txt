@@ -1385,3 +1385,4 @@
 0210. 🎨 style: apply consistent indentation
 0903. ✅ test: mock database connection in test suite
 0149. ✨ feat: add export to CSV option
+0265. 🎨 style: reformat files with black
