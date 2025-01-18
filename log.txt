@@ -1381,3 +1381,4 @@
 0300. ✨ feat: add export to CSV option
 0235. 🐛 fix: fix null pointer exception on login
 0508. ✅ test: add unit test for quiz service
+0977. 🔧 refactor: organize models into subfolders
