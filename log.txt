@@ -8253,3 +8253,4 @@
 0974. ✨ feat: add export to CSV option
 0515. 🚀 perf: optimize database query for quiz results
 0251. ♻️ chore: update .gitignore
+0696. 🔧 refactor: clean up auth middleware
