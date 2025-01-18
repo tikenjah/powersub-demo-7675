@@ -1369,3 +1369,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0037. 🐛 fix: correct typo in registration form
 0380. 🐛 fix: fix null pointer exception on login
+0518. ✨ feat: support email verification
