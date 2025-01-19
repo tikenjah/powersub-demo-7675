@@ -1388,3 +1388,4 @@
 0265. 🎨 style: reformat files with black
 0120. ✅ test: add integration test for /submit endpoint
 0370. 🚀 perf: reduce image load time
+0680. ♻️ chore: add GitHub actions badge
