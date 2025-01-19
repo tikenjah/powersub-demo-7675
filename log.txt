@@ -1400,3 +1400,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0283. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
+0252. 🎨 style: remove trailing whitespace
