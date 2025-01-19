@@ -1389,3 +1389,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0370. 🚀 perf: reduce image load time
 0680. ♻️ chore: add GitHub actions badge
+0598. 🔧 refactor: remove redundant code blocks
