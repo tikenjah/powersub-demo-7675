@@ -9283,3 +9283,4 @@
 0891. ✨ feat: create admin dashboard
 0855. 🎨 style: reformat files with black
 0040. 🔧 refactor: clean up auth middleware
+0291. 📚 docs: write FAQ section
