@@ -1397,3 +1397,4 @@
 0651. ✨ feat: enable dark mode toggle
 0334. 🚀 perf: cache repeated calculations
 0460. 📚 docs: write FAQ section
+0201. 🔧 refactor: clean up auth middleware
