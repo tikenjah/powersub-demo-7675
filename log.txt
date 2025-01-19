@@ -5233,3 +5233,4 @@
 0188. 🎨 style: apply consistent indentation
 0203. 🚀 perf: lazy-load components
 0931. 🚀 perf: reduce image load time
+0042. 📚 docs: document token refresh logic
