@@ -1392,3 +1392,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
 0743. 🎨 style: apply consistent indentation
+0569. 📚 docs: document token refresh logic
