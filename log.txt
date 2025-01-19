@@ -10255,3 +10255,4 @@
 0529. 📚 docs: write FAQ section
 0712. 🎨 style: apply consistent indentation
 0946. ✅ test: add unit test for quiz service
+0496. ✅ test: add integration test for /submit endpoint
