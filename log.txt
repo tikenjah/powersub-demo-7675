@@ -5236,3 +5236,4 @@
 0042. 📚 docs: document token refresh logic
 0237. 🎨 style: standardize quote style
 0924. ✅ test: mock database connection in test suite
+0415. 🐛 fix: handle 500 error in quiz API
