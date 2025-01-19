@@ -1396,3 +1396,4 @@
 0599. ✅ test: test user registration edge cases
 0651. ✨ feat: enable dark mode toggle
 0334. 🚀 perf: cache repeated calculations
+0460. 📚 docs: write FAQ section
