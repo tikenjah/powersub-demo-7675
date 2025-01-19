@@ -1390,3 +1390,4 @@
 0370. 🚀 perf: reduce image load time
 0680. ♻️ chore: add GitHub actions badge
 0598. 🔧 refactor: remove redundant code blocks
+0527. 🎨 style: remove trailing whitespace
