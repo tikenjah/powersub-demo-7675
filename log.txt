@@ -7255,3 +7255,4 @@
 0502. 📚 docs: update README with setup steps
 0292. 📚 docs: clarify environment setup
 0912. 📚 docs: document token refresh logic
+0308. 🚀 perf: reduce image load time
