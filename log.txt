@@ -6255,3 +6255,4 @@
 0190. 🎨 style: rename variables for clarity
 0307. ✨ feat: support email verification
 0164. 📚 docs: document token refresh logic
+0685. ✅ test: test user registration edge cases
