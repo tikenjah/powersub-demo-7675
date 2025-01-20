@@ -1408,3 +1408,4 @@
 0329. 📚 docs: update README with setup steps
 0534. 🔧 refactor: split large controller into smaller functions
 0311. 🎨 style: apply consistent indentation
+0539. 🔧 refactor: organize models into subfolders
