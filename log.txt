@@ -1413,3 +1413,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0065. ✅ test: add integration test for /submit endpoint
 0242. ♻️ chore: clean up unused files
+0221. ✨ feat: add user authentication
