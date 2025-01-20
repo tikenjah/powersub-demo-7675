@@ -10257,3 +10257,4 @@
 0946. ✅ test: add unit test for quiz service
 0496. ✅ test: add integration test for /submit endpoint
 0490. ✨ feat: create admin dashboard
+0646. ✅ test: test user registration edge cases
