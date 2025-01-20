@@ -5244,3 +5244,4 @@
 0743. 🎨 style: apply consistent indentation
 0462. ♻️ chore: update .gitignore
 0543. ✨ feat: support email verification
+0688. 🚀 perf: reduce image load time
