@@ -1431,3 +1431,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0034. 📚 docs: improve code comments in utils
 0057. 🚀 perf: optimize database query for quiz results
+0080. ✨ feat: support email verification
