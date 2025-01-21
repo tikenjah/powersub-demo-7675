@@ -1423,3 +1423,4 @@
 0976. ✨ feat: implement quiz timer feature
 0060. ♻️ chore: clean up unused files
 0421. 🔧 refactor: split large controller into smaller functions
+0072. 🚀 perf: optimize database query for quiz results
