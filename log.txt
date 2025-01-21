@@ -1415,3 +1415,4 @@
 0242. ♻️ chore: clean up unused files
 0221. ✨ feat: add user authentication
 0398. 🚀 perf: cache repeated calculations
+0800. 🚀 perf: optimize database query for quiz results
