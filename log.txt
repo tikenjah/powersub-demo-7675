@@ -1427,3 +1427,4 @@
 0724. ✅ test: mock database connection in test suite
 0756. ✨ feat: support email verification
 0003. ✅ test: increase coverage on auth module
+0802. 🔧 refactor: remove redundant code blocks
