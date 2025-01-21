@@ -1426,3 +1426,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0724. ✅ test: mock database connection in test suite
 0756. ✨ feat: support email verification
+0003. ✅ test: increase coverage on auth module
