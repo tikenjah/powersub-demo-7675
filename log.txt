@@ -6257,3 +6257,4 @@
 0164. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
 0137. 🎨 style: rename variables for clarity
+0813. 🔧 refactor: organize models into subfolders
