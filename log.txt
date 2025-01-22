@@ -1436,3 +1436,4 @@
 0916. ♻️ chore: bump dependencies
 0866. 📚 docs: add API usage examples
 0450. 🐛 fix: fix broken CSS in mobile view
+0629. 🔧 refactor: organize models into subfolders
