@@ -1434,3 +1434,4 @@
 0080. ✨ feat: support email verification
 0846. ✨ feat: implement quiz timer feature
 0916. ♻️ chore: bump dependencies
+0866. 📚 docs: add API usage examples
