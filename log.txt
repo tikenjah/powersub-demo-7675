@@ -7267,3 +7267,4 @@
 0305. ✨ feat: enable dark mode toggle
 0625. 🐛 fix: handle 500 error in quiz API
 0914. ✅ test: test user registration edge cases
+0339. 📚 docs: update README with setup steps
