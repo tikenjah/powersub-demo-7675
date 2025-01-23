@@ -9294,3 +9294,4 @@
 0575. ✅ test: add unit test for quiz service
 0022. 📚 docs: document token refresh logic
 0554. 📚 docs: improve code comments in utils
+0754. 🐛 fix: handle 500 error in quiz API
