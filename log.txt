@@ -1459,3 +1459,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0540. ♻️ chore: add GitHub actions badge
 0810. 🔧 refactor: refactor quiz grading logic
+0894. ✅ test: add integration test for /submit endpoint
