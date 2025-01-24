@@ -9299,3 +9299,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0088. 📚 docs: add API usage examples
 0195. 📚 docs: clarify environment setup
+0787. ♻️ chore: rename env.example
