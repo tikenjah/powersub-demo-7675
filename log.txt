@@ -9302,3 +9302,4 @@
 0787. ♻️ chore: rename env.example
 0581. ✅ test: add integration test for /submit endpoint
 0810. 🔧 refactor: refactor quiz grading logic
+0911. ✅ test: increase coverage on auth module
