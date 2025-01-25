@@ -5264,3 +5264,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0731. 🎨 style: standardize quote style
 0568. 🐛 fix: handle 500 error in quiz API
+0537. 🔧 refactor: remove redundant code blocks
