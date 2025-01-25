@@ -6265,3 +6265,4 @@
 0431. 🎨 style: reformat files with black
 0117. ✅ test: increase coverage on auth module
 0916. ♻️ chore: bump dependencies
+0844. 📚 docs: update README with setup steps
