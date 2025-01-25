@@ -5258,3 +5258,4 @@
 0192. ✨ feat: enable dark mode toggle
 0985. 📚 docs: document token refresh logic
 0921. 🐛 fix: correct typo in registration form
+0813. 🔧 refactor: organize models into subfolders
