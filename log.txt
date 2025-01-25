@@ -5262,3 +5262,4 @@
 0528. ♻️ chore: clean up unused files
 0638. 📚 docs: improve code comments in utils
 0367. 🐛 fix: fix null pointer exception on login
+0731. 🎨 style: standardize quote style
