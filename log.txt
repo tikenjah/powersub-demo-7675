@@ -8267,3 +8267,4 @@
 0447. ♻️ chore: bump dependencies
 0716. ✨ feat: implement quiz timer feature
 0588. 🔧 refactor: organize models into subfolders
+0552. 🐛 fix: fix null pointer exception on login
