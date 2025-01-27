@@ -1495,3 +1495,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0932. ✅ test: add integration test for /submit endpoint
 0699. 🎨 style: standardize quote style
+0893. 🐛 fix: handle 500 error in quiz API
