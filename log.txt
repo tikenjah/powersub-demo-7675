@@ -9309,3 +9309,4 @@
 0527. 🎨 style: remove trailing whitespace
 0535. 📚 docs: write FAQ section
 0997. ✅ test: increase coverage on auth module
+0791. 🔧 refactor: clean up auth middleware
