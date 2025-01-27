@@ -7279,3 +7279,4 @@
 0962. ✨ feat: create admin dashboard
 0447. ♻️ chore: bump dependencies
 0586. 🎨 style: remove trailing whitespace
+0680. ♻️ chore: add GitHub actions badge
