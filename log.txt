@@ -9310,3 +9310,4 @@
 0535. 📚 docs: write FAQ section
 0997. ✅ test: increase coverage on auth module
 0791. 🔧 refactor: clean up auth middleware
+0669. ✨ feat: enable dark mode toggle
