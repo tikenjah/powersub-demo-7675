@@ -8272,3 +8272,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0409. 🚀 perf: lazy-load components
 0914. ✅ test: test user registration edge cases
+0370. 🚀 perf: reduce image load time
