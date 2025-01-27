@@ -1488,3 +1488,4 @@
 0117. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
 0459. 🔧 refactor: organize models into subfolders
+0623. 🎨 style: standardize quote style
