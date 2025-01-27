@@ -1493,3 +1493,4 @@
 0939. 📚 docs: update README with setup steps
 0891. ✨ feat: create admin dashboard
 0538. 🐛 fix: fix broken CSS in mobile view
+0932. ✅ test: add integration test for /submit endpoint
