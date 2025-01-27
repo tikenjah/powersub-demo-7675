@@ -7280,3 +7280,4 @@
 0447. ♻️ chore: bump dependencies
 0586. 🎨 style: remove trailing whitespace
 0680. ♻️ chore: add GitHub actions badge
+0809. ♻️ chore: rename env.example
