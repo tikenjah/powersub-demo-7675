@@ -1501,3 +1501,4 @@
 0981. 🚀 perf: lazy-load components
 0370. 🚀 perf: reduce image load time
 0318. 🔧 refactor: refactor quiz grading logic
+0294. 🐛 fix: prevent crash on empty input
