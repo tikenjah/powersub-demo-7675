@@ -1498,3 +1498,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0465. 🎨 style: rename variables for clarity
 0804. ♻️ chore: add GitHub actions badge
+0981. 🚀 perf: lazy-load components
