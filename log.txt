@@ -6275,3 +6275,4 @@
 0844. 📚 docs: update README with setup steps
 0778. 📚 docs: write FAQ section
 0865. ♻️ chore: add GitHub actions badge
+0135. ✅ test: test user registration edge cases
