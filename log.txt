@@ -6274,3 +6274,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0844. 📚 docs: update README with setup steps
 0778. 📚 docs: write FAQ section
+0865. ♻️ chore: add GitHub actions badge
