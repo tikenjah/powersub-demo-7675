@@ -1522,3 +1522,4 @@
 0024. 📚 docs: write FAQ section
 0959. 🐛 fix: fix null pointer exception on login
 0994. 🚀 perf: reduce image load time
+0666. 🐛 fix: fix broken CSS in mobile view
