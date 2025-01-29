@@ -1521,3 +1521,4 @@
 0198. 📚 docs: clarify environment setup
 0024. 📚 docs: write FAQ section
 0959. 🐛 fix: fix null pointer exception on login
+0994. 🚀 perf: reduce image load time
