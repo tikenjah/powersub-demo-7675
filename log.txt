@@ -1526,3 +1526,4 @@
 0044. ✅ test: add unit test for quiz service
 0042. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
+0894. ✅ test: add integration test for /submit endpoint
