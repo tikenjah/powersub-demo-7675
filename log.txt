@@ -6278,3 +6278,4 @@
 0135. ✅ test: test user registration edge cases
 0411. ✅ test: add unit test for quiz service
 0491. 🚀 perf: lazy-load components
+0092. 🚀 perf: reduce image load time
