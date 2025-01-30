@@ -9321,3 +9321,4 @@
 0981. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
 0801. ✨ feat: enable dark mode toggle
+0656. 🎨 style: apply consistent indentation
