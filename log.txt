@@ -5277,3 +5277,4 @@
 0102. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
 0831. 📚 docs: clarify environment setup
+0536. ✨ feat: add user authentication
