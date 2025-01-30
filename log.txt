@@ -1532,3 +1532,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0262. 🎨 style: remove trailing whitespace
 1000. ✅ test: increase coverage on auth module
+0103. 🔧 refactor: remove redundant code blocks
