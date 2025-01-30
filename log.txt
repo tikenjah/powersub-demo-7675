@@ -8281,3 +8281,4 @@
 0949. 📚 docs: write FAQ section
 0730. ✅ test: test user registration edge cases
 0254. 🚀 perf: reduce image load time
+0752. ✅ test: add integration test for /submit endpoint
