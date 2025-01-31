@@ -5283,3 +5283,4 @@
 0992. ♻️ chore: clean up unused files
 0434. 📚 docs: document token refresh logic
 0827. 🚀 perf: optimize database query for quiz results
+0649. 📚 docs: update README with setup steps
