@@ -10285,3 +10285,4 @@
 0203. 🚀 perf: lazy-load components
 0320. 📚 docs: update README with setup steps
 0085. ✨ feat: support email verification
+0906. 📚 docs: add API usage examples
