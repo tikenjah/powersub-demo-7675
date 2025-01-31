@@ -10286,3 +10286,4 @@
 0320. 📚 docs: update README with setup steps
 0085. ✨ feat: support email verification
 0906. 📚 docs: add API usage examples
+0277. 🎨 style: standardize quote style
