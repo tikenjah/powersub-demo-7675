@@ -1551,3 +1551,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0797. 📚 docs: add API usage examples
 0698. 🐛 fix: handle 500 error in quiz API
+0229. 🚀 perf: optimize database query for quiz results
