@@ -5280,3 +5280,4 @@
 0536. ✨ feat: add user authentication
 0703. 🔧 refactor: clean up auth middleware
 0495. 🔧 refactor: remove redundant code blocks
+0992. ♻️ chore: clean up unused files
