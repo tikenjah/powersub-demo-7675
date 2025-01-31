@@ -1536,3 +1536,4 @@
 0032. 🎨 style: apply consistent indentation
 0794. ♻️ chore: clean up unused files
 0877. 🚀 perf: optimize database query for quiz results
+0727. ♻️ chore: add GitHub actions badge
