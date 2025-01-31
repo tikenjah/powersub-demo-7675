@@ -1547,3 +1547,4 @@
 0820. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
+0355. 🚀 perf: optimize database query for quiz results
