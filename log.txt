@@ -1539,3 +1539,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0250. 📚 docs: update README with setup steps
 0049. 🐛 fix: handle 500 error in quiz API
+0100. ♻️ chore: update .gitignore
