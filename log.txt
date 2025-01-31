@@ -7290,3 +7290,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0835. 🐛 fix: prevent crash on empty input
 0587. 🔧 refactor: remove redundant code blocks
+0377. ✨ feat: add user authentication
