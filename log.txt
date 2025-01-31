@@ -10288,3 +10288,4 @@
 0906. 📚 docs: add API usage examples
 0277. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
+0629. 🔧 refactor: organize models into subfolders
