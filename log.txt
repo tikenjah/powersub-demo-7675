@@ -1546,3 +1546,4 @@
 0092. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
+0797. 📚 docs: add API usage examples
