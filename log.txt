@@ -1559,3 +1559,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0051. ✨ feat: enable dark mode toggle
 0959. 🐛 fix: fix null pointer exception on login
+0039. ✅ test: add integration test for /submit endpoint
