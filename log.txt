@@ -1557,3 +1557,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0500. ✅ test: add integration test for /submit endpoint
 0552. 🐛 fix: fix null pointer exception on login
+0051. ✨ feat: enable dark mode toggle
