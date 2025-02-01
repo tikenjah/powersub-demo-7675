@@ -6285,3 +6285,4 @@
 0992. ♻️ chore: clean up unused files
 0254. 🚀 perf: reduce image load time
 0391. 🐛 fix: fix null pointer exception on login
+0103. 🔧 refactor: remove redundant code blocks
