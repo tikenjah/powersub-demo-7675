@@ -10294,3 +10294,4 @@
 0022. 📚 docs: document token refresh logic
 0534. 🔧 refactor: split large controller into smaller functions
 0076. 🎨 style: reformat files with black
+0055. 📚 docs: update README with setup steps
