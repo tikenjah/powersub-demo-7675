@@ -5292,3 +5292,4 @@
 0054. ♻️ chore: update .gitignore
 0024. 📚 docs: write FAQ section
 0188. 🎨 style: apply consistent indentation
+0140. 🐛 fix: handle 500 error in quiz API
