@@ -5289,3 +5289,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0080. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
+0054. ♻️ chore: update .gitignore
