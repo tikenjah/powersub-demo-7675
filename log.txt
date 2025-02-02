@@ -5290,3 +5290,4 @@
 0080. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
 0054. ♻️ chore: update .gitignore
+0024. 📚 docs: write FAQ section
