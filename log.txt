@@ -1567,3 +1567,4 @@
 0797. 📚 docs: add API usage examples
 0384. 📚 docs: clarify environment setup
 0353. ♻️ chore: rename env.example
+0415. 🐛 fix: handle 500 error in quiz API
