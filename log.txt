@@ -1579,3 +1579,4 @@
 0795. 📚 docs: update README with setup steps
 0791. 🔧 refactor: clean up auth middleware
 0396. 🔧 refactor: split large controller into smaller functions
+0317. ✅ test: test user registration edge cases
