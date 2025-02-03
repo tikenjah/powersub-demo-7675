@@ -1588,3 +1588,4 @@
 0446. 🎨 style: apply consistent indentation
 0878. 🔧 refactor: split large controller into smaller functions
 0739. 🎨 style: remove trailing whitespace
+0650. ✅ test: add unit test for quiz service
