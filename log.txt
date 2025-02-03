@@ -7297,3 +7297,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0954. 🚀 perf: cache repeated calculations
 0590. 🐛 fix: fix null pointer exception on login
+0503. ♻️ chore: rename env.example
