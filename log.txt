@@ -1581,3 +1581,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
 0430. 🐛 fix: fix null pointer exception on login
+0485. 📚 docs: update README with setup steps
