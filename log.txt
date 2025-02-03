@@ -1583,3 +1583,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0485. 📚 docs: update README with setup steps
 0090. ✅ test: increase coverage on auth module
+0238. 🎨 style: apply consistent indentation
