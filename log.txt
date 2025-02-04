@@ -6291,3 +6291,4 @@
 0487. 🎨 style: reformat files with black
 0984. ♻️ chore: clean up unused files
 0265. 🎨 style: reformat files with black
+0023. 📚 docs: clarify environment setup
