@@ -1599,3 +1599,4 @@
 0879. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
 0129. 🔧 refactor: organize models into subfolders
+0201. 🔧 refactor: clean up auth middleware
