@@ -5297,3 +5297,4 @@
 0483. 📚 docs: update README with setup steps
 0110. 🐛 fix: prevent crash on empty input
 0185. 📚 docs: write FAQ section
+0823. ✨ feat: add user authentication
