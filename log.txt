@@ -7300,3 +7300,4 @@
 0503. ♻️ chore: rename env.example
 0456. 🚀 perf: optimize database query for quiz results
 0365. 🚀 perf: reduce image load time
+0378. 🐛 fix: prevent crash on empty input
