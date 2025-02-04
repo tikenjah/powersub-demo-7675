@@ -1596,3 +1596,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0914. ✅ test: test user registration edge cases
 0375. 🐛 fix: handle 500 error in quiz API
+0879. 🎨 style: standardize quote style
