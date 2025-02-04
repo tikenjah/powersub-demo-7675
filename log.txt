@@ -1590,3 +1590,4 @@
 0739. 🎨 style: remove trailing whitespace
 0650. ✅ test: add unit test for quiz service
 0001. 🚀 perf: cache repeated calculations
+0551. 📚 docs: write FAQ section
