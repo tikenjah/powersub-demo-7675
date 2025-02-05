@@ -1621,3 +1621,4 @@
 0548. 📚 docs: write FAQ section
 0028. 🎨 style: standardize quote style
 0838. 🎨 style: standardize quote style
+0074. ♻️ chore: add GitHub actions badge
