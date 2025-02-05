@@ -7304,3 +7304,4 @@
 0615. 🐛 fix: correct typo in registration form
 0180. ✨ feat: add export to CSV option
 0135. ✅ test: test user registration edge cases
+0493. ✨ feat: add user authentication
