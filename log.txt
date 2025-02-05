@@ -10302,3 +10302,4 @@
 0994. 🚀 perf: reduce image load time
 0285. 🐛 fix: resolve issue with date parsing
 0370. 🚀 perf: reduce image load time
+0110. 🐛 fix: prevent crash on empty input
