@@ -1620,3 +1620,4 @@
 0109. 🚀 perf: lazy-load components
 0548. 📚 docs: write FAQ section
 0028. 🎨 style: standardize quote style
+0838. 🎨 style: standardize quote style
