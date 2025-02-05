@@ -1613,3 +1613,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0639. 🐛 fix: correct typo in registration form
 0561. 📚 docs: write FAQ section
+0583. ✅ test: increase coverage on auth module
