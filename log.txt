@@ -1614,3 +1614,4 @@
 0639. 🐛 fix: correct typo in registration form
 0561. 📚 docs: write FAQ section
 0583. ✅ test: increase coverage on auth module
+0662. ♻️ chore: clean up unused files
