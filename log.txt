@@ -1618,3 +1618,4 @@
 0098. 🎨 style: rename variables for clarity
 0254. 🚀 perf: reduce image load time
 0109. 🚀 perf: lazy-load components
+0548. 📚 docs: write FAQ section
