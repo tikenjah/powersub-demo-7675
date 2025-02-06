@@ -1629,3 +1629,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0175. 📚 docs: add API usage examples
 0653. 🐛 fix: prevent crash on empty input
+0248. 🐛 fix: handle 500 error in quiz API
