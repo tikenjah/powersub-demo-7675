@@ -1636,3 +1636,4 @@
 0382. 📚 docs: improve code comments in utils
 0433. 🐛 fix: prevent crash on empty input
 0827. 🚀 perf: optimize database query for quiz results
+0672. 🐛 fix: fix broken CSS in mobile view
