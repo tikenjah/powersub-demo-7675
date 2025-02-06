@@ -1624,3 +1624,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0616. 🚀 perf: lazy-load components
 0438. ♻️ chore: bump dependencies
+0133. 🐛 fix: fix null pointer exception on login
