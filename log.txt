@@ -1632,3 +1632,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0628. ♻️ chore: add GitHub actions badge
 0919. 🚀 perf: optimize database query for quiz results
+0851. ✅ test: mock database connection in test suite
