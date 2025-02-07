@@ -9338,3 +9338,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0490. ✨ feat: create admin dashboard
 0118. 🚀 perf: reduce image load time
+0110. 🐛 fix: prevent crash on empty input
