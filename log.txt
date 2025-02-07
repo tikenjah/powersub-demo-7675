@@ -10310,3 +10310,4 @@
 0597. 🚀 perf: cache repeated calculations
 0221. ✨ feat: add user authentication
 0928. 🎨 style: apply consistent indentation
+0977. 🔧 refactor: organize models into subfolders
