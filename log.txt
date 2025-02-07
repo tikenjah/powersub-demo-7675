@@ -9341,3 +9341,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0360. ✨ feat: add export to CSV option
 0262. 🎨 style: remove trailing whitespace
+0283. ♻️ chore: add GitHub actions badge
