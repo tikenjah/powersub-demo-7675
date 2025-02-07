@@ -9339,3 +9339,4 @@
 0490. ✨ feat: create admin dashboard
 0118. 🚀 perf: reduce image load time
 0110. 🐛 fix: prevent crash on empty input
+0360. ✨ feat: add export to CSV option
