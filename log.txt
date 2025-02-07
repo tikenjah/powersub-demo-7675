@@ -1651,3 +1651,4 @@
 0440. 📚 docs: update README with setup steps
 0330. ✅ test: test user registration edge cases
 0223. 🔧 refactor: remove redundant code blocks
+0870. ♻️ chore: clean up unused files
