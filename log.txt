@@ -1660,3 +1660,4 @@
 0866. 📚 docs: add API usage examples
 0745. ✅ test: add unit test for quiz service
 0655. 🚀 perf: cache repeated calculations
+0874. 🔧 refactor: split large controller into smaller functions
