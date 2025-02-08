@@ -8307,3 +8307,4 @@
 0596. ♻️ chore: update .gitignore
 0092. 🚀 perf: reduce image load time
 0154. 🐛 fix: prevent crash on empty input
+0336. ✨ feat: add export to CSV option
