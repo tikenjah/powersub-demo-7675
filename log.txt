@@ -1655,3 +1655,4 @@
 0820. 📚 docs: add API usage examples
 0967. ♻️ chore: add GitHub actions badge
 0788. 📚 docs: add API usage examples
+0347. ♻️ chore: update .gitignore
