@@ -7311,3 +7311,4 @@
 0172. 📚 docs: add API usage examples
 0707. 🎨 style: apply consistent indentation
 0388. 🎨 style: reformat files with black
+0264. 🚀 perf: optimize database query for quiz results
