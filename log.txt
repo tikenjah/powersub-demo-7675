@@ -1678,3 +1678,4 @@
 0432. 🎨 style: apply consistent indentation
 0295. 🎨 style: remove trailing whitespace
 0549. ✨ feat: enable dark mode toggle
+0659. 📚 docs: add API usage examples
