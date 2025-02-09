@@ -5305,3 +5305,4 @@
 0595. ✨ feat: enable dark mode toggle
 0270. ♻️ chore: rename env.example
 0255. 🔧 refactor: refactor quiz grading logic
+0565. ♻️ chore: add GitHub actions badge
