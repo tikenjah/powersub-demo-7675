@@ -9353,3 +9353,4 @@
 0491. 🚀 perf: lazy-load components
 0511. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0642. 🚀 perf: optimize database query for quiz results
