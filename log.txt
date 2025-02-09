@@ -1676,3 +1676,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0644. 🎨 style: apply consistent indentation
 0432. 🎨 style: apply consistent indentation
+0295. 🎨 style: remove trailing whitespace
