@@ -10319,3 +10319,4 @@
 0849. 🐛 fix: correct typo in registration form
 0886. ♻️ chore: clean up unused files
 0420. 🚀 perf: reduce image load time
+0116. ✨ feat: support email verification
