@@ -9357,3 +9357,4 @@
 0639. 🐛 fix: correct typo in registration form
 0492. 🎨 style: remove trailing whitespace
 0860. 🔧 refactor: organize models into subfolders
+0110. 🐛 fix: prevent crash on empty input
