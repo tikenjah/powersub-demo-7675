@@ -8310,3 +8310,4 @@
 0336. ✨ feat: add export to CSV option
 0404. 📚 docs: improve code comments in utils
 0387. ✨ feat: enable dark mode toggle
+0475. 🔧 refactor: clean up auth middleware
