@@ -5310,3 +5310,4 @@
 0410. 🎨 style: reformat files with black
 0839. 🎨 style: apply consistent indentation
 0990. ♻️ chore: rename env.example
+0434. 📚 docs: document token refresh logic
