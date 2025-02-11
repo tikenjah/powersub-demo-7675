@@ -1703,3 +1703,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0501. ✨ feat: add export to CSV option
 0580. ♻️ chore: bump dependencies
+0190. 🎨 style: rename variables for clarity
