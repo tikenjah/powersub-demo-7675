@@ -6304,3 +6304,4 @@
 0317. ✅ test: test user registration edge cases
 0278. 🔧 refactor: clean up auth middleware
 0057. 🚀 perf: optimize database query for quiz results
+0569. 📚 docs: document token refresh logic
