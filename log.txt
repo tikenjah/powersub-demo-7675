@@ -1700,3 +1700,4 @@
 0943. 🎨 style: rename variables for clarity
 0194. 🎨 style: standardize quote style
 0160. ♻️ chore: bump dependencies
+0696. 🔧 refactor: clean up auth middleware
