@@ -1712,3 +1712,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0646. ✅ test: test user registration edge cases
 0475. 🔧 refactor: clean up auth middleware
+0798. 🚀 perf: reduce image load time
