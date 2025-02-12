@@ -1709,3 +1709,4 @@
 0712. 🎨 style: apply consistent indentation
 0856. 🐛 fix: fix null pointer exception on login
 0073. 🔧 refactor: split large controller into smaller functions
+0408. ♻️ chore: add GitHub actions badge
