@@ -1731,3 +1731,4 @@
 0350. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
 0993. ✨ feat: implement quiz timer feature
+0894. ✅ test: add integration test for /submit endpoint
