@@ -7317,3 +7317,4 @@
 0270. ♻️ chore: rename env.example
 0639. 🐛 fix: correct typo in registration form
 0565. ♻️ chore: add GitHub actions badge
+0742. 📚 docs: clarify environment setup
