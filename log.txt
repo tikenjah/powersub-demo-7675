@@ -8323,3 +8323,4 @@
 0438. ♻️ chore: bump dependencies
 0248. 🐛 fix: handle 500 error in quiz API
 0887. 📚 docs: add API usage examples
+0305. ✨ feat: enable dark mode toggle
