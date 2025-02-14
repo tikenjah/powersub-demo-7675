@@ -10331,3 +10331,4 @@
 0545. 🎨 style: standardize quote style
 0307. ✨ feat: support email verification
 0458. ✨ feat: create admin dashboard
+0531. 🐛 fix: prevent crash on empty input
