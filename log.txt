@@ -7318,3 +7318,4 @@
 0639. 🐛 fix: correct typo in registration form
 0565. ♻️ chore: add GitHub actions badge
 0742. 📚 docs: clarify environment setup
+0187. ✨ feat: support email verification
