@@ -1741,3 +1741,4 @@
 0617. ✨ feat: support email verification
 0084. 🐛 fix: handle 500 error in quiz API
 0537. 🔧 refactor: remove redundant code blocks
+0914. ✅ test: test user registration edge cases
