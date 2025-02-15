@@ -5319,3 +5319,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0449. ✅ test: add unit test for quiz service
 0658. 🎨 style: rename variables for clarity
+0072. 🚀 perf: optimize database query for quiz results
