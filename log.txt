@@ -1742,3 +1742,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0537. 🔧 refactor: remove redundant code blocks
 0914. ✅ test: test user registration edge cases
+0460. 📚 docs: write FAQ section
