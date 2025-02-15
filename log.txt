@@ -7321,3 +7321,4 @@
 0187. ✨ feat: support email verification
 0469. 🚀 perf: lazy-load components
 0414. 🔧 refactor: remove redundant code blocks
+0254. 🚀 perf: reduce image load time
