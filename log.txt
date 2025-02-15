@@ -7319,3 +7319,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0742. 📚 docs: clarify environment setup
 0187. ✨ feat: support email verification
+0469. 🚀 perf: lazy-load components
