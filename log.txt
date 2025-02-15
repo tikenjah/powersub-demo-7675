@@ -9373,3 +9373,4 @@
 0161. ✨ feat: create admin dashboard
 0221. ✨ feat: add user authentication
 0790. 📚 docs: write FAQ section
+0542. 🔧 refactor: organize models into subfolders
