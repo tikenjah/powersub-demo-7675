@@ -1770,3 +1770,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0199. ✨ feat: create admin dashboard
 0306. 🎨 style: apply consistent indentation
+0064. 📚 docs: clarify environment setup
