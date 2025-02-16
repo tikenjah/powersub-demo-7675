@@ -1763,3 +1763,4 @@
 0325. 🎨 style: rename variables for clarity
 0388. 🎨 style: reformat files with black
 0872. 🎨 style: rename variables for clarity
+0988. 🐛 fix: fix broken CSS in mobile view
