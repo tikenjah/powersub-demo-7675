@@ -5323,3 +5323,4 @@
 0824. 🚀 perf: lazy-load components
 0393. 🚀 perf: lazy-load components
 0523. ♻️ chore: bump dependencies
+0941. 🚀 perf: cache repeated calculations
