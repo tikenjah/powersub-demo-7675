@@ -9378,3 +9378,4 @@
 0177. 📚 docs: add API usage examples
 0655. 🚀 perf: cache repeated calculations
 0012. 🚀 perf: cache repeated calculations
+0670. ✨ feat: add export to CSV option
