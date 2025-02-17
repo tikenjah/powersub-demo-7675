@@ -1781,3 +1781,4 @@
 0904. ✨ feat: implement quiz timer feature
 0134. ✨ feat: implement quiz timer feature
 0981. 🚀 perf: lazy-load components
+0945. ♻️ chore: add GitHub actions badge
