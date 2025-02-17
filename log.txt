@@ -1775,3 +1775,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0169. 📚 docs: add API usage examples
 0013. ✅ test: increase coverage on auth module
+0542. 🔧 refactor: organize models into subfolders
