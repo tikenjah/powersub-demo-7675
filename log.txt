@@ -1773,3 +1773,4 @@
 0064. 📚 docs: clarify environment setup
 0702. ✨ feat: add user authentication
 0540. ♻️ chore: add GitHub actions badge
+0169. 📚 docs: add API usage examples
