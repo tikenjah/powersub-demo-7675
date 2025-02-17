@@ -1780,3 +1780,4 @@
 0265. 🎨 style: reformat files with black
 0904. ✨ feat: implement quiz timer feature
 0134. ✨ feat: implement quiz timer feature
+0981. 🚀 perf: lazy-load components
