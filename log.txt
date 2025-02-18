@@ -10343,3 +10343,4 @@
 0265. 🎨 style: reformat files with black
 0770. ♻️ chore: rename env.example
 0494. 🎨 style: rename variables for clarity
+0687. 🎨 style: remove trailing whitespace
