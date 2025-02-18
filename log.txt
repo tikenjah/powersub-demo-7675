@@ -6318,3 +6318,4 @@
 0806. 📚 docs: improve code comments in utils
 0742. 📚 docs: clarify environment setup
 0146. 🎨 style: apply consistent indentation
+0978. 🐛 fix: prevent crash on empty input
