@@ -9379,3 +9379,4 @@
 0655. 🚀 perf: cache repeated calculations
 0012. 🚀 perf: cache repeated calculations
 0670. ✨ feat: add export to CSV option
+0085. ✨ feat: support email verification
