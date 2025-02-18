@@ -1791,3 +1791,4 @@
 0124. 🎨 style: reformat files with black
 0785. ✨ feat: enable dark mode toggle
 0738. 🐛 fix: prevent crash on empty input
+0813. 🔧 refactor: organize models into subfolders
