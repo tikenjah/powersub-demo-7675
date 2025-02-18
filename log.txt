@@ -1786,3 +1786,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0402. 🎨 style: reformat files with black
 0129. 🔧 refactor: organize models into subfolders
+0157. ✅ test: mock database connection in test suite
