@@ -7327,3 +7327,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0832. 🔧 refactor: remove redundant code blocks
 0378. 🐛 fix: prevent crash on empty input
+0453. 🎨 style: standardize quote style
