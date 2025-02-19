@@ -10344,3 +10344,4 @@
 0770. ♻️ chore: rename env.example
 0494. 🎨 style: rename variables for clarity
 0687. 🎨 style: remove trailing whitespace
+0505. ♻️ chore: add GitHub actions badge
