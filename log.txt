@@ -1800,3 +1800,4 @@
 0438. ♻️ chore: bump dependencies
 0281. ✨ feat: support email verification
 0605. ✨ feat: support email verification
+0072. 🚀 perf: optimize database query for quiz results
