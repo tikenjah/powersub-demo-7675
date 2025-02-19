@@ -1799,3 +1799,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0438. ♻️ chore: bump dependencies
 0281. ✨ feat: support email verification
+0605. ✨ feat: support email verification
