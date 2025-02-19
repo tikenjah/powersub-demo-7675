@@ -1809,3 +1809,4 @@
 0786. ✨ feat: enable dark mode toggle
 0413. ✅ test: add integration test for /submit endpoint
 0344. ♻️ chore: add GitHub actions badge
+0652. 🔧 refactor: organize models into subfolders
