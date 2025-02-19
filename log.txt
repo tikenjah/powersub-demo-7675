@@ -1807,3 +1807,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0466. 🚀 perf: optimize database query for quiz results
 0786. ✨ feat: enable dark mode toggle
+0413. ✅ test: add integration test for /submit endpoint
