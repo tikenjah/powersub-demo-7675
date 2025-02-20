@@ -1813,3 +1813,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0502. 📚 docs: update README with setup steps
 0414. 🔧 refactor: remove redundant code blocks
+0995. ✅ test: mock database connection in test suite
