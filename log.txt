@@ -5335,3 +5335,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0561. 📚 docs: write FAQ section
 0582. ✨ feat: add export to CSV option
+0345. 📚 docs: document token refresh logic
