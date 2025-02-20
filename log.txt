@@ -10346,3 +10346,4 @@
 0687. 🎨 style: remove trailing whitespace
 0505. ♻️ chore: add GitHub actions badge
 0434. 📚 docs: document token refresh logic
+0085. ✨ feat: support email verification
