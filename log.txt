@@ -5334,3 +5334,4 @@
 0820. 📚 docs: add API usage examples
 0703. 🔧 refactor: clean up auth middleware
 0561. 📚 docs: write FAQ section
+0582. ✨ feat: add export to CSV option
