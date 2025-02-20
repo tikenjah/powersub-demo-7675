@@ -9382,3 +9382,4 @@
 0085. ✨ feat: support email verification
 0874. 🔧 refactor: split large controller into smaller functions
 0306. 🎨 style: apply consistent indentation
+0665. ♻️ chore: update .gitignore
