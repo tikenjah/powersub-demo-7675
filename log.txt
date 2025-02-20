@@ -9381,3 +9381,4 @@
 0670. ✨ feat: add export to CSV option
 0085. ✨ feat: support email verification
 0874. 🔧 refactor: split large controller into smaller functions
+0306. 🎨 style: apply consistent indentation
