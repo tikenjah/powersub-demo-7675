@@ -1822,3 +1822,4 @@
 0854. ♻️ chore: rename env.example
 0647. 🐛 fix: prevent crash on empty input
 0155. ✨ feat: create admin dashboard
+0957. 🐛 fix: fix null pointer exception on login
