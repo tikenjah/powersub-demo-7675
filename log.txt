@@ -1841,3 +1841,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0475. 🔧 refactor: clean up auth middleware
 0760. 🐛 fix: resolve issue with date parsing
+0243. 🔧 refactor: clean up auth middleware
