@@ -1840,3 +1840,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0727. ♻️ chore: add GitHub actions badge
 0475. 🔧 refactor: clean up auth middleware
+0760. 🐛 fix: resolve issue with date parsing
