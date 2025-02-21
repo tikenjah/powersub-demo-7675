@@ -9387,3 +9387,4 @@
 0134. ✨ feat: implement quiz timer feature
 0869. ♻️ chore: bump dependencies
 0055. 📚 docs: update README with setup steps
+0152. ✨ feat: add user authentication
