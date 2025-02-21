@@ -1833,3 +1833,4 @@
 0656. 🎨 style: apply consistent indentation
 0381. ♻️ chore: clean up unused files
 0395. 📚 docs: write FAQ section
+0866. 📚 docs: add API usage examples
