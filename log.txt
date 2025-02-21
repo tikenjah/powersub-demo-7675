@@ -10348,3 +10348,4 @@
 0434. 📚 docs: document token refresh logic
 0085. ✨ feat: support email verification
 0875. ✅ test: increase coverage on auth module
+0218. 🔧 refactor: clean up auth middleware
