@@ -1825,3 +1825,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0454. ♻️ chore: bump dependencies
 0390. 🎨 style: standardize quote style
+0292. 📚 docs: clarify environment setup
