@@ -8342,3 +8342,4 @@
 0239. 🎨 style: standardize quote style
 0654. ✨ feat: create admin dashboard
 0930. 🎨 style: apply consistent indentation
+0615. 🐛 fix: correct typo in registration form
