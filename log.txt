@@ -1850,3 +1850,4 @@
 0150. 🎨 style: remove trailing whitespace
 0615. 🐛 fix: correct typo in registration form
 0146. 🎨 style: apply consistent indentation
+0942. ✅ test: increase coverage on auth module
