@@ -1853,3 +1853,4 @@
 0942. ✅ test: increase coverage on auth module
 0875. ✅ test: increase coverage on auth module
 0586. 🎨 style: remove trailing whitespace
+0171. 🐛 fix: fix broken CSS in mobile view
