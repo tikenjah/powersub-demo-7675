@@ -10354,3 +10354,4 @@
 0106. 🎨 style: reformat files with black
 0482. ✨ feat: add export to CSV option
 0400. 🐛 fix: fix null pointer exception on login
+0182. 🔧 refactor: remove redundant code blocks
