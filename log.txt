@@ -8350,3 +8350,4 @@
 0098. 🎨 style: rename variables for clarity
 0080. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
+0217. 🚀 perf: reduce image load time
