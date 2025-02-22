@@ -5341,3 +5341,4 @@
 0177. 📚 docs: add API usage examples
 0755. 🚀 perf: cache repeated calculations
 0524. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
