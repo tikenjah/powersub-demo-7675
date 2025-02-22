@@ -5342,3 +5342,4 @@
 0755. 🚀 perf: cache repeated calculations
 0524. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
+0400. 🐛 fix: fix null pointer exception on login
