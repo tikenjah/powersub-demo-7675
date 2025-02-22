@@ -1851,3 +1851,4 @@
 0615. 🐛 fix: correct typo in registration form
 0146. 🎨 style: apply consistent indentation
 0942. ✅ test: increase coverage on auth module
+0875. ✅ test: increase coverage on auth module
