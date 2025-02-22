@@ -1861,3 +1861,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0190. 🎨 style: rename variables for clarity
 0848. 📚 docs: update README with setup steps
+0820. 📚 docs: add API usage examples
