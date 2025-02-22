@@ -6328,3 +6328,4 @@
 0360. ✨ feat: add export to CSV option
 0483. 📚 docs: update README with setup steps
 0120. ✅ test: add integration test for /submit endpoint
+0605. ✨ feat: support email verification
