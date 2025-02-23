@@ -1863,3 +1863,4 @@
 0848. 📚 docs: update README with setup steps
 0820. 📚 docs: add API usage examples
 0101. 📚 docs: clarify environment setup
+0817. 🔧 refactor: remove redundant code blocks
