@@ -1870,3 +1870,4 @@
 0333. 🚀 perf: cache repeated calculations
 0207. 🐛 fix: prevent crash on empty input
 0194. 🎨 style: standardize quote style
+0977. 🔧 refactor: organize models into subfolders
