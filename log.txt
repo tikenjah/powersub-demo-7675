@@ -1865,3 +1865,4 @@
 0101. 📚 docs: clarify environment setup
 0817. 🔧 refactor: remove redundant code blocks
 0868. ✅ test: add unit test for quiz service
+0893. 🐛 fix: handle 500 error in quiz API
