@@ -8356,3 +8356,4 @@
 0351. ✨ feat: add export to CSV option
 0574. ✨ feat: enable dark mode toggle
 0807. 🔧 refactor: remove redundant code blocks
+0478. 🐛 fix: resolve issue with date parsing
