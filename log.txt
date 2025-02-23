@@ -5345,3 +5345,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0848. 📚 docs: update README with setup steps
 0170. ✅ test: increase coverage on auth module
+0895. ✨ feat: support email verification
