@@ -9390,3 +9390,4 @@
 0152. ✨ feat: add user authentication
 0061. ✨ feat: create admin dashboard
 0059. ♻️ chore: bump dependencies
+0781. 🚀 perf: reduce image load time
