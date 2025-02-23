@@ -9392,3 +9392,4 @@
 0059. ♻️ chore: bump dependencies
 0781. 🚀 perf: reduce image load time
 0202. 🔧 refactor: refactor quiz grading logic
+0233. 🚀 perf: lazy-load components
