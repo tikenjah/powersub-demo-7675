@@ -6332,3 +6332,4 @@
 0295. 🎨 style: remove trailing whitespace
 0628. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
+0772. 🐛 fix: fix null pointer exception on login
