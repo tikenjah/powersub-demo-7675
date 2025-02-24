@@ -5348,3 +5348,4 @@
 0895. ✨ feat: support email verification
 0316. 🐛 fix: fix broken CSS in mobile view
 0058. ♻️ chore: add GitHub actions badge
+0238. 🎨 style: apply consistent indentation
