@@ -8365,3 +8365,4 @@
 0100. ♻️ chore: update .gitignore
 0099. 🚀 perf: reduce image load time
 0056. ♻️ chore: rename env.example
+0845. 🚀 perf: cache repeated calculations
