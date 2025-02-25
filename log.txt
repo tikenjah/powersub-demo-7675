@@ -1888,3 +1888,4 @@
 0372. ✨ feat: add user authentication
 0349. ✅ test: increase coverage on auth module
 0477. 🐛 fix: fix broken CSS in mobile view
+0686. 🎨 style: standardize quote style
