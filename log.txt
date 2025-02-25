@@ -6335,3 +6335,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0749. ✨ feat: support email verification
 0093. ✅ test: add unit test for quiz service
+0429. ✨ feat: add user authentication
