@@ -8362,3 +8362,4 @@
 0847. ♻️ chore: clean up unused files
 0993. ✨ feat: implement quiz timer feature
 0807. 🔧 refactor: remove redundant code blocks
+0100. ♻️ chore: update .gitignore
