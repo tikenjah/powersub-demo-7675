@@ -1890,3 +1890,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0686. 🎨 style: standardize quote style
 0017. ✅ test: mock database connection in test suite
+0114. ♻️ chore: update .gitignore
