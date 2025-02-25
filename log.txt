@@ -8364,3 +8364,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0100. ♻️ chore: update .gitignore
 0099. 🚀 perf: reduce image load time
+0056. ♻️ chore: rename env.example
