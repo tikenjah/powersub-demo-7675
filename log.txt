@@ -1886,3 +1886,4 @@
 0392. 🎨 style: remove trailing whitespace
 0967. ♻️ chore: add GitHub actions badge
 0372. ✨ feat: add user authentication
+0349. ✅ test: increase coverage on auth module
