@@ -7351,3 +7351,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0859. ✨ feat: create admin dashboard
 0648. ♻️ chore: bump dependencies
+0055. 📚 docs: update README with setup steps
