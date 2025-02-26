@@ -5351,3 +5351,4 @@
 0238. 🎨 style: apply consistent indentation
 0292. 📚 docs: clarify environment setup
 0204. 🎨 style: standardize quote style
+0338. ♻️ chore: add GitHub actions badge
