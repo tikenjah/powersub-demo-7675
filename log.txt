@@ -1904,3 +1904,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0749. ✨ feat: support email verification
 0281. ✨ feat: support email verification
+0433. 🐛 fix: prevent crash on empty input
