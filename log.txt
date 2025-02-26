@@ -1899,3 +1899,4 @@
 0987. ✨ feat: create admin dashboard
 0363. 📚 docs: clarify environment setup
 0558. ✨ feat: enable dark mode toggle
+0677. 📚 docs: add API usage examples
