@@ -1902,3 +1902,4 @@
 0677. 📚 docs: add API usage examples
 0230. ✨ feat: create admin dashboard
 0285. 🐛 fix: resolve issue with date parsing
+0749. ✨ feat: support email verification
