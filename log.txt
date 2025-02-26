@@ -1898,3 +1898,4 @@
 0238. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
 0363. 📚 docs: clarify environment setup
+0558. ✨ feat: enable dark mode toggle
