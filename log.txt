@@ -6344,3 +6344,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0736. 🐛 fix: fix null pointer exception on login
 0186. ✅ test: test user registration edge cases
+0607. 🐛 fix: prevent crash on empty input
