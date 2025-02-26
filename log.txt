@@ -5354,3 +5354,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0017. ✅ test: mock database connection in test suite
 0320. 📚 docs: update README with setup steps
+0981. 🚀 perf: lazy-load components
