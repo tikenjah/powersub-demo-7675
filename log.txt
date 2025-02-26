@@ -5352,3 +5352,4 @@
 0292. 📚 docs: clarify environment setup
 0204. 🎨 style: standardize quote style
 0338. ♻️ chore: add GitHub actions badge
+0017. ✅ test: mock database connection in test suite
