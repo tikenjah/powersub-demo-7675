@@ -8370,3 +8370,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0572. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
+0259. 🚀 perf: lazy-load components
