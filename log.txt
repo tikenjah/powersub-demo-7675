@@ -1917,3 +1917,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0647. 🐛 fix: prevent crash on empty input
 0337. 📚 docs: document token refresh logic
+0224. 🐛 fix: fix broken CSS in mobile view
