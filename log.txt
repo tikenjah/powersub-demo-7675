@@ -8371,3 +8371,4 @@
 0572. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
 0259. 🚀 perf: lazy-load components
+0463. 🚀 perf: reduce image load time
