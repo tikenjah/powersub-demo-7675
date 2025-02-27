@@ -1921,3 +1921,4 @@
 0991. ♻️ chore: clean up unused files
 0146. 🎨 style: apply consistent indentation
 0904. ✨ feat: implement quiz timer feature
+0725. 🚀 perf: lazy-load components
