@@ -6351,3 +6351,4 @@
 0409. 🚀 perf: lazy-load components
 0464. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
+0947. 📚 docs: write FAQ section
