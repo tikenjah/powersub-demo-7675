@@ -10363,3 +10363,4 @@
 0516. ✅ test: add unit test for quiz service
 0533. ♻️ chore: add GitHub actions badge
 0640. ♻️ chore: bump dependencies
+0736. 🐛 fix: fix null pointer exception on login
