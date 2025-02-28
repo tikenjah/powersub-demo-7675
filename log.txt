@@ -1928,3 +1928,4 @@
 0991. ♻️ chore: clean up unused files
 0196. ♻️ chore: bump dependencies
 0050. ✨ feat: enable dark mode toggle
+0960. ✅ test: increase coverage on auth module
