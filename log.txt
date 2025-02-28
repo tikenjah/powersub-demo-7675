@@ -8377,3 +8377,4 @@
 0045. 🎨 style: apply consistent indentation
 0042. 📚 docs: document token refresh logic
 0437. 📚 docs: clarify environment setup
+0962. ✨ feat: create admin dashboard
