@@ -6352,3 +6352,4 @@
 0464. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
 0947. 📚 docs: write FAQ section
+0338. ♻️ chore: add GitHub actions badge
