@@ -9402,3 +9402,4 @@
 0665. ♻️ chore: update .gitignore
 0005. ✅ test: add unit test for quiz service
 0688. 🚀 perf: reduce image load time
+0545. 🎨 style: standardize quote style
