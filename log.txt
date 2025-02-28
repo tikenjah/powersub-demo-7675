@@ -6354,3 +6354,4 @@
 0947. 📚 docs: write FAQ section
 0338. ♻️ chore: add GitHub actions badge
 0471. ✨ feat: support email verification
+0300. ✨ feat: add export to CSV option
