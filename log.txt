@@ -1929,3 +1929,4 @@
 0196. ♻️ chore: bump dependencies
 0050. ✨ feat: enable dark mode toggle
 0960. ✅ test: increase coverage on auth module
+0550. 🔧 refactor: split large controller into smaller functions
