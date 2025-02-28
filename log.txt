@@ -6353,3 +6353,4 @@
 0186. ✅ test: test user registration edge cases
 0947. 📚 docs: write FAQ section
 0338. ♻️ chore: add GitHub actions badge
+0471. ✨ feat: support email verification
