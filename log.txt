@@ -6359,3 +6359,4 @@
 0592. 📚 docs: add API usage examples
 0528. ♻️ chore: clean up unused files
 0154. 🐛 fix: prevent crash on empty input
+0344. ♻️ chore: add GitHub actions badge
