@@ -1941,3 +1941,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0124. 🎨 style: reformat files with black
 0965. 🎨 style: reformat files with black
+0048. 📚 docs: update README with setup steps
