@@ -5361,3 +5361,4 @@
 0087. ✨ feat: add export to CSV option
 0850. ♻️ chore: rename env.example
 0803. ✅ test: mock database connection in test suite
+0486. ✨ feat: add export to CSV option
