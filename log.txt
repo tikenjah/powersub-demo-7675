@@ -1952,3 +1952,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0167. 🚀 perf: reduce image load time
 0548. 📚 docs: write FAQ section
+0188. 🎨 style: apply consistent indentation
