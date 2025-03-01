@@ -1938,3 +1938,4 @@
 0105. 🐛 fix: correct typo in registration form
 0473. 📚 docs: write FAQ section
 0527. 🎨 style: remove trailing whitespace
+0828. ♻️ chore: add GitHub actions badge
