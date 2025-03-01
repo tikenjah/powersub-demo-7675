@@ -8380,3 +8380,4 @@
 0962. ✨ feat: create admin dashboard
 0022. 📚 docs: document token refresh logic
 0209. ✨ feat: implement quiz timer feature
+0187. ✨ feat: support email verification
