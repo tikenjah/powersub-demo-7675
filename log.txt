@@ -7356,3 +7356,4 @@
 0045. 🎨 style: apply consistent indentation
 0549. ✨ feat: enable dark mode toggle
 0796. 🔧 refactor: refactor quiz grading logic
+0136. 🚀 perf: lazy-load components
