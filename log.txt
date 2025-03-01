@@ -1944,3 +1944,4 @@
 0048. 📚 docs: update README with setup steps
 0230. ✨ feat: create admin dashboard
 0915. 🚀 perf: cache repeated calculations
+0520. 🐛 fix: fix null pointer exception on login
