@@ -1946,3 +1946,4 @@
 0915. 🚀 perf: cache repeated calculations
 0520. 🐛 fix: fix null pointer exception on login
 0127. 🐛 fix: fix null pointer exception on login
+0547. 📚 docs: write FAQ section
