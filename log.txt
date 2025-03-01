@@ -1949,3 +1949,4 @@
 0547. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
 0629. 🔧 refactor: organize models into subfolders
+0666. 🐛 fix: fix broken CSS in mobile view
