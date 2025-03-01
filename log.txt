@@ -1942,3 +1942,4 @@
 0124. 🎨 style: reformat files with black
 0965. 🎨 style: reformat files with black
 0048. 📚 docs: update README with setup steps
+0230. ✨ feat: create admin dashboard
