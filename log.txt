@@ -1972,3 +1972,4 @@
 0725. 🚀 perf: lazy-load components
 0078. ♻️ chore: update .gitignore
 0025. 🚀 perf: optimize database query for quiz results
+0051. ✨ feat: enable dark mode toggle
