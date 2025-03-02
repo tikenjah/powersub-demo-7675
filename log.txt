@@ -6360,3 +6360,4 @@
 0528. ♻️ chore: clean up unused files
 0154. 🐛 fix: prevent crash on empty input
 0344. ♻️ chore: add GitHub actions badge
+0135. ✅ test: test user registration edge cases
