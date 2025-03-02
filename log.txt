@@ -1968,3 +1968,4 @@
 0447. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
 0242. ♻️ chore: clean up unused files
+0049. 🐛 fix: handle 500 error in quiz API
