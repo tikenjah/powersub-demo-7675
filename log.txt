@@ -1985,3 +1985,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0418. ✅ test: mock database connection in test suite
 0996. ✅ test: test user registration edge cases
+0825. 🔧 refactor: split large controller into smaller functions
