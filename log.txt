@@ -6361,3 +6361,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0344. ♻️ chore: add GitHub actions badge
 0135. ✅ test: test user registration edge cases
+0330. ✅ test: test user registration edge cases
