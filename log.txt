@@ -1976,3 +1976,4 @@
 0044. ✅ test: add unit test for quiz service
 0457. 🐛 fix: handle 500 error in quiz API
 0030. 🐛 fix: fix null pointer exception on login
+0231. 🔧 refactor: clean up auth middleware
