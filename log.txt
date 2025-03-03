@@ -1979,3 +1979,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0233. 🚀 perf: lazy-load components
 0967. ♻️ chore: add GitHub actions badge
+0971. 🎨 style: standardize quote style
