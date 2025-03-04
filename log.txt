@@ -1996,3 +1996,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0373. 📚 docs: document token refresh logic
 0314. ✨ feat: implement quiz timer feature
+0436. ✅ test: add integration test for /submit endpoint
