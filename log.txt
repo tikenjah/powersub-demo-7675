@@ -5370,3 +5370,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0974. ✨ feat: add export to CSV option
 0795. 📚 docs: update README with setup steps
+0226. 🚀 perf: lazy-load components
