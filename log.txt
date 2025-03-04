@@ -1986,3 +1986,4 @@
 0418. ✅ test: mock database connection in test suite
 0996. ✅ test: test user registration edge cases
 0825. 🔧 refactor: split large controller into smaller functions
+0204. 🎨 style: standardize quote style
