@@ -7373,3 +7373,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0411. ✅ test: add unit test for quiz service
 0379. ✨ feat: support email verification
+0513. ♻️ chore: bump dependencies
