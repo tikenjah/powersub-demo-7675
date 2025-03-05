@@ -2001,3 +2001,4 @@
 0204. 🎨 style: standardize quote style
 0960. ✅ test: increase coverage on auth module
 0451. ✨ feat: support email verification
+0757. 🔧 refactor: remove redundant code blocks
