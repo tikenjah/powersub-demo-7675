@@ -6371,3 +6371,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0917. ✅ test: add integration test for /submit endpoint
 0623. 🎨 style: standardize quote style
+0359. 🔧 refactor: clean up auth middleware
