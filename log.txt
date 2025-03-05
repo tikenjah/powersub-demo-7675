@@ -2004,3 +2004,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0375. 🐛 fix: handle 500 error in quiz API
 0498. ✅ test: mock database connection in test suite
+0693. 📚 docs: add API usage examples
