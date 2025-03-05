@@ -2009,3 +2009,4 @@
 0360. ✨ feat: add export to CSV option
 0083. 🎨 style: reformat files with black
 0384. 📚 docs: clarify environment setup
+0519. 📚 docs: document token refresh logic
