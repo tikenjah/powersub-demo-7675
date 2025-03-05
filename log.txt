@@ -8388,3 +8388,4 @@
 0079. 🐛 fix: correct typo in registration form
 0755. 🚀 perf: cache repeated calculations
 0368. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
