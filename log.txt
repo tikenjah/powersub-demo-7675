@@ -6374,3 +6374,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0474. ✅ test: add unit test for quiz service
 0962. ✨ feat: create admin dashboard
+0567. 📚 docs: add API usage examples
