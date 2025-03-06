@@ -2011,3 +2011,4 @@
 0384. 📚 docs: clarify environment setup
 0519. 📚 docs: document token refresh logic
 0937. 🐛 fix: handle 500 error in quiz API
+0642. 🚀 perf: optimize database query for quiz results
