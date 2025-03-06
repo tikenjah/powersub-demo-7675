@@ -2019,3 +2019,4 @@
 1000. ✅ test: increase coverage on auth module
 0503. ♻️ chore: rename env.example
 0678. ✨ feat: add user authentication
+0039. ✅ test: add integration test for /submit endpoint
