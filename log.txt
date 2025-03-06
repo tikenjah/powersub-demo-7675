@@ -5375,3 +5375,4 @@
 0061. ✨ feat: create admin dashboard
 0557. 🔧 refactor: clean up auth middleware
 0058. ♻️ chore: add GitHub actions badge
+0453. 🎨 style: standardize quote style
