@@ -2010,3 +2010,4 @@
 0083. 🎨 style: reformat files with black
 0384. 📚 docs: clarify environment setup
 0519. 📚 docs: document token refresh logic
+0937. 🐛 fix: handle 500 error in quiz API
