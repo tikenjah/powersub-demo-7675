@@ -10379,3 +10379,4 @@
 0445. 📚 docs: improve code comments in utils
 0865. ♻️ chore: add GitHub actions badge
 0071. 🔧 refactor: refactor quiz grading logic
+0801. ✨ feat: enable dark mode toggle
