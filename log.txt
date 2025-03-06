@@ -7375,3 +7375,4 @@
 0379. ✨ feat: support email verification
 0513. ♻️ chore: bump dependencies
 0474. ✅ test: add unit test for quiz service
+0759. 🔧 refactor: organize models into subfolders
