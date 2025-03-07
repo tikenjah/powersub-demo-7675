@@ -2029,3 +2029,4 @@
 0372. ✨ feat: add user authentication
 0721. 🚀 perf: optimize database query for quiz results
 0104. 🎨 style: apply consistent indentation
+0558. ✨ feat: enable dark mode toggle
