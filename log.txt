@@ -2046,3 +2046,4 @@
 0604. 📚 docs: add API usage examples
 0419. 🎨 style: remove trailing whitespace
 0631. ✨ feat: create admin dashboard
+0787. ♻️ chore: rename env.example
