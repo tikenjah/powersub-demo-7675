@@ -10383,3 +10383,4 @@
 0393. 🚀 perf: lazy-load components
 0460. 📚 docs: write FAQ section
 0814. 🔧 refactor: remove redundant code blocks
+0696. 🔧 refactor: clean up auth middleware
