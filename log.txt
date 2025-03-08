@@ -2049,3 +2049,4 @@
 0787. ♻️ chore: rename env.example
 0907. 🔧 refactor: split large controller into smaller functions
 0237. 🎨 style: standardize quote style
+0603. 🐛 fix: fix broken CSS in mobile view
