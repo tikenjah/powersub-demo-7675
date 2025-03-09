@@ -2059,3 +2059,4 @@
 0720. ✨ feat: add export to CSV option
 0832. 🔧 refactor: remove redundant code blocks
 0608. 🔧 refactor: remove redundant code blocks
+0838. 🎨 style: standardize quote style
