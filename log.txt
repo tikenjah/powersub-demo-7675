@@ -8403,3 +8403,4 @@
 0083. 🎨 style: reformat files with black
 0954. 🚀 perf: cache repeated calculations
 0358. 🚀 perf: reduce image load time
+0690. 🚀 perf: lazy-load components
