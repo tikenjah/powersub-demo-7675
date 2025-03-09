@@ -5384,3 +5384,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0978. 🐛 fix: prevent crash on empty input
 0640. ♻️ chore: bump dependencies
+0315. ✅ test: add integration test for /submit endpoint
