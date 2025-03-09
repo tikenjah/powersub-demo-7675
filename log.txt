@@ -8408,3 +8408,4 @@
 0946. ✅ test: add unit test for quiz service
 0847. ♻️ chore: clean up unused files
 0250. 📚 docs: update README with setup steps
+0201. 🔧 refactor: clean up auth middleware
