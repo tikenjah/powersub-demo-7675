@@ -7380,3 +7380,4 @@
 0854. ♻️ chore: rename env.example
 0892. ✅ test: add unit test for quiz service
 0750. 🎨 style: apply consistent indentation
+0587. 🔧 refactor: remove redundant code blocks
