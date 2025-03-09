@@ -2063,3 +2063,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0143. ✨ feat: implement quiz timer feature
 0499. 🎨 style: reformat files with black
+0567. 📚 docs: add API usage examples
