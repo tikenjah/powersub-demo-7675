@@ -10386,3 +10386,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0216. 🎨 style: rename variables for clarity
 0903. ✅ test: mock database connection in test suite
+0180. ✨ feat: add export to CSV option
