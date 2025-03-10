@@ -2079,3 +2079,4 @@
 0463. 🚀 perf: reduce image load time
 0917. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
+0132. ✅ test: add unit test for quiz service
