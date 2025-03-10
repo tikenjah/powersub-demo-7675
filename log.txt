@@ -9436,3 +9436,4 @@
 0567. 📚 docs: add API usage examples
 0841. 🚀 perf: optimize database query for quiz results
 0470. 🎨 style: remove trailing whitespace
+0324. 📚 docs: document token refresh logic
