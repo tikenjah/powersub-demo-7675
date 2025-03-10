@@ -7383,3 +7383,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0823. ✨ feat: add user authentication
 0290. ✅ test: test user registration edge cases
+0064. 📚 docs: clarify environment setup
