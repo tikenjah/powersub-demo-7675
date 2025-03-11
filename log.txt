@@ -2082,3 +2082,4 @@
 0132. ✅ test: add unit test for quiz service
 0720. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
+0113. ✨ feat: add user authentication
