@@ -5388,3 +5388,4 @@
 0212. 🎨 style: standardize quote style
 0255. 🔧 refactor: refactor quiz grading logic
 0364. 🐛 fix: resolve issue with date parsing
+0051. ✨ feat: enable dark mode toggle
