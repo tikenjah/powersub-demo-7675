@@ -2090,3 +2090,4 @@
 0912. 📚 docs: document token refresh logic
 0848. 📚 docs: update README with setup steps
 0992. ♻️ chore: clean up unused files
+0428. 🐛 fix: fix null pointer exception on login
