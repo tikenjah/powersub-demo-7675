@@ -10388,3 +10388,4 @@
 0903. ✅ test: mock database connection in test suite
 0180. ✨ feat: add export to CSV option
 0509. ♻️ chore: bump dependencies
+0181. ♻️ chore: add GitHub actions badge
