@@ -2088,3 +2088,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0586. 🎨 style: remove trailing whitespace
 0912. 📚 docs: document token refresh logic
+0848. 📚 docs: update README with setup steps
