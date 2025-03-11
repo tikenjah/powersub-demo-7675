@@ -2085,3 +2085,4 @@
 0113. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
 0374. 🎨 style: standardize quote style
+0294. 🐛 fix: prevent crash on empty input
