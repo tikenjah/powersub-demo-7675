@@ -2084,3 +2084,4 @@
 0879. 🎨 style: standardize quote style
 0113. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
+0374. 🎨 style: standardize quote style
