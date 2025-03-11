@@ -2094,3 +2094,4 @@
 0768. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
 0953. 🎨 style: remove trailing whitespace
+0210. 🎨 style: apply consistent indentation
