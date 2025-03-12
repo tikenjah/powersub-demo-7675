@@ -5391,3 +5391,4 @@
 0051. ✨ feat: enable dark mode toggle
 0251. ♻️ chore: update .gitignore
 0298. ♻️ chore: update .gitignore
+0737. 🐛 fix: handle 500 error in quiz API
