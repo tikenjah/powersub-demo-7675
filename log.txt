@@ -2106,3 +2106,4 @@
 0842. 🎨 style: remove trailing whitespace
 0590. 🐛 fix: fix null pointer exception on login
 0570. 🎨 style: apply consistent indentation
+0083. 🎨 style: reformat files with black
