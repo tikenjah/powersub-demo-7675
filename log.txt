@@ -2110,3 +2110,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0812. 🔧 refactor: refactor quiz grading logic
 0076. 🎨 style: reformat files with black
+0412. ✅ test: increase coverage on auth module
