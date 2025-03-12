@@ -2112,3 +2112,4 @@
 0076. 🎨 style: reformat files with black
 0412. ✅ test: increase coverage on auth module
 0716. ✨ feat: implement quiz timer feature
+0317. ✅ test: test user registration edge cases
