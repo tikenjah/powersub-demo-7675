@@ -2102,3 +2102,4 @@
 0052. 🎨 style: standardize quote style
 0801. ✨ feat: enable dark mode toggle
 0192. ✨ feat: enable dark mode toggle
+0017. ✅ test: mock database connection in test suite
