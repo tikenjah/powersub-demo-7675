@@ -5390,3 +5390,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0051. ✨ feat: enable dark mode toggle
 0251. ♻️ chore: update .gitignore
+0298. ♻️ chore: update .gitignore
