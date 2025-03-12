@@ -2101,3 +2101,4 @@
 0443. 🎨 style: standardize quote style
 0052. 🎨 style: standardize quote style
 0801. ✨ feat: enable dark mode toggle
+0192. ✨ feat: enable dark mode toggle
