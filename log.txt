@@ -10389,3 +10389,4 @@
 0180. ✨ feat: add export to CSV option
 0509. ♻️ chore: bump dependencies
 0181. ♻️ chore: add GitHub actions badge
+0956. 📚 docs: clarify environment setup
