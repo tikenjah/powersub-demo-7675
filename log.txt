@@ -2121,3 +2121,4 @@
 0605. ✨ feat: support email verification
 0369. 🎨 style: standardize quote style
 0417. 🎨 style: rename variables for clarity
+0004. 🚀 perf: optimize database query for quiz results
