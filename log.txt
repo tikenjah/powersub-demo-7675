@@ -6388,3 +6388,4 @@
 0104. 🎨 style: apply consistent indentation
 0179. 🔧 refactor: split large controller into smaller functions
 0575. ✅ test: add unit test for quiz service
+0764. ✨ feat: add user authentication
