@@ -9440,3 +9440,4 @@
 0062. ♻️ chore: update .gitignore
 0077. ♻️ chore: rename env.example
 0446. 🎨 style: apply consistent indentation
+0323. 📚 docs: clarify environment setup
