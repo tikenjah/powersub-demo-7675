@@ -8416,3 +8416,4 @@
 0631. ✨ feat: create admin dashboard
 0734. ✨ feat: add export to CSV option
 0678. ✨ feat: add user authentication
+0510. 🎨 style: rename variables for clarity
