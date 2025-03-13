@@ -2120,3 +2120,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0605. ✨ feat: support email verification
 0369. 🎨 style: standardize quote style
+0417. 🎨 style: rename variables for clarity
