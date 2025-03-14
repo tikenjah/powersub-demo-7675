@@ -2128,3 +2128,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0011. ✅ test: add unit test for quiz service
 0429. ✨ feat: add user authentication
+0826. 📚 docs: clarify environment setup
