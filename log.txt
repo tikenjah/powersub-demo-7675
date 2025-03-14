@@ -7390,3 +7390,4 @@
 0861. ♻️ chore: clean up unused files
 0982. 🚀 perf: lazy-load components
 0902. ✨ feat: enable dark mode toggle
+0641. 📚 docs: write FAQ section
