@@ -2131,3 +2131,4 @@
 0826. 📚 docs: clarify environment setup
 0204. 🎨 style: standardize quote style
 0128. ♻️ chore: rename env.example
+0224. 🐛 fix: fix broken CSS in mobile view
