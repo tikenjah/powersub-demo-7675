@@ -2142,3 +2142,4 @@
 0989. 📚 docs: write FAQ section
 0076. 🎨 style: reformat files with black
 0287. 📚 docs: write FAQ section
+0778. 📚 docs: write FAQ section
