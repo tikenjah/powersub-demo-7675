@@ -6390,3 +6390,4 @@
 0575. ✅ test: add unit test for quiz service
 0764. ✨ feat: add user authentication
 0248. 🐛 fix: handle 500 error in quiz API
+0946. ✅ test: add unit test for quiz service
