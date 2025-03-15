@@ -2145,3 +2145,4 @@
 0778. 📚 docs: write FAQ section
 0132. ✅ test: add unit test for quiz service
 0853. 🔧 refactor: refactor quiz grading logic
+0297. 🎨 style: remove trailing whitespace
