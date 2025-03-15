@@ -2160,3 +2160,4 @@
 0275. 🎨 style: standardize quote style
 0134. ✨ feat: implement quiz timer feature
 0069. 🎨 style: rename variables for clarity
+0197. 📚 docs: update README with setup steps
