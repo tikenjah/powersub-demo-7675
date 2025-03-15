@@ -2150,3 +2150,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0650. ✅ test: add unit test for quiz service
 0751. 🐛 fix: handle 500 error in quiz API
+0726. ✨ feat: enable dark mode toggle
