@@ -9441,3 +9441,4 @@
 0077. ♻️ chore: rename env.example
 0446. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
+0485. 📚 docs: update README with setup steps
