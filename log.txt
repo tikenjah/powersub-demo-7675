@@ -6392,3 +6392,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0946. ✅ test: add unit test for quiz service
 0710. 🐛 fix: fix broken CSS in mobile view
+0547. 📚 docs: write FAQ section
