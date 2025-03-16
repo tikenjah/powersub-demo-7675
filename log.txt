@@ -5400,3 +5400,4 @@
 0996. ✅ test: test user registration edge cases
 0838. 🎨 style: standardize quote style
 0106. 🎨 style: reformat files with black
+0035. ✅ test: increase coverage on auth module
