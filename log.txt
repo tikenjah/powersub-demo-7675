@@ -5399,3 +5399,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0996. ✅ test: test user registration edge cases
 0838. 🎨 style: standardize quote style
+0106. 🎨 style: reformat files with black
