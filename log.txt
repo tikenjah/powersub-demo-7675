@@ -2170,3 +2170,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0077. ♻️ chore: rename env.example
 0420. 🚀 perf: reduce image load time
+0028. 🎨 style: standardize quote style
