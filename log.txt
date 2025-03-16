@@ -6394,3 +6394,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
 0967. ♻️ chore: add GitHub actions badge
+0488. ♻️ chore: add GitHub actions badge
