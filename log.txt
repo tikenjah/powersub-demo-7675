@@ -9445,3 +9445,4 @@
 0646. ✅ test: test user registration edge cases
 0550. 🔧 refactor: split large controller into smaller functions
 0155. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
