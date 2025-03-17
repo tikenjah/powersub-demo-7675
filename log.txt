@@ -5401,3 +5401,4 @@
 0838. 🎨 style: standardize quote style
 0106. 🎨 style: reformat files with black
 0035. ✅ test: increase coverage on auth module
+0171. 🐛 fix: fix broken CSS in mobile view
