@@ -5402,3 +5402,4 @@
 0106. 🎨 style: reformat files with black
 0035. ✅ test: increase coverage on auth module
 0171. 🐛 fix: fix broken CSS in mobile view
+0337. 📚 docs: document token refresh logic
