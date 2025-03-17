@@ -2177,3 +2177,4 @@
 0117. ✅ test: increase coverage on auth module
 0638. 📚 docs: improve code comments in utils
 0573. ✅ test: add integration test for /submit endpoint
+0750. 🎨 style: apply consistent indentation
