@@ -8424,3 +8424,4 @@
 0005. ✅ test: add unit test for quiz service
 0091. ✨ feat: add user authentication
 0499. 🎨 style: reformat files with black
+0477. 🐛 fix: fix broken CSS in mobile view
