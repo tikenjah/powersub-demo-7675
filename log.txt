@@ -2174,3 +2174,4 @@
 0061. ✨ feat: create admin dashboard
 0450. 🐛 fix: fix broken CSS in mobile view
 0028. 🎨 style: standardize quote style
+0117. ✅ test: increase coverage on auth module
