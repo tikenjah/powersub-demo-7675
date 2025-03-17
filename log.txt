@@ -8427,3 +8427,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0635. 🎨 style: apply consistent indentation
 0527. 🎨 style: remove trailing whitespace
+0221. ✨ feat: add user authentication
