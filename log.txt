@@ -10401,3 +10401,4 @@
 0115. 🚀 perf: reduce image load time
 0047. 🎨 style: rename variables for clarity
 0743. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
