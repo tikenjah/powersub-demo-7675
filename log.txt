@@ -2194,3 +2194,4 @@
 0262. 🎨 style: remove trailing whitespace
 0765. ♻️ chore: clean up unused files
 0718. 🐛 fix: resolve issue with date parsing
+0945. ♻️ chore: add GitHub actions badge
