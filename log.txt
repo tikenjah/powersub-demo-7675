@@ -2191,3 +2191,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0293. ✅ test: add integration test for /submit endpoint
 0425. 🔧 refactor: refactor quiz grading logic
+0262. 🎨 style: remove trailing whitespace
