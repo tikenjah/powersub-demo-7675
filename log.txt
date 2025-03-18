@@ -9451,3 +9451,4 @@
 0631. ✨ feat: create admin dashboard
 0662. ♻️ chore: clean up unused files
 0977. 🔧 refactor: organize models into subfolders
+0743. 🎨 style: apply consistent indentation
