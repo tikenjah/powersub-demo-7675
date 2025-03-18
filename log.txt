@@ -2198,3 +2198,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0255. 🔧 refactor: refactor quiz grading logic
 0342. 🚀 perf: cache repeated calculations
+0063. 🐛 fix: handle 500 error in quiz API
