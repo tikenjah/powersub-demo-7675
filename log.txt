@@ -10404,3 +10404,4 @@
 0111. 📚 docs: update README with setup steps
 0215. 🎨 style: reformat files with black
 0764. ✨ feat: add user authentication
+0501. ✨ feat: add export to CSV option
