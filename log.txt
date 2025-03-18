@@ -7400,3 +7400,4 @@
 0112. ✨ feat: enable dark mode toggle
 0204. 🎨 style: standardize quote style
 0663. 🚀 perf: reduce image load time
+0241. 📚 docs: add API usage examples
