@@ -8430,3 +8430,4 @@
 0221. ✨ feat: add user authentication
 0078. ♻️ chore: update .gitignore
 0195. 📚 docs: clarify environment setup
+0958. 🐛 fix: prevent crash on empty input
