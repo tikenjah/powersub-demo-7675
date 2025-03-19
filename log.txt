@@ -7402,3 +7402,4 @@
 0663. 🚀 perf: reduce image load time
 0241. 📚 docs: add API usage examples
 0925. ✨ feat: add export to CSV option
+0518. ✨ feat: support email verification
