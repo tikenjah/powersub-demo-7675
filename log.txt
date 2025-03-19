@@ -2206,3 +2206,4 @@
 0528. ♻️ chore: clean up unused files
 0974. ✨ feat: add export to CSV option
 0520. 🐛 fix: fix null pointer exception on login
+0147. ♻️ chore: bump dependencies
