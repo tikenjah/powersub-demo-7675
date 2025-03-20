@@ -7403,3 +7403,4 @@
 0241. 📚 docs: add API usage examples
 0925. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
+0430. 🐛 fix: fix null pointer exception on login
