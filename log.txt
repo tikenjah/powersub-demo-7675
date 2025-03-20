@@ -2225,3 +2225,4 @@
 0346. ✅ test: mock database connection in test suite
 0330. ✅ test: test user registration edge cases
 0211. 🔧 refactor: remove redundant code blocks
+0169. 📚 docs: add API usage examples
