@@ -2219,3 +2219,4 @@
 0597. 🚀 perf: cache repeated calculations
 0659. 📚 docs: add API usage examples
 0785. ✨ feat: enable dark mode toggle
+0174. 📚 docs: clarify environment setup
