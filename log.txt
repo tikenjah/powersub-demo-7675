@@ -2208,3 +2208,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0147. ♻️ chore: bump dependencies
 0361. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
