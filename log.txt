@@ -2217,3 +2217,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0298. ♻️ chore: update .gitignore
 0597. 🚀 perf: cache repeated calculations
+0659. 📚 docs: add API usage examples
