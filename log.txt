@@ -7404,3 +7404,4 @@
 0925. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
 0430. 🐛 fix: fix null pointer exception on login
+0140. 🐛 fix: handle 500 error in quiz API
