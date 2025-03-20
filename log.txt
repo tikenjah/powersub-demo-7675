@@ -7405,3 +7405,4 @@
 0518. ✨ feat: support email verification
 0430. 🐛 fix: fix null pointer exception on login
 0140. 🐛 fix: handle 500 error in quiz API
+0198. 📚 docs: clarify environment setup
