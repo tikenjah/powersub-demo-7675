@@ -2215,3 +2215,4 @@
 0263. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
 0294. 🐛 fix: prevent crash on empty input
+0298. ♻️ chore: update .gitignore
