@@ -5408,3 +5408,4 @@
 0734. ✨ feat: add export to CSV option
 0060. ♻️ chore: clean up unused files
 0378. 🐛 fix: prevent crash on empty input
+0722. 📚 docs: add API usage examples
