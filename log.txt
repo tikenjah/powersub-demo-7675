@@ -2221,3 +2221,4 @@
 0785. ✨ feat: enable dark mode toggle
 0174. 📚 docs: clarify environment setup
 0868. ✅ test: add unit test for quiz service
+0850. ♻️ chore: rename env.example
