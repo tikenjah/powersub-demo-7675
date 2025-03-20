@@ -8435,3 +8435,4 @@
 0635. 🎨 style: apply consistent indentation
 0984. ♻️ chore: clean up unused files
 0484. 🐛 fix: handle 500 error in quiz API
+0571. 🔧 refactor: clean up auth middleware
