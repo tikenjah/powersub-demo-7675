@@ -7410,3 +7410,4 @@
 0896. 🚀 perf: reduce image load time
 0404. 📚 docs: improve code comments in utils
 0887. 📚 docs: add API usage examples
+0257. 📚 docs: clarify environment setup
