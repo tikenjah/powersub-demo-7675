@@ -2231,3 +2231,4 @@
 0690. 🚀 perf: lazy-load components
 0680. ♻️ chore: add GitHub actions badge
 0518. ✨ feat: support email verification
+0795. 📚 docs: update README with setup steps
