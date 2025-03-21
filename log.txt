@@ -6409,3 +6409,4 @@
 0669. ✨ feat: enable dark mode toggle
 0795. 📚 docs: update README with setup steps
 0099. 🚀 perf: reduce image load time
+0823. ✨ feat: add user authentication
