@@ -6410,3 +6410,4 @@
 0795. 📚 docs: update README with setup steps
 0099. 🚀 perf: reduce image load time
 0823. ✨ feat: add user authentication
+0985. 📚 docs: document token refresh logic
