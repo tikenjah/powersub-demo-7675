@@ -5418,3 +5418,4 @@
 0554. 📚 docs: improve code comments in utils
 0052. 🎨 style: standardize quote style
 0922. 📚 docs: write FAQ section
+0121. ✨ feat: support email verification
