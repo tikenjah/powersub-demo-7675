@@ -6412,3 +6412,4 @@
 0823. ✨ feat: add user authentication
 0985. 📚 docs: document token refresh logic
 0785. ✨ feat: enable dark mode toggle
+0102. ✨ feat: support email verification
