@@ -6417,3 +6417,4 @@
 0451. ✨ feat: support email verification
 0375. 🐛 fix: handle 500 error in quiz API
 0723. 🔧 refactor: remove redundant code blocks
+0958. 🐛 fix: prevent crash on empty input
