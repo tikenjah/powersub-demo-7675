@@ -2250,3 +2250,4 @@
 0633. ✨ feat: add user authentication
 0134. ✨ feat: implement quiz timer feature
 0545. 🎨 style: standardize quote style
+0506. 🐛 fix: handle 500 error in quiz API
