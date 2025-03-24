@@ -2276,3 +2276,4 @@
 0142. ✨ feat: implement quiz timer feature
 0007. 🎨 style: rename variables for clarity
 0905. ♻️ chore: bump dependencies
+0854. ♻️ chore: rename env.example
