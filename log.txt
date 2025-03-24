@@ -2263,3 +2263,4 @@
 0940. 📚 docs: document token refresh logic
 0523. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
