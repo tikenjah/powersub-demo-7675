@@ -2270,3 +2270,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0073. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
+0116. ✨ feat: support email verification
