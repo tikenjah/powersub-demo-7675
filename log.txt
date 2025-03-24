@@ -2265,3 +2265,4 @@
 0687. 🎨 style: remove trailing whitespace
 0307. ✨ feat: support email verification
 0872. 🎨 style: rename variables for clarity
+0080. ✨ feat: support email verification
