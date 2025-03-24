@@ -2267,3 +2267,4 @@
 0872. 🎨 style: rename variables for clarity
 0080. ✨ feat: support email verification
 0727. ♻️ chore: add GitHub actions badge
+0825. 🔧 refactor: split large controller into smaller functions
