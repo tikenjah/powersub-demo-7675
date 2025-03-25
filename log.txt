@@ -6422,3 +6422,4 @@
 0105. 🐛 fix: correct typo in registration form
 0945. ♻️ chore: add GitHub actions badge
 0595. ✨ feat: enable dark mode toggle
+0791. 🔧 refactor: clean up auth middleware
