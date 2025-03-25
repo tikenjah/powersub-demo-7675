@@ -2279,3 +2279,4 @@
 0854. ♻️ chore: rename env.example
 0689. 🎨 style: reformat files with black
 0746. ♻️ chore: add GitHub actions badge
+0802. 🔧 refactor: remove redundant code blocks
