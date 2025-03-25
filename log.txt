@@ -2288,3 +2288,4 @@
 0693. 📚 docs: add API usage examples
 0247. 🎨 style: apply consistent indentation
 0236. 🔧 refactor: remove redundant code blocks
+0654. ✨ feat: create admin dashboard
