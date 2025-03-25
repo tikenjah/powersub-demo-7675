@@ -2281,3 +2281,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0802. 🔧 refactor: remove redundant code blocks
 0003. ✅ test: increase coverage on auth module
+0654. ✨ feat: create admin dashboard
