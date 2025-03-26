@@ -10422,3 +10422,4 @@
 0326. 🚀 perf: cache repeated calculations
 1000. ✅ test: increase coverage on auth module
 0803. ✅ test: mock database connection in test suite
+0564. 📚 docs: clarify environment setup
