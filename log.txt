@@ -9467,3 +9467,4 @@
 0474. ✅ test: add unit test for quiz service
 0668. 🚀 perf: optimize database query for quiz results
 0779. 🔧 refactor: organize models into subfolders
+0826. 📚 docs: clarify environment setup
