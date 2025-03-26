@@ -6425,3 +6425,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0975. 🎨 style: apply consistent indentation
 0508. ✅ test: add unit test for quiz service
+0722. 📚 docs: add API usage examples
