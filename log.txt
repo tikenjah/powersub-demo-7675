@@ -6424,3 +6424,4 @@
 0595. ✨ feat: enable dark mode toggle
 0791. 🔧 refactor: clean up auth middleware
 0975. 🎨 style: apply consistent indentation
+0508. ✅ test: add unit test for quiz service
