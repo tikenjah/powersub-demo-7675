@@ -2303,3 +2303,4 @@
 0755. 🚀 perf: cache repeated calculations
 0063. 🐛 fix: handle 500 error in quiz API
 0777. 📚 docs: document token refresh logic
+0732. ♻️ chore: add GitHub actions badge
