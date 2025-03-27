@@ -9472,3 +9472,4 @@
 0197. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
 0994. 🚀 perf: reduce image load time
+0100. ♻️ chore: update .gitignore
