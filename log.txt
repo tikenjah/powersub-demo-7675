@@ -6434,3 +6434,4 @@
 0604. 📚 docs: add API usage examples
 0740. 🐛 fix: resolve issue with date parsing
 0632. 🎨 style: remove trailing whitespace
+0491. 🚀 perf: lazy-load components
