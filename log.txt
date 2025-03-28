@@ -2319,3 +2319,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0555. ✨ feat: create admin dashboard
 0138. 🎨 style: rename variables for clarity
+0906. 📚 docs: add API usage examples
