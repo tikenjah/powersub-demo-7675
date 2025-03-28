@@ -2320,3 +2320,4 @@
 0555. ✨ feat: create admin dashboard
 0138. 🎨 style: rename variables for clarity
 0906. 📚 docs: add API usage examples
+0922. 📚 docs: write FAQ section
