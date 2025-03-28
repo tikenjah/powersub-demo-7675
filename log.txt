@@ -8453,3 +8453,4 @@
 0109. 🚀 perf: lazy-load components
 0068. 🐛 fix: fix null pointer exception on login
 0491. 🚀 perf: lazy-load components
+0428. 🐛 fix: fix null pointer exception on login
