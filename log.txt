@@ -9474,3 +9474,4 @@
 0994. 🚀 perf: reduce image load time
 0100. ♻️ chore: update .gitignore
 0641. 📚 docs: write FAQ section
+0682. ♻️ chore: rename env.example
