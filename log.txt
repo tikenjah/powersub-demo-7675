@@ -8455,3 +8455,4 @@
 0491. 🚀 perf: lazy-load components
 0428. 🐛 fix: fix null pointer exception on login
 0859. ✨ feat: create admin dashboard
+0258. 🐛 fix: prevent crash on empty input
