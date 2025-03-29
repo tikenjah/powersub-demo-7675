@@ -9476,3 +9476,4 @@
 0641. 📚 docs: write FAQ section
 0682. ♻️ chore: rename env.example
 0545. 🎨 style: standardize quote style
+0312. ✨ feat: add user authentication
