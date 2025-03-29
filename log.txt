@@ -5438,3 +5438,4 @@
 0468. 📚 docs: update README with setup steps
 0529. 📚 docs: write FAQ section
 0479. 🐛 fix: fix null pointer exception on login
+0031. 📚 docs: document token refresh logic
