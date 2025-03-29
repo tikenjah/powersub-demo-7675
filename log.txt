@@ -8457,3 +8457,4 @@
 0859. ✨ feat: create admin dashboard
 0258. 🐛 fix: prevent crash on empty input
 0308. 🚀 perf: reduce image load time
+0535. 📚 docs: write FAQ section
