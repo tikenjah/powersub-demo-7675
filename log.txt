@@ -5446,3 +5446,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0136. 🚀 perf: lazy-load components
 0978. 🐛 fix: prevent crash on empty input
+0600. 🐛 fix: prevent crash on empty input
