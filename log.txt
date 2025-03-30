@@ -6438,3 +6438,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0547. 📚 docs: write FAQ section
 0560. 🎨 style: rename variables for clarity
+0908. ♻️ chore: bump dependencies
