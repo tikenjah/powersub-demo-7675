@@ -2340,3 +2340,4 @@
 0474. ✅ test: add unit test for quiz service
 0644. 🎨 style: apply consistent indentation
 0332. 🎨 style: standardize quote style
+0088. 📚 docs: add API usage examples
