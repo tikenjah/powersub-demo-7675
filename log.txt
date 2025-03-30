@@ -8459,3 +8459,4 @@
 0308. 🚀 perf: reduce image load time
 0535. 📚 docs: write FAQ section
 0415. 🐛 fix: handle 500 error in quiz API
+0049. 🐛 fix: handle 500 error in quiz API
