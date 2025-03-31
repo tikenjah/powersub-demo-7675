@@ -2346,3 +2346,4 @@
 0142. ✨ feat: implement quiz timer feature
 0162. ♻️ chore: add GitHub actions badge
 0271. ✅ test: add unit test for quiz service
+0378. 🐛 fix: prevent crash on empty input
