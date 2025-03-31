@@ -2355,3 +2355,4 @@
 0423. ✅ test: mock database connection in test suite
 0083. 🎨 style: reformat files with black
 0001. 🚀 perf: cache repeated calculations
+0675. 🔧 refactor: organize models into subfolders
