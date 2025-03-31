@@ -2357,3 +2357,4 @@
 0001. 🚀 perf: cache repeated calculations
 0675. 🔧 refactor: organize models into subfolders
 0218. 🔧 refactor: clean up auth middleware
+0349. ✅ test: increase coverage on auth module
