@@ -7435,3 +7435,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
+0647. 🐛 fix: prevent crash on empty input
