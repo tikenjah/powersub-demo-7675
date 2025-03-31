@@ -6442,3 +6442,4 @@
 0875. ✅ test: increase coverage on auth module
 0448. 🐛 fix: correct typo in registration form
 0102. ✨ feat: support email verification
+0844. 📚 docs: update README with setup steps
