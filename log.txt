@@ -5448,3 +5448,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
 0156. 🎨 style: rename variables for clarity
+0493. ✨ feat: add user authentication
