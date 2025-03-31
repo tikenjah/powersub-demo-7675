@@ -6441,3 +6441,4 @@
 0908. ♻️ chore: bump dependencies
 0875. ✅ test: increase coverage on auth module
 0448. 🐛 fix: correct typo in registration form
+0102. ✨ feat: support email verification
