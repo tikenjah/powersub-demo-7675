@@ -6444,3 +6444,4 @@
 0102. ✨ feat: support email verification
 0844. 📚 docs: update README with setup steps
 0217. 🚀 perf: reduce image load time
+0603. 🐛 fix: fix broken CSS in mobile view
