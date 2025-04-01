@@ -8464,3 +8464,4 @@
 0061. ✨ feat: create admin dashboard
 0275. 🎨 style: standardize quote style
 0702. ✨ feat: add user authentication
+0300. ✨ feat: add export to CSV option
