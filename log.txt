@@ -2359,3 +2359,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0349. ✅ test: increase coverage on auth module
 0501. ✨ feat: add export to CSV option
+0373. 📚 docs: document token refresh logic
