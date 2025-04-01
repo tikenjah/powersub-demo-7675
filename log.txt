@@ -2366,3 +2366,4 @@
 0640. ♻️ chore: bump dependencies
 0013. ✅ test: increase coverage on auth module
 0651. ✨ feat: enable dark mode toggle
+0283. ♻️ chore: add GitHub actions badge
