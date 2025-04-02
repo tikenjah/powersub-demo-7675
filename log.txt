@@ -8466,3 +8466,4 @@
 0702. ✨ feat: add user authentication
 0300. ✨ feat: add export to CSV option
 0722. 📚 docs: add API usage examples
+0356. 📚 docs: write FAQ section
