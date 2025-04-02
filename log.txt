@@ -2381,3 +2381,4 @@
 0184. 📚 docs: improve code comments in utils
 0127. 🐛 fix: fix null pointer exception on login
 0763. 🔧 refactor: organize models into subfolders
+0816. 🔧 refactor: organize models into subfolders
