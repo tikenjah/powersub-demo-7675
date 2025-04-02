@@ -5454,3 +5454,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0567. 📚 docs: add API usage examples
 0345. 📚 docs: document token refresh logic
+0965. 🎨 style: reformat files with black
