@@ -2402,3 +2402,4 @@
 0347. ♻️ chore: update .gitignore
 0854. ♻️ chore: rename env.example
 0552. 🐛 fix: fix null pointer exception on login
+0630. 🚀 perf: lazy-load components
