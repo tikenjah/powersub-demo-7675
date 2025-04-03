@@ -2389,3 +2389,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0513. ♻️ chore: bump dependencies
 0885. ♻️ chore: update .gitignore
+0819. 🚀 perf: reduce image load time
