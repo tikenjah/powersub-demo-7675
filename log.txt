@@ -8470,3 +8470,4 @@
 0381. ♻️ chore: clean up unused files
 0698. 🐛 fix: handle 500 error in quiz API
 0001. 🚀 perf: cache repeated calculations
+0154. 🐛 fix: prevent crash on empty input
