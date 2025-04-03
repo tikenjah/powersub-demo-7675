@@ -2385,3 +2385,4 @@
 0528. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
 0108. 🎨 style: remove trailing whitespace
+0979. 🎨 style: standardize quote style
