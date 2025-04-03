@@ -2397,3 +2397,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0985. 📚 docs: document token refresh logic
 0870. ♻️ chore: clean up unused files
+0548. 📚 docs: write FAQ section
