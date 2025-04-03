@@ -2390,3 +2390,4 @@
 0513. ♻️ chore: bump dependencies
 0885. ♻️ chore: update .gitignore
 0819. 🚀 perf: reduce image load time
+0695. ✨ feat: create admin dashboard
