@@ -10448,3 +10448,4 @@
 0048. 📚 docs: update README with setup steps
 0954. 🚀 perf: cache repeated calculations
 0042. 📚 docs: document token refresh logic
+0457. 🐛 fix: handle 500 error in quiz API
