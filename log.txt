@@ -2416,3 +2416,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0032. 🎨 style: apply consistent indentation
 0976. ✨ feat: implement quiz timer feature
+0778. 📚 docs: write FAQ section
