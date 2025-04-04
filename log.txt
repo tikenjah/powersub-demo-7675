@@ -5458,3 +5458,4 @@
 0482. ✨ feat: add export to CSV option
 0598. 🔧 refactor: remove redundant code blocks
 0233. 🚀 perf: lazy-load components
+0197. 📚 docs: update README with setup steps
