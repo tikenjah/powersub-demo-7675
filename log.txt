@@ -2418,3 +2418,4 @@
 0976. ✨ feat: implement quiz timer feature
 0778. 📚 docs: write FAQ section
 0214. 📚 docs: improve code comments in utils
+0867. 🔧 refactor: refactor quiz grading logic
