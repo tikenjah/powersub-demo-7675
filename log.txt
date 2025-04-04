@@ -2408,3 +2408,4 @@
 0323. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
 0247. 🎨 style: apply consistent indentation
+0931. 🚀 perf: reduce image load time
