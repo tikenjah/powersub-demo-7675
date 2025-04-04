@@ -6451,3 +6451,4 @@
 0762. 🚀 perf: lazy-load components
 0665. ♻️ chore: update .gitignore
 0053. ✅ test: increase coverage on auth module
+0701. 🔧 refactor: clean up auth middleware
