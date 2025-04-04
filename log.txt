@@ -7444,3 +7444,4 @@
 0053. ✅ test: increase coverage on auth module
 0597. 🚀 perf: cache repeated calculations
 0977. 🔧 refactor: organize models into subfolders
+0194. 🎨 style: standardize quote style
