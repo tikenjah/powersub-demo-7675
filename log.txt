@@ -7445,3 +7445,4 @@
 0597. 🚀 perf: cache repeated calculations
 0977. 🔧 refactor: organize models into subfolders
 0194. 🎨 style: standardize quote style
+0355. 🚀 perf: optimize database query for quiz results
