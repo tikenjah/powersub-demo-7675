@@ -5457,3 +5457,4 @@
 0965. 🎨 style: reformat files with black
 0482. ✨ feat: add export to CSV option
 0598. 🔧 refactor: remove redundant code blocks
+0233. 🚀 perf: lazy-load components
