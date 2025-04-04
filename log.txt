@@ -2406,3 +2406,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0714. 📚 docs: improve code comments in utils
 0323. 📚 docs: clarify environment setup
+0794. ♻️ chore: clean up unused files
