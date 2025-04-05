@@ -5461,3 +5461,4 @@
 0197. 📚 docs: update README with setup steps
 0057. 🚀 perf: optimize database query for quiz results
 0739. 🎨 style: remove trailing whitespace
+0652. 🔧 refactor: organize models into subfolders
