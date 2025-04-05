@@ -8475,3 +8475,4 @@
 0695. ✨ feat: create admin dashboard
 0479. 🐛 fix: fix null pointer exception on login
 0772. 🐛 fix: fix null pointer exception on login
+0921. 🐛 fix: correct typo in registration form
