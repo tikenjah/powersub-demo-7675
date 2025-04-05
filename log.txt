@@ -6452,3 +6452,4 @@
 0665. ♻️ chore: update .gitignore
 0053. ✅ test: increase coverage on auth module
 0701. 🔧 refactor: clean up auth middleware
+0569. 📚 docs: document token refresh logic
