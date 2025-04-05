@@ -2430,3 +2430,4 @@
 0624. ✅ test: add unit test for quiz service
 0452. ✨ feat: implement quiz timer feature
 0219. ✅ test: increase coverage on auth module
+0990. ♻️ chore: rename env.example
