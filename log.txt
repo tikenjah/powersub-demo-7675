@@ -5465,3 +5465,4 @@
 0953. 🎨 style: remove trailing whitespace
 0328. 🐛 fix: resolve issue with date parsing
 0608. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
