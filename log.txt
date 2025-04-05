@@ -9502,3 +9502,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0905. ♻️ chore: bump dependencies
 0255. 🔧 refactor: refactor quiz grading logic
+0558. ✨ feat: enable dark mode toggle
