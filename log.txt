@@ -2426,3 +2426,4 @@
 0405. ✅ test: mock database connection in test suite
 0345. 📚 docs: document token refresh logic
 0369. 🎨 style: standardize quote style
+0547. 📚 docs: write FAQ section
