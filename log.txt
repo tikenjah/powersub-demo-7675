@@ -8482,3 +8482,4 @@
 0941. 🚀 perf: cache repeated calculations
 0287. 📚 docs: write FAQ section
 0684. 🚀 perf: reduce image load time
+0794. ♻️ chore: clean up unused files
