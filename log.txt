@@ -8478,3 +8478,4 @@
 0921. 🐛 fix: correct typo in registration form
 0386. 🚀 perf: optimize database query for quiz results
 0062. ♻️ chore: update .gitignore
+0162. ♻️ chore: add GitHub actions badge
