@@ -2449,3 +2449,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0784. ♻️ chore: clean up unused files
 0867. 🔧 refactor: refactor quiz grading logic
+0036. 🔧 refactor: clean up auth middleware
