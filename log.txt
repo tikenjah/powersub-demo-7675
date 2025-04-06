@@ -2440,3 +2440,4 @@
 0262. 🎨 style: remove trailing whitespace
 0892. ✅ test: add unit test for quiz service
 0133. 🐛 fix: fix null pointer exception on login
+0167. 🚀 perf: reduce image load time
