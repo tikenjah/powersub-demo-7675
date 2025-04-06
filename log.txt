@@ -2444,3 +2444,4 @@
 0132. ✅ test: add unit test for quiz service
 0936. 🔧 refactor: organize models into subfolders
 0594. 🎨 style: reformat files with black
+0127. 🐛 fix: fix null pointer exception on login
