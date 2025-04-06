@@ -2436,3 +2436,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0170. ✅ test: increase coverage on auth module
 0892. ✅ test: add unit test for quiz service
+0092. 🚀 perf: reduce image load time
