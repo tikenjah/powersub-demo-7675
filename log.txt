@@ -8480,3 +8480,4 @@
 0062. ♻️ chore: update .gitignore
 0162. ♻️ chore: add GitHub actions badge
 0941. 🚀 perf: cache repeated calculations
+0287. 📚 docs: write FAQ section
