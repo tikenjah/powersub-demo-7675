@@ -7449,3 +7449,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0084. 🐛 fix: handle 500 error in quiz API
 0978. 🐛 fix: prevent crash on empty input
+0328. 🐛 fix: resolve issue with date parsing
