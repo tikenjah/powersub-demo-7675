@@ -5468,3 +5468,4 @@
 0053. ✅ test: increase coverage on auth module
 0702. ✨ feat: add user authentication
 0511. 🐛 fix: fix broken CSS in mobile view
+0797. 📚 docs: add API usage examples
