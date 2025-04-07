@@ -8484,3 +8484,4 @@
 0684. 🚀 perf: reduce image load time
 0794. ♻️ chore: clean up unused files
 0482. ✨ feat: add export to CSV option
+0600. 🐛 fix: prevent crash on empty input
