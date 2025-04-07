@@ -5469,3 +5469,4 @@
 0702. ✨ feat: add user authentication
 0511. 🐛 fix: fix broken CSS in mobile view
 0797. 📚 docs: add API usage examples
+0351. ✨ feat: add export to CSV option
