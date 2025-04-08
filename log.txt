@@ -7453,3 +7453,4 @@
 0498. ✅ test: mock database connection in test suite
 0499. 🎨 style: reformat files with black
 0239. 🎨 style: standardize quote style
+0044. ✅ test: add unit test for quiz service
