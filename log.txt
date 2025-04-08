@@ -2459,3 +2459,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0766. 🎨 style: reformat files with black
 0126. 🎨 style: rename variables for clarity
+0094. 📚 docs: document token refresh logic
