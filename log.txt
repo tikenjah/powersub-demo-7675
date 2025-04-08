@@ -2456,3 +2456,4 @@
 0678. ✨ feat: add user authentication
 0929. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
+0514. 🐛 fix: fix broken CSS in mobile view
