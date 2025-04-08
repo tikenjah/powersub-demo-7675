@@ -7456,3 +7456,4 @@
 0044. ✅ test: add unit test for quiz service
 0468. 📚 docs: update README with setup steps
 0066. 🔧 refactor: clean up auth middleware
+0063. 🐛 fix: handle 500 error in quiz API
