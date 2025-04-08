@@ -2457,3 +2457,4 @@
 0929. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
 0514. 🐛 fix: fix broken CSS in mobile view
+0766. 🎨 style: reformat files with black
