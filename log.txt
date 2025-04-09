@@ -2478,3 +2478,4 @@
 0108. 🎨 style: remove trailing whitespace
 0510. 🎨 style: rename variables for clarity
 0081. 🐛 fix: fix null pointer exception on login
+0021. ✨ feat: support email verification
