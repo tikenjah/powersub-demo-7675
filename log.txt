@@ -5476,3 +5476,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0902. ✨ feat: enable dark mode toggle
 0815. 🔧 refactor: split large controller into smaller functions
+0195. 📚 docs: clarify environment setup
