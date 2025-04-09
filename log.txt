@@ -2480,3 +2480,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0021. ✨ feat: support email verification
 0114. ♻️ chore: update .gitignore
+0377. ✨ feat: add user authentication
