@@ -2468,3 +2468,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0585. 🚀 perf: lazy-load components
 0206. 🐛 fix: handle 500 error in quiz API
+0521. 🎨 style: standardize quote style
