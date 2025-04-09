@@ -2470,3 +2470,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0521. 🎨 style: standardize quote style
 0685. ✅ test: test user registration edge cases
+0529. 📚 docs: write FAQ section
