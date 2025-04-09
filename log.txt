@@ -5474,3 +5474,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0353. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
+0902. ✨ feat: enable dark mode toggle
