@@ -2471,3 +2471,4 @@
 0521. 🎨 style: standardize quote style
 0685. ✅ test: test user registration edge cases
 0529. 📚 docs: write FAQ section
+0217. 🚀 perf: reduce image load time
