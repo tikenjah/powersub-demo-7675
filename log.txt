@@ -2488,3 +2488,4 @@
 0855. 🎨 style: reformat files with black
 0878. 🔧 refactor: split large controller into smaller functions
 0688. 🚀 perf: reduce image load time
+0841. 🚀 perf: optimize database query for quiz results
