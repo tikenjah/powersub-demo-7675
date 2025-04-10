@@ -2481,3 +2481,4 @@
 0021. ✨ feat: support email verification
 0114. ♻️ chore: update .gitignore
 0377. ✨ feat: add user authentication
+0370. 🚀 perf: reduce image load time
