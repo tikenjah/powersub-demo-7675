@@ -9517,3 +9517,4 @@
 0787. ♻️ chore: rename env.example
 0783. 🐛 fix: handle 500 error in quiz API
 0988. 🐛 fix: fix broken CSS in mobile view
+0524. ♻️ chore: rename env.example
