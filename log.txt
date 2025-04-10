@@ -2483,3 +2483,4 @@
 0377. ✨ feat: add user authentication
 0370. 🚀 perf: reduce image load time
 0524. ♻️ chore: rename env.example
+0661. ✅ test: add integration test for /submit endpoint
