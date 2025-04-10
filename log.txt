@@ -2495,3 +2495,4 @@
 0518. ✨ feat: support email verification
 0323. 📚 docs: clarify environment setup
 0879. 🎨 style: standardize quote style
+0511. 🐛 fix: fix broken CSS in mobile view
