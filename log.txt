@@ -2494,3 +2494,4 @@
 0184. 📚 docs: improve code comments in utils
 0518. ✨ feat: support email verification
 0323. 📚 docs: clarify environment setup
+0879. 🎨 style: standardize quote style
