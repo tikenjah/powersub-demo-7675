@@ -2501,3 +2501,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0348. ✅ test: test user registration edge cases
 0049. 🐛 fix: handle 500 error in quiz API
+0591. ♻️ chore: clean up unused files
