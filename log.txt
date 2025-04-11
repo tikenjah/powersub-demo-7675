@@ -9520,3 +9520,4 @@
 0524. ♻️ chore: rename env.example
 0179. 🔧 refactor: split large controller into smaller functions
 0332. 🎨 style: standardize quote style
+0750. 🎨 style: apply consistent indentation
