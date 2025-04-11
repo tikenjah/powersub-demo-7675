@@ -2504,3 +2504,4 @@
 0591. ♻️ chore: clean up unused files
 0996. ✅ test: test user registration edge cases
 0464. 🎨 style: remove trailing whitespace
+0383. 🐛 fix: fix broken CSS in mobile view
