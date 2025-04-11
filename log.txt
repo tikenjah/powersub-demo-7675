@@ -2517,3 +2517,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0705. 🔧 refactor: refactor quiz grading logic
 0249. ✅ test: increase coverage on auth module
+0337. 📚 docs: document token refresh logic
