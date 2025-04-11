@@ -2498,3 +2498,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0169. 📚 docs: add API usage examples
 0969. ✨ feat: create admin dashboard
+0871. ✅ test: add integration test for /submit endpoint
