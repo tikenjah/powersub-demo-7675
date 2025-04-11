@@ -5484,3 +5484,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0853. 🔧 refactor: refactor quiz grading logic
 0012. 🚀 perf: cache repeated calculations
+0653. 🐛 fix: prevent crash on empty input
