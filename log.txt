@@ -2520,3 +2520,4 @@
 0337. 📚 docs: document token refresh logic
 0605. ✨ feat: support email verification
 0451. ✨ feat: support email verification
+0986. 📚 docs: document token refresh logic
