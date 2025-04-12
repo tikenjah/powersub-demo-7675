@@ -2537,3 +2537,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0099. 🚀 perf: reduce image load time
 0508. ✅ test: add unit test for quiz service
+0153. ♻️ chore: rename env.example
