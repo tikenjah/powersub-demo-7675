@@ -8500,3 +8500,4 @@
 0795. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
 0812. 🔧 refactor: refactor quiz grading logic
+0250. 📚 docs: update README with setup steps
