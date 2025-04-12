@@ -2528,3 +2528,4 @@
 0508. ✅ test: add unit test for quiz service
 0642. 🚀 perf: optimize database query for quiz results
 0088. 📚 docs: add API usage examples
+0043. ✅ test: add integration test for /submit endpoint
