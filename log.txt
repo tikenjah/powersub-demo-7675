@@ -2533,3 +2533,4 @@
 0641. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
 0553. 🐛 fix: correct typo in registration form
+0834. ✅ test: increase coverage on auth module
