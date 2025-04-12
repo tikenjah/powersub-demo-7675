@@ -2529,3 +2529,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0088. 📚 docs: add API usage examples
 0043. ✅ test: add integration test for /submit endpoint
+0106. 🎨 style: reformat files with black
