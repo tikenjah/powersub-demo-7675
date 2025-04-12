@@ -2527,3 +2527,4 @@
 0790. 📚 docs: write FAQ section
 0508. ✅ test: add unit test for quiz service
 0642. 🚀 perf: optimize database query for quiz results
+0088. 📚 docs: add API usage examples
