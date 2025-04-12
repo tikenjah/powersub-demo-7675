@@ -2525,3 +2525,4 @@
 0431. 🎨 style: reformat files with black
 0757. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0508. ✅ test: add unit test for quiz service
