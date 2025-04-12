@@ -2522,3 +2522,4 @@
 0451. ✨ feat: support email verification
 0986. 📚 docs: document token refresh logic
 0516. ✅ test: add unit test for quiz service
+0431. 🎨 style: reformat files with black
