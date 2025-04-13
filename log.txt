@@ -7471,3 +7471,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0218. 🔧 refactor: clean up auth middleware
 0953. 🎨 style: remove trailing whitespace
+0787. ♻️ chore: rename env.example
