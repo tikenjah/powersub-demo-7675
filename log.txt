@@ -2541,3 +2541,4 @@
 0626. 🎨 style: standardize quote style
 0138. 🎨 style: rename variables for clarity
 0074. ♻️ chore: add GitHub actions badge
+0511. 🐛 fix: fix broken CSS in mobile view
