@@ -2547,3 +2547,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0338. ♻️ chore: add GitHub actions badge
 0632. 🎨 style: remove trailing whitespace
+0373. 📚 docs: document token refresh logic
