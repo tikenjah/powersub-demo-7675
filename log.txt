@@ -2544,3 +2544,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0961. 📚 docs: add API usage examples
 0642. 🚀 perf: optimize database query for quiz results
+0375. 🐛 fix: handle 500 error in quiz API
