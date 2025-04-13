@@ -7472,3 +7472,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0953. 🎨 style: remove trailing whitespace
 0787. ♻️ chore: rename env.example
+0035. ✅ test: increase coverage on auth module
