@@ -7473,3 +7473,4 @@
 0953. 🎨 style: remove trailing whitespace
 0787. ♻️ chore: rename env.example
 0035. ✅ test: increase coverage on auth module
+0366. 🔧 refactor: remove redundant code blocks
