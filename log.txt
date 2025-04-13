@@ -6470,3 +6470,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0366. 🔧 refactor: remove redundant code blocks
 0673. 🐛 fix: correct typo in registration form
+0940. 📚 docs: document token refresh logic
