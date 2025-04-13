@@ -2545,3 +2545,4 @@
 0961. 📚 docs: add API usage examples
 0642. 🚀 perf: optimize database query for quiz results
 0375. 🐛 fix: handle 500 error in quiz API
+0338. ♻️ chore: add GitHub actions badge
