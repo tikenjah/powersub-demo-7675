@@ -2540,3 +2540,4 @@
 0153. ♻️ chore: rename env.example
 0626. 🎨 style: standardize quote style
 0138. 🎨 style: rename variables for clarity
+0074. ♻️ chore: add GitHub actions badge
