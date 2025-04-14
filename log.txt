@@ -5493,3 +5493,4 @@
 0724. ✅ test: mock database connection in test suite
 0402. 🎨 style: reformat files with black
 0642. 🚀 perf: optimize database query for quiz results
+0122. ✨ feat: support email verification
