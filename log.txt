@@ -2557,3 +2557,4 @@
 0921. 🐛 fix: correct typo in registration form
 0925. ✨ feat: add export to CSV option
 0869. ♻️ chore: bump dependencies
+0644. 🎨 style: apply consistent indentation
