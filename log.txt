@@ -2556,3 +2556,4 @@
 0159. 🚀 perf: lazy-load components
 0921. 🐛 fix: correct typo in registration form
 0925. ✨ feat: add export to CSV option
+0869. ♻️ chore: bump dependencies
