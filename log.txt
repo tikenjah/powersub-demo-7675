@@ -2561,3 +2561,4 @@
 0984. ♻️ chore: clean up unused files
 0645. 🐛 fix: resolve issue with date parsing
 0410. 🎨 style: reformat files with black
+0086. 🐛 fix: correct typo in registration form
