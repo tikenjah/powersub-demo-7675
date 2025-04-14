@@ -9527,3 +9527,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0620. ✨ feat: implement quiz timer feature
 0489. 🔧 refactor: organize models into subfolders
+0224. 🐛 fix: fix broken CSS in mobile view
