@@ -8506,3 +8506,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0717. 🔧 refactor: refactor quiz grading logic
 0838. 🎨 style: standardize quote style
+0005. ✅ test: add unit test for quiz service
