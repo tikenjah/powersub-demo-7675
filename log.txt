@@ -8512,3 +8512,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0508. ✅ test: add unit test for quiz service
 0184. 📚 docs: improve code comments in utils
+0817. 🔧 refactor: remove redundant code blocks
