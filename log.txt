@@ -2568,3 +2568,4 @@
 0784. ♻️ chore: clean up unused files
 0932. ✅ test: add integration test for /submit endpoint
 0487. 🎨 style: reformat files with black
+0926. 🔧 refactor: organize models into subfolders
