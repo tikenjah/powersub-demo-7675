@@ -7477,3 +7477,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0513. ♻️ chore: bump dependencies
 0775. 🐛 fix: fix null pointer exception on login
+0676. 🐛 fix: prevent crash on empty input
