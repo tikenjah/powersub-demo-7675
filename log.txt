@@ -10487,3 +10487,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0623. 🎨 style: standardize quote style
 0546. 🐛 fix: fix null pointer exception on login
+0531. 🐛 fix: prevent crash on empty input
