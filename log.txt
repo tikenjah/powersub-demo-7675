@@ -2583,3 +2583,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0656. 🎨 style: apply consistent indentation
 0200. 🐛 fix: handle 500 error in quiz API
+0242. ♻️ chore: clean up unused files
