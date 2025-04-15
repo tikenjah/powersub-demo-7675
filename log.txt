@@ -9529,3 +9529,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0224. 🐛 fix: fix broken CSS in mobile view
 0224. 🐛 fix: fix broken CSS in mobile view
+0483. 📚 docs: update README with setup steps
