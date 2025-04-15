@@ -2584,3 +2584,4 @@
 0656. 🎨 style: apply consistent indentation
 0200. 🐛 fix: handle 500 error in quiz API
 0242. ♻️ chore: clean up unused files
+0665. ♻️ chore: update .gitignore
