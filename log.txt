@@ -2587,3 +2587,4 @@
 0665. ♻️ chore: update .gitignore
 0549. ✨ feat: enable dark mode toggle
 0421. 🔧 refactor: split large controller into smaller functions
+0820. 📚 docs: add API usage examples
