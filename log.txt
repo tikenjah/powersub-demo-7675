@@ -2593,3 +2593,4 @@
 0144. ✅ test: increase coverage on auth module
 0891. ✨ feat: create admin dashboard
 0292. 📚 docs: clarify environment setup
+0876. ♻️ chore: rename env.example
