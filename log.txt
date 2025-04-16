@@ -2590,3 +2590,4 @@
 0820. 📚 docs: add API usage examples
 0427. ✅ test: mock database connection in test suite
 0530. 🔧 refactor: refactor quiz grading logic
+0144. ✅ test: increase coverage on auth module
