@@ -2598,3 +2598,4 @@
 0888. 🚀 perf: lazy-load components
 0618. ✨ feat: support email verification
 0048. 📚 docs: update README with setup steps
+0753. 🔧 refactor: remove redundant code blocks
