@@ -2599,3 +2599,4 @@
 0618. ✨ feat: support email verification
 0048. 📚 docs: update README with setup steps
 0753. 🔧 refactor: remove redundant code blocks
+0922. 📚 docs: write FAQ section
