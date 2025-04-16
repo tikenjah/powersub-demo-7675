@@ -7480,3 +7480,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0540. ♻️ chore: add GitHub actions badge
 0980. 🎨 style: reformat files with black
+0187. ✨ feat: support email verification
