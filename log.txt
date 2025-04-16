@@ -7481,3 +7481,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0980. 🎨 style: reformat files with black
 0187. ✨ feat: support email verification
+0332. 🎨 style: standardize quote style
