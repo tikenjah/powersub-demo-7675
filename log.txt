@@ -2595,3 +2595,4 @@
 0292. 📚 docs: clarify environment setup
 0876. ♻️ chore: rename env.example
 0077. ♻️ chore: rename env.example
+0888. 🚀 perf: lazy-load components
