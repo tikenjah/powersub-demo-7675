@@ -9541,3 +9541,4 @@
 0580. ♻️ chore: bump dependencies
 0884. 📚 docs: clarify environment setup
 0700. 🎨 style: rename variables for clarity
+0518. ✨ feat: support email verification
