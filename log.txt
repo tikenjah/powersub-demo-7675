@@ -5501,3 +5501,4 @@
 0869. ♻️ chore: bump dependencies
 0648. ♻️ chore: bump dependencies
 0775. 🐛 fix: fix null pointer exception on login
+0210. 🎨 style: apply consistent indentation
