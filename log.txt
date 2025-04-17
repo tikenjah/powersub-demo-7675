@@ -2610,3 +2610,4 @@
 0693. 📚 docs: add API usage examples
 0921. 🐛 fix: correct typo in registration form
 0579. 📚 docs: clarify environment setup
+0630. 🚀 perf: lazy-load components
