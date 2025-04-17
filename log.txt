@@ -2604,3 +2604,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0137. 🎨 style: rename variables for clarity
 0428. 🐛 fix: fix null pointer exception on login
+0506. 🐛 fix: handle 500 error in quiz API
