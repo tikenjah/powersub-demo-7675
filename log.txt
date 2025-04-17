@@ -10492,3 +10492,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0810. 🔧 refactor: refactor quiz grading logic
 0113. ✨ feat: add user authentication
+0978. 🐛 fix: prevent crash on empty input
