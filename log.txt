@@ -8520,3 +8520,4 @@
 0501. ✨ feat: add export to CSV option
 0739. 🎨 style: remove trailing whitespace
 0830. 🎨 style: apply consistent indentation
+0402. 🎨 style: reformat files with black
