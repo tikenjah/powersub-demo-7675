@@ -2630,3 +2630,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0089. 🔧 refactor: remove redundant code blocks
 0543. ✨ feat: support email verification
+0698. 🐛 fix: handle 500 error in quiz API
