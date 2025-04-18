@@ -2620,3 +2620,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0619. ✨ feat: create admin dashboard
 0027. 📚 docs: clarify environment setup
+0653. 🐛 fix: prevent crash on empty input
