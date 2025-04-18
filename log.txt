@@ -2624,3 +2624,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0431. 🎨 style: reformat files with black
 0869. ♻️ chore: bump dependencies
+0615. 🐛 fix: correct typo in registration form
