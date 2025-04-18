@@ -10495,3 +10495,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0940. 📚 docs: document token refresh logic
 0586. 🎨 style: remove trailing whitespace
+0040. 🔧 refactor: clean up auth middleware
