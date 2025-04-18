@@ -6482,3 +6482,4 @@
 0527. 🎨 style: remove trailing whitespace
 0202. 🔧 refactor: refactor quiz grading logic
 0153. ♻️ chore: rename env.example
+0026. 🔧 refactor: clean up auth middleware
