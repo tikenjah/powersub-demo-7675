@@ -10494,3 +10494,4 @@
 0113. ✨ feat: add user authentication
 0978. 🐛 fix: prevent crash on empty input
 0940. 📚 docs: document token refresh logic
+0586. 🎨 style: remove trailing whitespace
