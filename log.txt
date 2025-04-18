@@ -9543,3 +9543,4 @@
 0700. 🎨 style: rename variables for clarity
 0518. ✨ feat: support email verification
 0923. ✨ feat: support email verification
+0268. 🐛 fix: prevent crash on empty input
