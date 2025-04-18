@@ -10499,3 +10499,4 @@
 0618. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
 0089. 🔧 refactor: remove redundant code blocks
+0759. 🔧 refactor: organize models into subfolders
