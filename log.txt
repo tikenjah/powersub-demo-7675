@@ -2631,3 +2631,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0543. ✨ feat: support email verification
 0698. 🐛 fix: handle 500 error in quiz API
+0682. ♻️ chore: rename env.example
