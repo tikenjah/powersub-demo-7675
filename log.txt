@@ -2629,3 +2629,4 @@
 0312. ✨ feat: add user authentication
 0450. 🐛 fix: fix broken CSS in mobile view
 0089. 🔧 refactor: remove redundant code blocks
+0543. ✨ feat: support email verification
