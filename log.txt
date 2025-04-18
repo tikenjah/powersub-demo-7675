@@ -2632,3 +2632,4 @@
 0543. ✨ feat: support email verification
 0698. 🐛 fix: handle 500 error in quiz API
 0682. ♻️ chore: rename env.example
+0572. ✨ feat: add user authentication
