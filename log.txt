@@ -2635,3 +2635,4 @@
 0572. ✨ feat: add user authentication
 0008. 🚀 perf: reduce image load time
 0070. ✨ feat: implement quiz timer feature
+0136. 🚀 perf: lazy-load components
