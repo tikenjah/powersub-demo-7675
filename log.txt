@@ -2645,3 +2645,4 @@
 0259. 🚀 perf: lazy-load components
 0862. ♻️ chore: bump dependencies
 0580. ♻️ chore: bump dependencies
+0627. 📚 docs: document token refresh logic
