@@ -2646,3 +2646,4 @@
 0862. ♻️ chore: bump dependencies
 0580. ♻️ chore: bump dependencies
 0627. 📚 docs: document token refresh logic
+0803. ✅ test: mock database connection in test suite
