@@ -8525,3 +8525,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0361. ✨ feat: support email verification
 0987. ✨ feat: create admin dashboard
+0538. 🐛 fix: fix broken CSS in mobile view
