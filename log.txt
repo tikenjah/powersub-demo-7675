@@ -10509,3 +10509,4 @@
 0869. ♻️ chore: bump dependencies
 0988. 🐛 fix: fix broken CSS in mobile view
 0459. 🔧 refactor: organize models into subfolders
+0205. 📚 docs: update README with setup steps
