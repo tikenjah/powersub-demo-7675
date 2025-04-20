@@ -9551,3 +9551,4 @@
 0724. ✅ test: mock database connection in test suite
 0949. 📚 docs: write FAQ section
 0577. ✨ feat: implement quiz timer feature
+0231. 🔧 refactor: clean up auth middleware
