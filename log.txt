@@ -2653,3 +2653,4 @@
 0192. ✨ feat: enable dark mode toggle
 0643. 🎨 style: apply consistent indentation
 0847. ♻️ chore: clean up unused files
+0997. ✅ test: increase coverage on auth module
