@@ -8529,3 +8529,4 @@
 0849. 🐛 fix: correct typo in registration form
 0785. ✨ feat: enable dark mode toggle
 0854. ♻️ chore: rename env.example
+0732. ♻️ chore: add GitHub actions badge
