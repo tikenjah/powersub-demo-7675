@@ -2660,3 +2660,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0873. 🚀 perf: cache repeated calculations
 0533. ♻️ chore: add GitHub actions badge
+0960. ✅ test: increase coverage on auth module
