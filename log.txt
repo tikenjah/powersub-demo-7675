@@ -2654,3 +2654,4 @@
 0643. 🎨 style: apply consistent indentation
 0847. ♻️ chore: clean up unused files
 0997. ✅ test: increase coverage on auth module
+0787. ♻️ chore: rename env.example
