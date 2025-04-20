@@ -7491,3 +7491,4 @@
 0709. ♻️ chore: bump dependencies
 0199. ✨ feat: create admin dashboard
 0250. 📚 docs: update README with setup steps
+0578. ✅ test: add integration test for /submit endpoint
