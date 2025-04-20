@@ -8530,3 +8530,4 @@
 0785. ✨ feat: enable dark mode toggle
 0854. ♻️ chore: rename env.example
 0732. ♻️ chore: add GitHub actions badge
+0965. 🎨 style: reformat files with black
