@@ -8531,3 +8531,4 @@
 0854. ♻️ chore: rename env.example
 0732. ♻️ chore: add GitHub actions badge
 0965. 🎨 style: reformat files with black
+0239. 🎨 style: standardize quote style
