@@ -2662,3 +2662,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0960. ✅ test: increase coverage on auth module
 0334. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
