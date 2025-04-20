@@ -2655,3 +2655,4 @@
 0847. ♻️ chore: clean up unused files
 0997. ✅ test: increase coverage on auth module
 0787. ♻️ chore: rename env.example
+0308. 🚀 perf: reduce image load time
