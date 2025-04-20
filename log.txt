@@ -5513,3 +5513,4 @@
 0227. ✅ test: test user registration edge cases
 0623. 🎨 style: standardize quote style
 0743. 🎨 style: apply consistent indentation
+0880. 🐛 fix: fix broken CSS in mobile view
