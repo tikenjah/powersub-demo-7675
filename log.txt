@@ -6486,3 +6486,4 @@
 0755. 🚀 perf: cache repeated calculations
 0880. 🐛 fix: fix broken CSS in mobile view
 0253. 📚 docs: update README with setup steps
+0686. 🎨 style: standardize quote style
