@@ -2672,3 +2672,4 @@
 0702. ✨ feat: add user authentication
 0546. 🐛 fix: fix null pointer exception on login
 0676. 🐛 fix: prevent crash on empty input
+0235. 🐛 fix: fix null pointer exception on login
