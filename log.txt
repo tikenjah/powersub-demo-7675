@@ -6488,3 +6488,4 @@
 0253. 📚 docs: update README with setup steps
 0686. 🎨 style: standardize quote style
 0721. 🚀 perf: optimize database query for quiz results
+0361. ✨ feat: support email verification
