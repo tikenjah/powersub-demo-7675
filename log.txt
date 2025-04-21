@@ -7493,3 +7493,4 @@
 0250. 📚 docs: update README with setup steps
 0578. ✅ test: add integration test for /submit endpoint
 0548. 📚 docs: write FAQ section
+0294. 🐛 fix: prevent crash on empty input
