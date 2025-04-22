@@ -7497,3 +7497,4 @@
 0770. ♻️ chore: rename env.example
 0487. 🎨 style: reformat files with black
 0662. ♻️ chore: clean up unused files
+0850. ♻️ chore: rename env.example
