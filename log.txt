@@ -2680,3 +2680,4 @@
 0582. ✨ feat: add export to CSV option
 0313. 🎨 style: apply consistent indentation
 0606. 📚 docs: improve code comments in utils
+0332. 🎨 style: standardize quote style
