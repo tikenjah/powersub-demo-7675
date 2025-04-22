@@ -2677,3 +2677,4 @@
 0253. 📚 docs: update README with setup steps
 0679. ♻️ chore: bump dependencies
 0086. 🐛 fix: correct typo in registration form
+0582. ✨ feat: add export to CSV option
