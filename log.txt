@@ -2691,3 +2691,4 @@
 0626. 🎨 style: standardize quote style
 0494. 🎨 style: rename variables for clarity
 0154. 🐛 fix: prevent crash on empty input
+0630. 🚀 perf: lazy-load components
