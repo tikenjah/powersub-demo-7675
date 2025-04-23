@@ -7500,3 +7500,4 @@
 0850. ♻️ chore: rename env.example
 0631. ✨ feat: create admin dashboard
 0793. 📚 docs: clarify environment setup
+0127. 🐛 fix: fix null pointer exception on login
