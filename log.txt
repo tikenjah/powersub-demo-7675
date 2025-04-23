@@ -2688,3 +2688,4 @@
 0764. ✨ feat: add user authentication
 0847. ♻️ chore: clean up unused files
 0923. ✨ feat: support email verification
+0626. 🎨 style: standardize quote style
