@@ -9559,3 +9559,4 @@
 0333. 🚀 perf: cache repeated calculations
 0616. 🚀 perf: lazy-load components
 0850. ♻️ chore: rename env.example
+0430. 🐛 fix: fix null pointer exception on login
