@@ -10516,3 +10516,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0232. 🎨 style: apply consistent indentation
 0922. 📚 docs: write FAQ section
+0394. 🚀 perf: lazy-load components
