@@ -7501,3 +7501,4 @@
 0631. ✨ feat: create admin dashboard
 0793. 📚 docs: clarify environment setup
 0127. 🐛 fix: fix null pointer exception on login
+0030. 🐛 fix: fix null pointer exception on login
