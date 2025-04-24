@@ -2697,3 +2697,4 @@
 0928. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
 0720. ✨ feat: add export to CSV option
+0527. 🎨 style: remove trailing whitespace
