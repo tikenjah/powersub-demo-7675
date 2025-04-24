@@ -9561,3 +9561,4 @@
 0850. ♻️ chore: rename env.example
 0430. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
+0622. 🎨 style: apply consistent indentation
