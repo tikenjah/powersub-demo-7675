@@ -8538,3 +8538,4 @@
 0420. 🚀 perf: reduce image load time
 0237. 🎨 style: standardize quote style
 0936. 🔧 refactor: organize models into subfolders
+0243. 🔧 refactor: clean up auth middleware
