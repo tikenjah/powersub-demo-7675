@@ -2720,3 +2720,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0155. ✨ feat: create admin dashboard
 0416. 🎨 style: rename variables for clarity
+0747. 🔧 refactor: clean up auth middleware
