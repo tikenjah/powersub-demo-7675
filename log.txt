@@ -2732,3 +2732,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0521. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
+0583. ✅ test: increase coverage on auth module
