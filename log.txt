@@ -8540,3 +8540,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0243. 🔧 refactor: clean up auth middleware
 0824. 🚀 perf: lazy-load components
+0885. ♻️ chore: update .gitignore
