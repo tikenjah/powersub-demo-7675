@@ -10524,3 +10524,4 @@
 0411. ✅ test: add unit test for quiz service
 0804. ♻️ chore: add GitHub actions badge
 0471. ✨ feat: support email verification
+0377. ✨ feat: add user authentication
