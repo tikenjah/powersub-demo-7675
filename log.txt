@@ -10525,3 +10525,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0471. ✨ feat: support email verification
 0377. ✨ feat: add user authentication
+0835. 🐛 fix: prevent crash on empty input
