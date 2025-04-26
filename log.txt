@@ -10521,3 +10521,4 @@
 0576. ♻️ chore: update .gitignore
 0963. 🚀 perf: reduce image load time
 1000. ✅ test: increase coverage on auth module
+0411. ✅ test: add unit test for quiz service
