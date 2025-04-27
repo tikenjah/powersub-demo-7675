@@ -2740,3 +2740,4 @@
 0617. ✨ feat: support email verification
 0433. 🐛 fix: prevent crash on empty input
 0992. ♻️ chore: clean up unused files
+0994. 🚀 perf: reduce image load time
