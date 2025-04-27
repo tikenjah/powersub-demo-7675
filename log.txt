@@ -9571,3 +9571,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0064. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
+0914. ✅ test: test user registration edge cases
