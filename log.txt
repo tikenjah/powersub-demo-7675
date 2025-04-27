@@ -6507,3 +6507,4 @@
 0143. ✨ feat: implement quiz timer feature
 0223. 🔧 refactor: remove redundant code blocks
 0287. 📚 docs: write FAQ section
+0636. ✅ test: increase coverage on auth module
