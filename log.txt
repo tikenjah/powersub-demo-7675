@@ -9569,3 +9569,4 @@
 0301. 🎨 style: apply consistent indentation
 0951. 🎨 style: rename variables for clarity
 0235. 🐛 fix: fix null pointer exception on login
+0064. 📚 docs: clarify environment setup
