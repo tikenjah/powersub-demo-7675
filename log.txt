@@ -9573,3 +9573,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0914. ✅ test: test user registration edge cases
 0705. 🔧 refactor: refactor quiz grading logic
+0439. 🐛 fix: correct typo in registration form
