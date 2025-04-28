@@ -2755,3 +2755,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0094. 📚 docs: document token refresh logic
 0996. ✅ test: test user registration edge cases
+0621. 🔧 refactor: clean up auth middleware
