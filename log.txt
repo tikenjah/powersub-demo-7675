@@ -2749,3 +2749,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0076. 🎨 style: reformat files with black
 0734. ✨ feat: add export to CSV option
+0722. 📚 docs: add API usage examples
