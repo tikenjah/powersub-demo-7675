@@ -6508,3 +6508,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0287. 📚 docs: write FAQ section
 0636. ✅ test: increase coverage on auth module
+0219. ✅ test: increase coverage on auth module
