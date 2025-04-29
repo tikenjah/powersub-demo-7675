@@ -10527,3 +10527,4 @@
 0377. ✨ feat: add user authentication
 0835. 🐛 fix: prevent crash on empty input
 0994. 🚀 perf: reduce image load time
+0277. 🎨 style: standardize quote style
