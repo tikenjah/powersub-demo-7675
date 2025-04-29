@@ -6511,3 +6511,4 @@
 0219. ✅ test: increase coverage on auth module
 0397. 🐛 fix: handle 500 error in quiz API
 0976. ✨ feat: implement quiz timer feature
+0914. ✅ test: test user registration edge cases
