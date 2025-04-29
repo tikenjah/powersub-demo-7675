@@ -10528,3 +10528,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0994. 🚀 perf: reduce image load time
 0277. 🎨 style: standardize quote style
+0686. 🎨 style: standardize quote style
