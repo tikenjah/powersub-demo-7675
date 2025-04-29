@@ -2765,3 +2765,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0739. 🎨 style: remove trailing whitespace
 0608. 🔧 refactor: remove redundant code blocks
+0279. ✨ feat: support email verification
