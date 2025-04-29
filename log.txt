@@ -2766,3 +2766,4 @@
 0739. 🎨 style: remove trailing whitespace
 0608. 🔧 refactor: remove redundant code blocks
 0279. ✨ feat: support email verification
+0715. ✨ feat: create admin dashboard
