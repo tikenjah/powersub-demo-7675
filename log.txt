@@ -2782,3 +2782,4 @@
 0789. ✨ feat: create admin dashboard
 0166. 🚀 perf: cache repeated calculations
 0101. 📚 docs: clarify environment setup
+0066. 🔧 refactor: clean up auth middleware
