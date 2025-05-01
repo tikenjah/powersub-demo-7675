@@ -2795,3 +2795,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
 0928. 🎨 style: apply consistent indentation
+0850. ♻️ chore: rename env.example
