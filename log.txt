@@ -9582,3 +9582,4 @@
 0643. 🎨 style: apply consistent indentation
 0616. 🚀 perf: lazy-load components
 0121. ✨ feat: support email verification
+0582. ✨ feat: add export to CSV option
