@@ -7520,3 +7520,4 @@
 0969. ✨ feat: create admin dashboard
 0616. 🚀 perf: lazy-load components
 0373. 📚 docs: document token refresh logic
+0534. 🔧 refactor: split large controller into smaller functions
