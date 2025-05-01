@@ -5546,3 +5546,4 @@
 0633. ✨ feat: add user authentication
 0439. 🐛 fix: correct typo in registration form
 0834. ✅ test: increase coverage on auth module
+0790. 📚 docs: write FAQ section
