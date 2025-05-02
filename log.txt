@@ -2806,3 +2806,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0031. 📚 docs: document token refresh logic
 0187. ✨ feat: support email verification
+0561. 📚 docs: write FAQ section
