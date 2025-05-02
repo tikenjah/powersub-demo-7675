@@ -7523,3 +7523,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0939. 📚 docs: update README with setup steps
 0569. 📚 docs: document token refresh logic
+0856. 🐛 fix: fix null pointer exception on login
