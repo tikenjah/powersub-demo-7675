@@ -5547,3 +5547,4 @@
 0439. 🐛 fix: correct typo in registration form
 0834. ✅ test: increase coverage on auth module
 0790. 📚 docs: write FAQ section
+0521. 🎨 style: standardize quote style
