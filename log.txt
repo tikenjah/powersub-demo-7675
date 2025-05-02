@@ -2802,3 +2802,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0713. 🐛 fix: handle 500 error in quiz API
 0103. 🔧 refactor: remove redundant code blocks
+0386. 🚀 perf: optimize database query for quiz results
