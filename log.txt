@@ -6523,3 +6523,4 @@
 0755. 🚀 perf: cache repeated calculations
 0270. ♻️ chore: rename env.example
 0766. 🎨 style: reformat files with black
+0088. 📚 docs: add API usage examples
