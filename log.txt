@@ -2818,3 +2818,4 @@
 0563. 📚 docs: clarify environment setup
 0230. ✨ feat: create admin dashboard
 0141. 📚 docs: document token refresh logic
+0110. 🐛 fix: prevent crash on empty input
