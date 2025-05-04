@@ -8552,3 +8552,4 @@
 0052. 🎨 style: standardize quote style
 0707. 🎨 style: apply consistent indentation
 0134. ✨ feat: implement quiz timer feature
+0055. 📚 docs: update README with setup steps
