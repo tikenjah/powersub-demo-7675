@@ -2822,3 +2822,4 @@
 0549. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
 0053. ✅ test: increase coverage on auth module
+0864. 🐛 fix: correct typo in registration form
