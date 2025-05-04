@@ -2830,3 +2830,4 @@
 0523. ♻️ chore: bump dependencies
 0062. ♻️ chore: update .gitignore
 0458. ✨ feat: create admin dashboard
+0398. 🚀 perf: cache repeated calculations
