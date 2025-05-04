@@ -5550,3 +5550,4 @@
 0521. 🎨 style: standardize quote style
 0681. ✨ feat: create admin dashboard
 0990. ♻️ chore: rename env.example
+0346. ✅ test: mock database connection in test suite
