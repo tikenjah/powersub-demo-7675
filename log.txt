@@ -5549,3 +5549,4 @@
 0790. 📚 docs: write FAQ section
 0521. 🎨 style: standardize quote style
 0681. ✨ feat: create admin dashboard
+0990. ♻️ chore: rename env.example
