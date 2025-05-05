@@ -7532,3 +7532,4 @@
 0566. 📚 docs: write FAQ section
 0664. ✅ test: add unit test for quiz service
 0785. ✨ feat: enable dark mode toggle
+0335. ♻️ chore: update .gitignore
