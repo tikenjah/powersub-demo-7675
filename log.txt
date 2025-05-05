@@ -5556,3 +5556,4 @@
 0523. ♻️ chore: bump dependencies
 0773. 📚 docs: document token refresh logic
 0569. 📚 docs: document token refresh logic
+0526. ✨ feat: add user authentication
