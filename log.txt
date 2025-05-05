@@ -2843,3 +2843,4 @@
 0870. ♻️ chore: clean up unused files
 0736. 🐛 fix: fix null pointer exception on login
 0701. 🔧 refactor: clean up auth middleware
+0603. 🐛 fix: fix broken CSS in mobile view
