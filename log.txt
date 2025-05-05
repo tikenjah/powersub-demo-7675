@@ -2836,3 +2836,4 @@
 0902. ✨ feat: enable dark mode toggle
 0900. 🐛 fix: handle 500 error in quiz API
 0605. ✨ feat: support email verification
+0115. 🚀 perf: reduce image load time
