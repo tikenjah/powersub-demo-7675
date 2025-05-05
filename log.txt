@@ -6527,3 +6527,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0691. 🎨 style: rename variables for clarity
 0072. 🚀 perf: optimize database query for quiz results
+0889. 🚀 perf: lazy-load components
