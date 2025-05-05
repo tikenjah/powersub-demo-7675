@@ -2840,3 +2840,4 @@
 0225. 🚀 perf: reduce image load time
 0619. ✨ feat: create admin dashboard
 0333. 🚀 perf: cache repeated calculations
+0870. ♻️ chore: clean up unused files
