@@ -5555,3 +5555,4 @@
 0875. ✅ test: increase coverage on auth module
 0523. ♻️ chore: bump dependencies
 0773. 📚 docs: document token refresh logic
+0569. 📚 docs: document token refresh logic
