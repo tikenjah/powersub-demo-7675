@@ -10551,3 +10551,4 @@
 0028. 🎨 style: standardize quote style
 0514. 🐛 fix: fix broken CSS in mobile view
 0680. ♻️ chore: add GitHub actions badge
+0122. ✨ feat: support email verification
