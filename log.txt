@@ -6530,3 +6530,4 @@
 0889. 🚀 perf: lazy-load components
 0692. ✅ test: add integration test for /submit endpoint
 0979. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
