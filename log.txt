@@ -2845,3 +2845,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0603. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
+0307. ✨ feat: support email verification
