@@ -9595,3 +9595,4 @@
 0576. ♻️ chore: update .gitignore
 0185. 📚 docs: write FAQ section
 0423. ✅ test: mock database connection in test suite
+0611. ✅ test: test user registration edge cases
