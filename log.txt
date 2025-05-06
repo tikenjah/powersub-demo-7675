@@ -10552,3 +10552,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0680. ♻️ chore: add GitHub actions badge
 0122. ✨ feat: support email verification
+0355. 🚀 perf: optimize database query for quiz results
