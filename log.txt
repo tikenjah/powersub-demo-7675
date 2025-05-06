@@ -2848,3 +2848,4 @@
 0307. ✨ feat: support email verification
 0174. 📚 docs: clarify environment setup
 0521. 🎨 style: standardize quote style
+0107. 🐛 fix: prevent crash on empty input
