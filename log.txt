@@ -7536,3 +7536,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0132. ✅ test: add unit test for quiz service
 0685. ✅ test: test user registration edge cases
+0582. ✨ feat: add export to CSV option
