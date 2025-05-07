@@ -2861,3 +2861,4 @@
 0623. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
 0783. 🐛 fix: handle 500 error in quiz API
+0435. ✅ test: add unit test for quiz service
