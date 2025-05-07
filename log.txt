@@ -2875,3 +2875,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0850. ♻️ chore: rename env.example
 0633. ✨ feat: add user authentication
+0362. 📚 docs: add API usage examples
