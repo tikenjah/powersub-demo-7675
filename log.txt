@@ -7539,3 +7539,4 @@
 0582. ✨ feat: add export to CSV option
 0493. ✨ feat: add user authentication
 0586. 🎨 style: remove trailing whitespace
+0692. ✅ test: add integration test for /submit endpoint
