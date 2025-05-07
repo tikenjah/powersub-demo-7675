@@ -2860,3 +2860,4 @@
 0606. 📚 docs: improve code comments in utils
 0623. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
+0783. 🐛 fix: handle 500 error in quiz API
