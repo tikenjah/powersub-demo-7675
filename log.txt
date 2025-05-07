@@ -2865,3 +2865,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0207. 🐛 fix: prevent crash on empty input
 0657. 🎨 style: standardize quote style
+0181. ♻️ chore: add GitHub actions badge
