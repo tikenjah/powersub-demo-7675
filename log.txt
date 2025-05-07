@@ -5563,3 +5563,4 @@
 0641. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
 0281. ✨ feat: support email verification
+0828. ♻️ chore: add GitHub actions badge
