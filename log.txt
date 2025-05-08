@@ -2881,3 +2881,4 @@
 0596. ♻️ chore: update .gitignore
 0948. 🐛 fix: fix broken CSS in mobile view
 0292. 📚 docs: clarify environment setup
+0118. 🚀 perf: reduce image load time
