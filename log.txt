@@ -5565,3 +5565,4 @@
 0281. ✨ feat: support email verification
 0828. ♻️ chore: add GitHub actions badge
 0611. ✅ test: test user registration edge cases
+0958. 🐛 fix: prevent crash on empty input
