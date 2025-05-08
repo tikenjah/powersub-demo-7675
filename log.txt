@@ -2876,3 +2876,4 @@
 0850. ♻️ chore: rename env.example
 0633. ✨ feat: add user authentication
 0362. 📚 docs: add API usage examples
+0029. 🚀 perf: lazy-load components
