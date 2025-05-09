@@ -10556,3 +10556,4 @@
 0007. 🎨 style: rename variables for clarity
 0965. 🎨 style: reformat files with black
 0858. ♻️ chore: clean up unused files
+0369. 🎨 style: standardize quote style
