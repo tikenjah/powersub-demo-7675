@@ -10558,3 +10558,4 @@
 0858. ♻️ chore: clean up unused files
 0369. 🎨 style: standardize quote style
 0735. ♻️ chore: add GitHub actions badge
+0642. 🚀 perf: optimize database query for quiz results
