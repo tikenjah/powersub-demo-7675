@@ -8562,3 +8562,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0970. ♻️ chore: update .gitignore
 0762. 🚀 perf: lazy-load components
+0471. ✨ feat: support email verification
