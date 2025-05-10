@@ -9614,3 +9614,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0428. 🐛 fix: fix null pointer exception on login
 0613. 🐛 fix: prevent crash on empty input
+0721. 🚀 perf: optimize database query for quiz results
