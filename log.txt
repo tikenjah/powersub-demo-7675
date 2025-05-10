@@ -2910,3 +2910,4 @@
 0922. 📚 docs: write FAQ section
 0282. 🔧 refactor: remove redundant code blocks
 0008. 🚀 perf: reduce image load time
+0354. 📚 docs: add API usage examples
