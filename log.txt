@@ -6534,3 +6534,4 @@
 0381. ♻️ chore: clean up unused files
 0256. ✅ test: mock database connection in test suite
 0139. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
