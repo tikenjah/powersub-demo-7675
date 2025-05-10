@@ -2900,3 +2900,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0223. 🔧 refactor: remove redundant code blocks
 0654. ✨ feat: create admin dashboard
+0118. 🚀 perf: reduce image load time
