@@ -8563,3 +8563,4 @@
 0970. ♻️ chore: update .gitignore
 0762. 🚀 perf: lazy-load components
 0471. ✨ feat: support email verification
+0735. ♻️ chore: add GitHub actions badge
