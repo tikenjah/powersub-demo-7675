@@ -5574,3 +5574,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0312. ✨ feat: add user authentication
 0588. 🔧 refactor: organize models into subfolders
+0084. 🐛 fix: handle 500 error in quiz API
