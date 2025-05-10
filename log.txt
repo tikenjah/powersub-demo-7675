@@ -9613,3 +9613,4 @@
 0001. 🚀 perf: cache repeated calculations
 0590. 🐛 fix: fix null pointer exception on login
 0428. 🐛 fix: fix null pointer exception on login
+0613. 🐛 fix: prevent crash on empty input
