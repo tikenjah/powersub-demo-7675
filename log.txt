@@ -2925,3 +2925,4 @@
 0780. 📚 docs: add API usage examples
 0711. 🐛 fix: fix broken CSS in mobile view
 0954. 🚀 perf: cache repeated calculations
+0996. ✅ test: test user registration edge cases
