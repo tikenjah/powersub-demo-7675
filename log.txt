@@ -2919,3 +2919,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0404. 📚 docs: improve code comments in utils
 0108. 🎨 style: remove trailing whitespace
+0406. ✨ feat: add export to CSV option
