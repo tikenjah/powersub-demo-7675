@@ -6543,3 +6543,4 @@
 0455. ♻️ chore: clean up unused files
 0331. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
+0024. 📚 docs: write FAQ section
