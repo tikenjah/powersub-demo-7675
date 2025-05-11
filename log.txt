@@ -2927,3 +2927,4 @@
 0954. 🚀 perf: cache repeated calculations
 0996. ✅ test: test user registration edge cases
 0520. 🐛 fix: fix null pointer exception on login
+0850. ♻️ chore: rename env.example
