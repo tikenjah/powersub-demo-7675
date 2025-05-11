@@ -6538,3 +6538,4 @@
 0379. ✨ feat: support email verification
 0976. ✨ feat: implement quiz timer feature
 0700. 🎨 style: rename variables for clarity
+0177. 📚 docs: add API usage examples
