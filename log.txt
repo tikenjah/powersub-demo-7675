@@ -6542,3 +6542,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0455. ♻️ chore: clean up unused files
 0331. 🐛 fix: fix broken CSS in mobile view
+0365. 🚀 perf: reduce image load time
