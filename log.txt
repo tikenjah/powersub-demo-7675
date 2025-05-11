@@ -6539,3 +6539,4 @@
 0976. ✨ feat: implement quiz timer feature
 0700. 🎨 style: rename variables for clarity
 0177. 📚 docs: add API usage examples
+0653. 🐛 fix: prevent crash on empty input
