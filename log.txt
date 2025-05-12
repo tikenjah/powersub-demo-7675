@@ -6549,3 +6549,4 @@
 0210. 🎨 style: apply consistent indentation
 0068. 🐛 fix: fix null pointer exception on login
 0234. ♻️ chore: rename env.example
+0233. 🚀 perf: lazy-load components
