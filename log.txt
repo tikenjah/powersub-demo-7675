@@ -2944,3 +2944,4 @@
 0131. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
 0626. 🎨 style: standardize quote style
+0067. 🔧 refactor: remove redundant code blocks
