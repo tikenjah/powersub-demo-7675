@@ -7555,3 +7555,4 @@
 0313. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
 0987. ✨ feat: create admin dashboard
+0986. 📚 docs: document token refresh logic
