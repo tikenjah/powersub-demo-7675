@@ -2945,3 +2945,4 @@
 0178. ✨ feat: support email verification
 0626. 🎨 style: standardize quote style
 0067. 🔧 refactor: remove redundant code blocks
+0030. 🐛 fix: fix null pointer exception on login
