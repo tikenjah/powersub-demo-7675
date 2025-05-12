@@ -7556,3 +7556,4 @@
 0518. ✨ feat: support email verification
 0987. ✨ feat: create admin dashboard
 0986. 📚 docs: document token refresh logic
+0822. 🔧 refactor: remove redundant code blocks
