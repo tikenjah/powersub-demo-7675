@@ -2950,3 +2950,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0618. ✨ feat: support email verification
 0679. ♻️ chore: bump dependencies
+0660. 🐛 fix: correct typo in registration form
