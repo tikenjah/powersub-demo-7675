@@ -10567,3 +10567,4 @@
 0766. 🎨 style: reformat files with black
 0150. 🎨 style: remove trailing whitespace
 0818. 🔧 refactor: remove redundant code blocks
+0939. 📚 docs: update README with setup steps
