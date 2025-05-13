@@ -2965,3 +2965,4 @@
 0575. ✅ test: add unit test for quiz service
 0835. 🐛 fix: prevent crash on empty input
 0257. 📚 docs: clarify environment setup
+0762. 🚀 perf: lazy-load components
