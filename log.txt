@@ -8568,3 +8568,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0288. 🔧 refactor: refactor quiz grading logic
+0876. ♻️ chore: rename env.example
