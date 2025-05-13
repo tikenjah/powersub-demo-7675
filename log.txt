@@ -9619,3 +9619,4 @@
 0820. 📚 docs: add API usage examples
 0044. ✅ test: add unit test for quiz service
 0580. ♻️ chore: bump dependencies
+0319. 🐛 fix: handle 500 error in quiz API
