@@ -2952,3 +2952,4 @@
 0679. ♻️ chore: bump dependencies
 0660. 🐛 fix: correct typo in registration form
 0597. 🚀 perf: cache repeated calculations
+0152. ✨ feat: add user authentication
