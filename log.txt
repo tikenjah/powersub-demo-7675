@@ -6557,3 +6557,4 @@
 0555. ✨ feat: create admin dashboard
 0593. 🐛 fix: correct typo in registration form
 0541. 🐛 fix: correct typo in registration form
+0508. ✅ test: add unit test for quiz service
