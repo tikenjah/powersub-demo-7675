@@ -2974,3 +2974,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0038. 🎨 style: rename variables for clarity
 0602. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
