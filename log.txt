@@ -2976,3 +2976,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0319. 🐛 fix: handle 500 error in quiz API
 0692. ✅ test: add integration test for /submit endpoint
+0556. ✨ feat: support email verification
