@@ -2975,3 +2975,4 @@
 0038. 🎨 style: rename variables for clarity
 0602. 🔧 refactor: remove redundant code blocks
 0319. 🐛 fix: handle 500 error in quiz API
+0692. ✅ test: add integration test for /submit endpoint
