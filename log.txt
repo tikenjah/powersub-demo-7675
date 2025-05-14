@@ -9623,3 +9623,4 @@
 0361. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
 0196. ♻️ chore: bump dependencies
+0725. 🚀 perf: lazy-load components
