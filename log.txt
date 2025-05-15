@@ -8573,3 +8573,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0830. 🎨 style: apply consistent indentation
 0869. ♻️ chore: bump dependencies
+0359. 🔧 refactor: clean up auth middleware
