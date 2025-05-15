@@ -2988,3 +2988,4 @@
 0631. ✨ feat: create admin dashboard
 0792. 🎨 style: standardize quote style
 0418. ✅ test: mock database connection in test suite
+0710. 🐛 fix: fix broken CSS in mobile view
