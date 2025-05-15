@@ -7564,3 +7564,4 @@
 0547. 📚 docs: write FAQ section
 0048. 📚 docs: update README with setup steps
 0650. ✅ test: add unit test for quiz service
+0420. 🚀 perf: reduce image load time
