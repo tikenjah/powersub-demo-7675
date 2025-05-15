@@ -6566,3 +6566,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0180. ✨ feat: add export to CSV option
 0916. ♻️ chore: bump dependencies
+0959. 🐛 fix: fix null pointer exception on login
