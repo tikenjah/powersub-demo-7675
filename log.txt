@@ -9627,3 +9627,4 @@
 0798. 🚀 perf: reduce image load time
 0503. ♻️ chore: rename env.example
 0354. 📚 docs: add API usage examples
+0027. 📚 docs: clarify environment setup
