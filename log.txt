@@ -2997,3 +2997,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0219. ✅ test: increase coverage on auth module
 0403. ✅ test: mock database connection in test suite
+0680. ♻️ chore: add GitHub actions badge
