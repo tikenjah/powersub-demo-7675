@@ -7566,3 +7566,4 @@
 0650. ✅ test: add unit test for quiz service
 0420. 🚀 perf: reduce image load time
 0853. 🔧 refactor: refactor quiz grading logic
+0290. ✅ test: test user registration edge cases
