@@ -6570,3 +6570,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0928. 🎨 style: apply consistent indentation
 0358. 🚀 perf: reduce image load time
+0296. 🔧 refactor: organize models into subfolders
