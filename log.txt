@@ -5587,3 +5587,4 @@
 0902. ✨ feat: enable dark mode toggle
 0388. 🎨 style: reformat files with black
 0085. ✨ feat: support email verification
+0505. ♻️ chore: add GitHub actions badge
