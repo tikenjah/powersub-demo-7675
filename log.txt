@@ -9633,3 +9633,4 @@
 0719. 🎨 style: apply consistent indentation
 0611. ✅ test: test user registration edge cases
 0901. ✨ feat: add user authentication
+0219. ✅ test: increase coverage on auth module
