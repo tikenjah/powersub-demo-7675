@@ -10582,3 +10582,4 @@
 0640. ♻️ chore: bump dependencies
 0283. ♻️ chore: add GitHub actions badge
 0635. 🎨 style: apply consistent indentation
+0068. 🐛 fix: fix null pointer exception on login
