@@ -10585,3 +10585,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0899. 🚀 perf: cache repeated calculations
 0816. 🔧 refactor: organize models into subfolders
+0988. 🐛 fix: fix broken CSS in mobile view
