@@ -7568,3 +7568,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0290. ✅ test: test user registration edge cases
 0167. 🚀 perf: reduce image load time
+0703. 🔧 refactor: clean up auth middleware
