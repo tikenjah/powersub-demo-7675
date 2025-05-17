@@ -3028,3 +3028,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0077. ♻️ chore: rename env.example
 0013. ✅ test: increase coverage on auth module
+0102. ✨ feat: support email verification
