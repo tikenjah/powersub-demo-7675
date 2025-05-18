@@ -10588,3 +10588,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0414. 🔧 refactor: remove redundant code blocks
 0726. ✨ feat: enable dark mode toggle
+0544. 🔧 refactor: organize models into subfolders
