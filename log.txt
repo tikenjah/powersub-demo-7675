@@ -3033,3 +3033,4 @@
 0635. 🎨 style: apply consistent indentation
 0111. 📚 docs: update README with setup steps
 0026. 🔧 refactor: clean up auth middleware
+0565. ♻️ chore: add GitHub actions badge
