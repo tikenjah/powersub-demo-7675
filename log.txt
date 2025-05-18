@@ -5591,3 +5591,4 @@
 0376. 🎨 style: apply consistent indentation
 0088. 📚 docs: add API usage examples
 0512. 🚀 perf: reduce image load time
+0384. 📚 docs: clarify environment setup
