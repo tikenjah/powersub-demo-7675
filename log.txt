@@ -3044,3 +3044,4 @@
 0626. 🎨 style: standardize quote style
 0793. 📚 docs: clarify environment setup
 0840. 🔧 refactor: refactor quiz grading logic
+0864. 🐛 fix: correct typo in registration form
