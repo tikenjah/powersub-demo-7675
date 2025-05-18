@@ -3042,3 +3042,4 @@
 0012. 🚀 perf: cache repeated calculations
 0133. 🐛 fix: fix null pointer exception on login
 0626. 🎨 style: standardize quote style
+0793. 📚 docs: clarify environment setup
