@@ -3031,3 +3031,4 @@
 0102. ✨ feat: support email verification
 0657. 🎨 style: standardize quote style
 0635. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
