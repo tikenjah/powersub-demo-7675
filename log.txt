@@ -7580,3 +7580,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0531. 🐛 fix: prevent crash on empty input
 0865. ♻️ chore: add GitHub actions badge
+0612. ✅ test: test user registration edge cases
