@@ -7578,3 +7578,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0832. 🔧 refactor: remove redundant code blocks
 0276. ✅ test: add integration test for /submit endpoint
+0531. 🐛 fix: prevent crash on empty input
