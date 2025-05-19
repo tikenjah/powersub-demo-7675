@@ -10589,3 +10589,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0726. ✨ feat: enable dark mode toggle
 0544. 🔧 refactor: organize models into subfolders
+0949. 📚 docs: write FAQ section
