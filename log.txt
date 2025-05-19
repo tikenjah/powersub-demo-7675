@@ -3051,3 +3051,4 @@
 0121. ✨ feat: support email verification
 0407. 🚀 perf: cache repeated calculations
 0097. 🐛 fix: handle 500 error in quiz API
+0979. 🎨 style: standardize quote style
