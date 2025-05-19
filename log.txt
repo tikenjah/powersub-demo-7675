@@ -10590,3 +10590,4 @@
 0726. ✨ feat: enable dark mode toggle
 0544. 🔧 refactor: organize models into subfolders
 0949. 📚 docs: write FAQ section
+0521. 🎨 style: standardize quote style
