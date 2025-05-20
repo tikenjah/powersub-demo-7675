@@ -3063,3 +3063,4 @@
 0899. 🚀 perf: cache repeated calculations
 0565. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
+0866. 📚 docs: add API usage examples
