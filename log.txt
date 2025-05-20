@@ -3061,3 +3061,4 @@
 0618. ✨ feat: support email verification
 0098. 🎨 style: rename variables for clarity
 0899. 🚀 perf: cache repeated calculations
+0565. ♻️ chore: add GitHub actions badge
