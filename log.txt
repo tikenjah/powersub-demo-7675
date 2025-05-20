@@ -3074,3 +3074,4 @@
 0184. 📚 docs: improve code comments in utils
 0280. ✅ test: add integration test for /submit endpoint
 0607. 🐛 fix: prevent crash on empty input
+0703. 🔧 refactor: clean up auth middleware
