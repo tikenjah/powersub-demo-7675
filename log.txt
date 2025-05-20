@@ -3069,3 +3069,4 @@
 0045. 🎨 style: apply consistent indentation
 0487. 🎨 style: reformat files with black
 0787. ♻️ chore: rename env.example
+0433. 🐛 fix: prevent crash on empty input
