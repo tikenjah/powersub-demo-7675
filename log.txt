@@ -3070,3 +3070,4 @@
 0487. 🎨 style: reformat files with black
 0787. ♻️ chore: rename env.example
 0433. 🐛 fix: prevent crash on empty input
+0732. ♻️ chore: add GitHub actions badge
