@@ -5596,3 +5596,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0007. 🎨 style: rename variables for clarity
 0415. 🐛 fix: handle 500 error in quiz API
+0769. ✨ feat: create admin dashboard
