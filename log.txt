@@ -3089,3 +3089,4 @@
 0301. 🎨 style: apply consistent indentation
 0983. 🔧 refactor: split large controller into smaller functions
 0743. 🎨 style: apply consistent indentation
+0756. ✨ feat: support email verification
