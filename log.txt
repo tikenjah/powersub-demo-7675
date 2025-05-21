@@ -6584,3 +6584,4 @@
 0341. 🚀 perf: lazy-load components
 0873. 🚀 perf: cache repeated calculations
 0328. 🐛 fix: resolve issue with date parsing
+0773. 📚 docs: document token refresh logic
