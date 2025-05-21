@@ -10601,3 +10601,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0974. ✨ feat: add export to CSV option
 0476. 🚀 perf: reduce image load time
+0499. 🎨 style: reformat files with black
