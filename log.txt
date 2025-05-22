@@ -10602,3 +10602,4 @@
 0974. ✨ feat: add export to CSV option
 0476. 🚀 perf: reduce image load time
 0499. 🎨 style: reformat files with black
+0134. ✨ feat: implement quiz timer feature
