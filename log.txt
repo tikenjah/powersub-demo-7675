@@ -9654,3 +9654,4 @@
 0962. ✨ feat: create admin dashboard
 0648. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
+0503. ♻️ chore: rename env.example
