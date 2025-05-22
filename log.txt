@@ -3099,3 +3099,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0147. ♻️ chore: bump dependencies
 0452. ✨ feat: implement quiz timer feature
+0225. 🚀 perf: reduce image load time
