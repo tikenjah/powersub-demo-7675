@@ -5602,3 +5602,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0652. 🔧 refactor: organize models into subfolders
 0787. ♻️ chore: rename env.example
+0149. ✨ feat: add export to CSV option
