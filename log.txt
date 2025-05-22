@@ -3103,3 +3103,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0461. ✨ feat: add user authentication
 0022. 📚 docs: document token refresh logic
+0112. ✨ feat: enable dark mode toggle
