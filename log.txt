@@ -10605,3 +10605,4 @@
 0134. ✨ feat: implement quiz timer feature
 0508. ✅ test: add unit test for quiz service
 0502. 📚 docs: update README with setup steps
+0035. ✅ test: increase coverage on auth module
