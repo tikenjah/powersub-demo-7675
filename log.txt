@@ -7589,3 +7589,4 @@
 0634. 🎨 style: reformat files with black
 0006. 🐛 fix: prevent crash on empty input
 0486. ✨ feat: add export to CSV option
+0036. 🔧 refactor: clean up auth middleware
