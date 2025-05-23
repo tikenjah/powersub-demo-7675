@@ -9655,3 +9655,4 @@
 0648. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
+0461. ✨ feat: add user authentication
