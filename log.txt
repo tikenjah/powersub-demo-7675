@@ -5605,3 +5605,4 @@
 0149. ✨ feat: add export to CSV option
 0003. ✅ test: increase coverage on auth module
 0847. ♻️ chore: clean up unused files
+0971. 🎨 style: standardize quote style
