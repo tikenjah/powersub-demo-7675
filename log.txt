@@ -5613,3 +5613,4 @@
 0720. ✨ feat: add export to CSV option
 0592. 📚 docs: add API usage examples
 0145. 📚 docs: improve code comments in utils
+0762. 🚀 perf: lazy-load components
