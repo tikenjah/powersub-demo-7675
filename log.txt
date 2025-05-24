@@ -5611,3 +5611,4 @@
 0848. 📚 docs: update README with setup steps
 0672. 🐛 fix: fix broken CSS in mobile view
 0720. ✨ feat: add export to CSV option
+0592. 📚 docs: add API usage examples
