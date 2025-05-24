@@ -3120,3 +3120,4 @@
 0361. ✨ feat: support email verification
 0975. 🎨 style: apply consistent indentation
 0963. 🚀 perf: reduce image load time
+0080. ✨ feat: support email verification
