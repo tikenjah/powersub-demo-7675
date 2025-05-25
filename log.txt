@@ -5617,3 +5617,4 @@
 0216. 🎨 style: rename variables for clarity
 0959. 🐛 fix: fix null pointer exception on login
 0716. ✨ feat: implement quiz timer feature
+0208. 🔧 refactor: clean up auth middleware
