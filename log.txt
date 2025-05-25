@@ -6595,3 +6595,4 @@
 0824. 🚀 perf: lazy-load components
 0270. ♻️ chore: rename env.example
 0618. ✨ feat: support email verification
+0371. ✅ test: add integration test for /submit endpoint
