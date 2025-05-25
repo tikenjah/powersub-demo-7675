@@ -3126,3 +3126,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0719. 🎨 style: apply consistent indentation
 0690. 🚀 perf: lazy-load components
+0453. 🎨 style: standardize quote style
