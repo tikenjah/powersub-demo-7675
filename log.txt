@@ -8609,3 +8609,4 @@
 0010. ✨ feat: add user authentication
 0555. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
+0128. ♻️ chore: rename env.example
