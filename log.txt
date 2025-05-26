@@ -3150,3 +3150,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
 0081. 🐛 fix: fix null pointer exception on login
+0010. ✨ feat: add user authentication
