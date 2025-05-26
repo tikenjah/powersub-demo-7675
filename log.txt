@@ -8610,3 +8610,4 @@
 0555. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
 0128. ♻️ chore: rename env.example
+0607. 🐛 fix: prevent crash on empty input
