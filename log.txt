@@ -9663,3 +9663,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0205. 📚 docs: update README with setup steps
 0916. ♻️ chore: bump dependencies
+0096. 🐛 fix: prevent crash on empty input
