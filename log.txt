@@ -3157,3 +3157,4 @@
 0382. 📚 docs: improve code comments in utils
 0974. ✨ feat: add export to CSV option
 0241. 📚 docs: add API usage examples
+0002. 🚀 perf: cache repeated calculations
