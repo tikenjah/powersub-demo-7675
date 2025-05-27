@@ -7598,3 +7598,4 @@
 0013. ✅ test: increase coverage on auth module
 0357. ✅ test: add unit test for quiz service
 0292. 📚 docs: clarify environment setup
+0083. 🎨 style: reformat files with black
