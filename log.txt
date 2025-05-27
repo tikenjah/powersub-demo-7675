@@ -10611,3 +10611,4 @@
 0080. ✨ feat: support email verification
 0713. 🐛 fix: handle 500 error in quiz API
 0758. 🚀 perf: optimize database query for quiz results
+0578. ✅ test: add integration test for /submit endpoint
