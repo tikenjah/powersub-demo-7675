@@ -3153,3 +3153,4 @@
 0010. ✨ feat: add user authentication
 0341. 🚀 perf: lazy-load components
 0296. 🔧 refactor: organize models into subfolders
+0898. 🐛 fix: fix broken CSS in mobile view
