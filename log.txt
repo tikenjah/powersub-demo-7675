@@ -8613,3 +8613,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0777. 📚 docs: document token refresh logic
 0021. ✨ feat: support email verification
+0380. 🐛 fix: fix null pointer exception on login
