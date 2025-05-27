@@ -3165,3 +3165,4 @@
 0564. 📚 docs: clarify environment setup
 0071. 🔧 refactor: refactor quiz grading logic
 0290. ✅ test: test user registration edge cases
+0937. 🐛 fix: handle 500 error in quiz API
