@@ -3164,3 +3164,4 @@
 0580. ♻️ chore: bump dependencies
 0564. 📚 docs: clarify environment setup
 0071. 🔧 refactor: refactor quiz grading logic
+0290. ✅ test: test user registration edge cases
