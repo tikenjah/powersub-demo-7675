@@ -3169,3 +3169,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0096. 🐛 fix: prevent crash on empty input
 0471. ✨ feat: support email verification
+0471. ✨ feat: support email verification
