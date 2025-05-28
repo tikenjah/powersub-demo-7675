@@ -3170,3 +3170,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0471. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0427. ✅ test: mock database connection in test suite
