@@ -3177,3 +3177,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0606. 📚 docs: improve code comments in utils
 0794. ♻️ chore: clean up unused files
+0595. ✨ feat: enable dark mode toggle
