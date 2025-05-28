@@ -10618,3 +10618,4 @@
 0847. ♻️ chore: clean up unused files
 0901. ✨ feat: add user authentication
 0650. ✅ test: add unit test for quiz service
+0574. ✨ feat: enable dark mode toggle
