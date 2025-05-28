@@ -3171,3 +3171,4 @@
 0471. ✨ feat: support email verification
 0471. ✨ feat: support email verification
 0427. ✅ test: mock database connection in test suite
+0689. 🎨 style: reformat files with black
