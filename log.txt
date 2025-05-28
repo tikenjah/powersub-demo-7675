@@ -7600,3 +7600,4 @@
 0292. 📚 docs: clarify environment setup
 0083. 🎨 style: reformat files with black
 0874. 🔧 refactor: split large controller into smaller functions
+0843. 📚 docs: document token refresh logic
