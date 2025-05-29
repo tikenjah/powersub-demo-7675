@@ -9672,3 +9672,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0866. 📚 docs: add API usage examples
 0861. ♻️ chore: clean up unused files
+0732. ♻️ chore: add GitHub actions badge
