@@ -3181,3 +3181,4 @@
 0704. 🚀 perf: cache repeated calculations
 0803. ✅ test: mock database connection in test suite
 0704. 🚀 perf: cache repeated calculations
+0978. 🐛 fix: prevent crash on empty input
