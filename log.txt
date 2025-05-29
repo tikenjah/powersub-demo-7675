@@ -3186,3 +3186,4 @@
 0387. ✨ feat: enable dark mode toggle
 0158. 📚 docs: clarify environment setup
 0999. 🔧 refactor: split large controller into smaller functions
+0563. 📚 docs: clarify environment setup
