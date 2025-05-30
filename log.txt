@@ -3198,3 +3198,4 @@
 0781. 🚀 perf: reduce image load time
 0959. 🐛 fix: fix null pointer exception on login
 0153. ♻️ chore: rename env.example
+0825. 🔧 refactor: split large controller into smaller functions
