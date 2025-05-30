@@ -10623,3 +10623,4 @@
 0333. 🚀 perf: cache repeated calculations
 0400. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
+0058. ♻️ chore: add GitHub actions badge
