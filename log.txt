@@ -10622,3 +10622,4 @@
 0702. ✨ feat: add user authentication
 0333. 🚀 perf: cache repeated calculations
 0400. 🐛 fix: fix null pointer exception on login
+0219. ✅ test: increase coverage on auth module
