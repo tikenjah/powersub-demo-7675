@@ -3196,3 +3196,4 @@
 0566. 📚 docs: write FAQ section
 0698. 🐛 fix: handle 500 error in quiz API
 0781. 🚀 perf: reduce image load time
+0959. 🐛 fix: fix null pointer exception on login
