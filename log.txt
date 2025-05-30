@@ -6610,3 +6610,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0649. 📚 docs: update README with setup steps
 0290. ✅ test: test user registration edge cases
+0108. 🎨 style: remove trailing whitespace
