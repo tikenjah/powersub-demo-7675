@@ -3213,3 +3213,4 @@
 0859. ✨ feat: create admin dashboard
 0177. 📚 docs: add API usage examples
 0513. ♻️ chore: bump dependencies
+0440. 📚 docs: update README with setup steps
