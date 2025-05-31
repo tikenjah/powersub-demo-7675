@@ -8623,3 +8623,4 @@
 0437. 📚 docs: clarify environment setup
 0756. ✨ feat: support email verification
 0274. 🔧 refactor: refactor quiz grading logic
+0848. 📚 docs: update README with setup steps
