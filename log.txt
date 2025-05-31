@@ -7608,3 +7608,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0867. 🔧 refactor: refactor quiz grading logic
 0792. 🎨 style: standardize quote style
+0613. 🐛 fix: prevent crash on empty input
