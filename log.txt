@@ -3205,3 +3205,4 @@
 0241. 📚 docs: add API usage examples
 0593. 🐛 fix: correct typo in registration form
 0620. ✨ feat: implement quiz timer feature
+0360. ✨ feat: add export to CSV option
