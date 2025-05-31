@@ -7607,3 +7607,4 @@
 0795. 📚 docs: update README with setup steps
 0815. 🔧 refactor: split large controller into smaller functions
 0867. 🔧 refactor: refactor quiz grading logic
+0792. 🎨 style: standardize quote style
