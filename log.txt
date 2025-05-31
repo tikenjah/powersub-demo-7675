@@ -3207,3 +3207,4 @@
 0620. ✨ feat: implement quiz timer feature
 0360. ✨ feat: add export to CSV option
 0915. 🚀 perf: cache repeated calculations
+0965. 🎨 style: reformat files with black
