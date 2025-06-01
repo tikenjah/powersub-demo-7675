@@ -3224,3 +3224,4 @@
 0685. ✅ test: test user registration edge cases
 0018. 🔧 refactor: organize models into subfolders
 0843. 📚 docs: document token refresh logic
+0437. 📚 docs: clarify environment setup
