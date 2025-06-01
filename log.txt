@@ -10629,3 +10629,4 @@
 0716. ✨ feat: implement quiz timer feature
 0718. 🐛 fix: resolve issue with date parsing
 0477. 🐛 fix: fix broken CSS in mobile view
+0213. ✅ test: add integration test for /submit endpoint
