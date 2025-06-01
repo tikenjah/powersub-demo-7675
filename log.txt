@@ -3218,3 +3218,4 @@
 0572. ✨ feat: add user authentication
 0306. 🎨 style: apply consistent indentation
 0010. ✨ feat: add user authentication
+0685. ✅ test: test user registration edge cases
