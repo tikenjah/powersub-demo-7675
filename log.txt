@@ -3222,3 +3222,4 @@
 0953. 🎨 style: remove trailing whitespace
 0510. 🎨 style: rename variables for clarity
 0685. ✅ test: test user registration edge cases
+0018. 🔧 refactor: organize models into subfolders
