@@ -6614,3 +6614,4 @@
 0399. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
+0329. 📚 docs: update README with setup steps
