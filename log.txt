@@ -6615,3 +6615,4 @@
 0518. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
 0329. 📚 docs: update README with setup steps
+0996. ✅ test: test user registration edge cases
