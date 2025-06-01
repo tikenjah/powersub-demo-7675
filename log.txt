@@ -9675,3 +9675,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0917. ✅ test: add integration test for /submit endpoint
 0022. 📚 docs: document token refresh logic
+0507. 🔧 refactor: clean up auth middleware
