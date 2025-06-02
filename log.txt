@@ -6618,3 +6618,4 @@
 0996. ✅ test: test user registration edge cases
 0680. ♻️ chore: add GitHub actions badge
 0294. 🐛 fix: prevent crash on empty input
+0529. 📚 docs: write FAQ section
