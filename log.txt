@@ -3233,3 +3233,4 @@
 0279. ✨ feat: support email verification
 0782. 📚 docs: improve code comments in utils
 0974. ✨ feat: add export to CSV option
+0394. 🚀 perf: lazy-load components
