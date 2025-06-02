@@ -10633,3 +10633,4 @@
 0145. 📚 docs: improve code comments in utils
 0902. ✨ feat: enable dark mode toggle
 0002. 🚀 perf: cache repeated calculations
+0307. ✨ feat: support email verification
