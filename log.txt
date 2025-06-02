@@ -3239,3 +3239,4 @@
 0992. ♻️ chore: clean up unused files
 0928. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
+0949. 📚 docs: write FAQ section
