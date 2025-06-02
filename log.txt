@@ -3235,3 +3235,4 @@
 0974. ✨ feat: add export to CSV option
 0394. 🚀 perf: lazy-load components
 0845. 🚀 perf: cache repeated calculations
+0221. ✨ feat: add user authentication
