@@ -3254,3 +3254,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0768. 🎨 style: remove trailing whitespace
 0954. 🚀 perf: cache repeated calculations
+0244. ✨ feat: add export to CSV option
