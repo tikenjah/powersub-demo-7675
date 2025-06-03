@@ -5641,3 +5641,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0699. 🎨 style: standardize quote style
 0783. 🐛 fix: handle 500 error in quiz API
+0794. ♻️ chore: clean up unused files
