@@ -3259,3 +3259,4 @@
 0731. 🎨 style: standardize quote style
 0185. 📚 docs: write FAQ section
 0102. ✨ feat: support email verification
+0036. 🔧 refactor: clean up auth middleware
