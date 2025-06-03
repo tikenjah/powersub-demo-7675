@@ -9681,3 +9681,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0834. ✅ test: increase coverage on auth module
 0081. 🐛 fix: fix null pointer exception on login
+0473. 📚 docs: write FAQ section
