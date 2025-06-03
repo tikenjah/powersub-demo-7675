@@ -9679,3 +9679,4 @@
 0640. ♻️ chore: bump dependencies
 0726. ✨ feat: enable dark mode toggle
 0767. 🔧 refactor: remove redundant code blocks
+0834. ✅ test: increase coverage on auth module
