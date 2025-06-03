@@ -8631,3 +8631,4 @@
 0843. 📚 docs: document token refresh logic
 0712. 🎨 style: apply consistent indentation
 0716. ✨ feat: implement quiz timer feature
+0549. ✨ feat: enable dark mode toggle
