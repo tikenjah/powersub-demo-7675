@@ -10635,3 +10635,4 @@
 0002. 🚀 perf: cache repeated calculations
 0307. ✨ feat: support email verification
 0813. 🔧 refactor: organize models into subfolders
+0776. ✅ test: add integration test for /submit endpoint
