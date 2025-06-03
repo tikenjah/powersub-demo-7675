@@ -3257,3 +3257,4 @@
 0244. ✨ feat: add export to CSV option
 0861. ♻️ chore: clean up unused files
 0731. 🎨 style: standardize quote style
+0185. 📚 docs: write FAQ section
