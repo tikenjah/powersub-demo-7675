@@ -5644,3 +5644,4 @@
 0794. ♻️ chore: clean up unused files
 0497. 🔧 refactor: refactor quiz grading logic
 0017. ✅ test: mock database connection in test suite
+0617. ✨ feat: support email verification
