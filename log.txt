@@ -3270,3 +3270,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0429. ✨ feat: add user authentication
 0195. 📚 docs: clarify environment setup
+0553. 🐛 fix: correct typo in registration form
