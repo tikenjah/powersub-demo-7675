@@ -6620,3 +6620,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
 0462. ♻️ chore: update .gitignore
+0673. 🐛 fix: correct typo in registration form
