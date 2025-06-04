@@ -8633,3 +8633,4 @@
 0716. ✨ feat: implement quiz timer feature
 0549. ✨ feat: enable dark mode toggle
 0980. 🎨 style: reformat files with black
+0567. 📚 docs: add API usage examples
