@@ -9686,3 +9686,4 @@
 0083. 🎨 style: reformat files with black
 0276. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
+0856. 🐛 fix: fix null pointer exception on login
