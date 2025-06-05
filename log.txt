@@ -9688,3 +9688,4 @@
 0053. ✅ test: increase coverage on auth module
 0856. 🐛 fix: fix null pointer exception on login
 0759. 🔧 refactor: organize models into subfolders
+0553. 🐛 fix: correct typo in registration form
