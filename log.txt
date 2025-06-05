@@ -3271,3 +3271,4 @@
 0429. ✨ feat: add user authentication
 0195. 📚 docs: clarify environment setup
 0553. 🐛 fix: correct typo in registration form
+0934. ✨ feat: support email verification
