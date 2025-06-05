@@ -3274,3 +3274,4 @@
 0934. ✨ feat: support email verification
 0406. ✨ feat: add export to CSV option
 0646. ✅ test: test user registration edge cases
+0479. 🐛 fix: fix null pointer exception on login
