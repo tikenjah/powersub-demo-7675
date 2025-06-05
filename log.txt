@@ -6624,3 +6624,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0012. 🚀 perf: cache repeated calculations
 0541. 🐛 fix: correct typo in registration form
+0271. ✅ test: add unit test for quiz service
