@@ -3273,3 +3273,4 @@
 0553. 🐛 fix: correct typo in registration form
 0934. ✨ feat: support email verification
 0406. ✨ feat: add export to CSV option
+0646. ✅ test: test user registration edge cases
