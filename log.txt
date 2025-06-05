@@ -7621,3 +7621,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0790. 📚 docs: write FAQ section
 0802. 🔧 refactor: remove redundant code blocks
+0197. 📚 docs: update README with setup steps
