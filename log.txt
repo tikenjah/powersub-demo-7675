@@ -3296,3 +3296,4 @@
 0473. 📚 docs: write FAQ section
 0617. ✨ feat: support email verification
 0925. ✨ feat: add export to CSV option
+0212. 🎨 style: standardize quote style
