@@ -3298,3 +3298,4 @@
 0925. ✨ feat: add export to CSV option
 0212. 🎨 style: standardize quote style
 0082. 🔧 refactor: refactor quiz grading logic
+0651. ✨ feat: enable dark mode toggle
