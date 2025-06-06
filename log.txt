@@ -3295,3 +3295,4 @@
 0641. 📚 docs: write FAQ section
 0473. 📚 docs: write FAQ section
 0617. ✨ feat: support email verification
+0925. ✨ feat: add export to CSV option
