@@ -3302,3 +3302,4 @@
 0035. ✅ test: increase coverage on auth module
 0936. 🔧 refactor: organize models into subfolders
 0610. 🚀 perf: lazy-load components
+0979. 🎨 style: standardize quote style
