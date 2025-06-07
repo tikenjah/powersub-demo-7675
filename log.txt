@@ -6634,3 +6634,4 @@
 0053. ✅ test: increase coverage on auth module
 0730. ✅ test: test user registration edge cases
 0095. ✅ test: mock database connection in test suite
+0440. 📚 docs: update README with setup steps
