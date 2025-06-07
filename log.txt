@@ -5656,3 +5656,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0059. ♻️ chore: bump dependencies
 0800. 🚀 perf: optimize database query for quiz results
+0448. 🐛 fix: correct typo in registration form
