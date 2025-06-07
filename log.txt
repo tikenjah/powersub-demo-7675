@@ -8644,3 +8644,4 @@
 0031. 📚 docs: document token refresh logic
 0653. 🐛 fix: prevent crash on empty input
 0500. ✅ test: add integration test for /submit endpoint
+0808. 🚀 perf: optimize database query for quiz results
