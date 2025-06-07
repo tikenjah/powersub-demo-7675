@@ -5658,3 +5658,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0448. 🐛 fix: correct typo in registration form
 0408. ♻️ chore: add GitHub actions badge
+0298. ♻️ chore: update .gitignore
