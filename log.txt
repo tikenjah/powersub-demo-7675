@@ -9691,3 +9691,4 @@
 0553. 🐛 fix: correct typo in registration form
 0195. 📚 docs: clarify environment setup
 0761. ✅ test: add unit test for quiz service
+0299. 🐛 fix: resolve issue with date parsing
