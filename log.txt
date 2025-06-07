@@ -6633,3 +6633,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0053. ✅ test: increase coverage on auth module
 0730. ✅ test: test user registration edge cases
+0095. ✅ test: mock database connection in test suite
