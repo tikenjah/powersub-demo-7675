@@ -3307,3 +3307,4 @@
 0212. 🎨 style: standardize quote style
 0344. ♻️ chore: add GitHub actions badge
 0121. ✨ feat: support email verification
+0462. ♻️ chore: update .gitignore
