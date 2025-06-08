@@ -6637,3 +6637,4 @@
 0440. 📚 docs: update README with setup steps
 0628. ♻️ chore: add GitHub actions badge
 0388. 🎨 style: reformat files with black
+0008. 🚀 perf: reduce image load time
