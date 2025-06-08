@@ -3316,3 +3316,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0321. 🔧 refactor: organize models into subfolders
 0731. 🎨 style: standardize quote style
+0258. 🐛 fix: prevent crash on empty input
