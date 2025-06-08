@@ -8648,3 +8648,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0309. 🔧 refactor: refactor quiz grading logic
 0102. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
