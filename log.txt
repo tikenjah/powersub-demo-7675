@@ -7630,3 +7630,4 @@
 0631. ✨ feat: create admin dashboard
 0932. ✅ test: add integration test for /submit endpoint
 0649. 📚 docs: update README with setup steps
+0565. ♻️ chore: add GitHub actions badge
