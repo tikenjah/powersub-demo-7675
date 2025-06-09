@@ -3337,3 +3337,4 @@
 0190. 🎨 style: rename variables for clarity
 0901. ✨ feat: add user authentication
 0775. 🐛 fix: fix null pointer exception on login
+0613. 🐛 fix: prevent crash on empty input
