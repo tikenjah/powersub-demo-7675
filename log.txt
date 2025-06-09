@@ -3335,3 +3335,4 @@
 0619. ✨ feat: create admin dashboard
 0172. 📚 docs: add API usage examples
 0190. 🎨 style: rename variables for clarity
+0901. ✨ feat: add user authentication
