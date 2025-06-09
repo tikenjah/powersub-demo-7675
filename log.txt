@@ -3323,3 +3323,4 @@
 0454. ♻️ chore: bump dependencies
 0244. ✨ feat: add export to CSV option
 0653. 🐛 fix: prevent crash on empty input
+0350. 🚀 perf: cache repeated calculations
