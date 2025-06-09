@@ -3330,3 +3330,4 @@
 0075. ✅ test: mock database connection in test suite
 0727. ♻️ chore: add GitHub actions badge
 0707. 🎨 style: apply consistent indentation
+0453. 🎨 style: standardize quote style
