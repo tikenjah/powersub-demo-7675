@@ -5659,3 +5659,4 @@
 0448. 🐛 fix: correct typo in registration form
 0408. ♻️ chore: add GitHub actions badge
 0298. ♻️ chore: update .gitignore
+0660. 🐛 fix: correct typo in registration form
