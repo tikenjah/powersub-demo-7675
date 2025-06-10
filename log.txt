@@ -3341,3 +3341,4 @@
 0134. ✨ feat: implement quiz timer feature
 0469. 🚀 perf: lazy-load components
 0644. 🎨 style: apply consistent indentation
+0706. ✨ feat: support email verification
