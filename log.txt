@@ -8654,3 +8654,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0660. 🐛 fix: correct typo in registration form
 0039. ✅ test: add integration test for /submit endpoint
+0107. 🐛 fix: prevent crash on empty input
