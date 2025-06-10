@@ -9695,3 +9695,4 @@
 0580. ♻️ chore: bump dependencies
 0172. 📚 docs: add API usage examples
 0246. ✅ test: add integration test for /submit endpoint
+0777. 📚 docs: document token refresh logic
