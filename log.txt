@@ -3346,3 +3346,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0938. 🎨 style: rename variables for clarity
 0239. 🎨 style: standardize quote style
+0078. ♻️ chore: update .gitignore
