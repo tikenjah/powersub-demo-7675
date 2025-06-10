@@ -9698,3 +9698,4 @@
 0777. 📚 docs: document token refresh logic
 0666. 🐛 fix: fix broken CSS in mobile view
 0405. ✅ test: mock database connection in test suite
+0789. ✨ feat: create admin dashboard
