@@ -7635,3 +7635,4 @@
 0940. 📚 docs: document token refresh logic
 0297. 🎨 style: remove trailing whitespace
 0888. 🚀 perf: lazy-load components
+0268. 🐛 fix: prevent crash on empty input
