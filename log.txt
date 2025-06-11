@@ -10660,3 +10660,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0680. ♻️ chore: add GitHub actions badge
 0868. ✅ test: add unit test for quiz service
+0914. ✅ test: test user registration edge cases
