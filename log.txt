@@ -3351,3 +3351,4 @@
 0570. 🎨 style: apply consistent indentation
 0398. 🚀 perf: cache repeated calculations
 0171. 🐛 fix: fix broken CSS in mobile view
+0395. 📚 docs: write FAQ section
