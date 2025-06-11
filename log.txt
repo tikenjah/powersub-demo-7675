@@ -3358,3 +3358,4 @@
 0888. 🚀 perf: lazy-load components
 0934. ✨ feat: support email verification
 0764. ✨ feat: add user authentication
+0252. 🎨 style: remove trailing whitespace
