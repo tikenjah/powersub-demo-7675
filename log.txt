@@ -10658,3 +10658,4 @@
 0510. 🎨 style: rename variables for clarity
 0844. 📚 docs: update README with setup steps
 0378. 🐛 fix: prevent crash on empty input
+0680. ♻️ chore: add GitHub actions badge
