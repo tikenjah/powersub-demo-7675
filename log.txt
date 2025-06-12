@@ -6651,3 +6651,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0739. 🎨 style: remove trailing whitespace
 0137. 🎨 style: rename variables for clarity
+0849. 🐛 fix: correct typo in registration form
