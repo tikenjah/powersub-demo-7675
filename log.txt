@@ -6649,3 +6649,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0734. ✨ feat: add export to CSV option
 0006. 🐛 fix: prevent crash on empty input
+0739. 🎨 style: remove trailing whitespace
