@@ -7644,3 +7644,4 @@
 0997. ✅ test: increase coverage on auth module
 0050. ✨ feat: enable dark mode toggle
 0806. 📚 docs: improve code comments in utils
+0935. 📚 docs: update README with setup steps
