@@ -3367,3 +3367,4 @@
 0486. ✨ feat: add export to CSV option
 0952. 🔧 refactor: split large controller into smaller functions
 0565. ♻️ chore: add GitHub actions badge
+0669. ✨ feat: enable dark mode toggle
