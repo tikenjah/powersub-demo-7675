@@ -7647,3 +7647,4 @@
 0935. 📚 docs: update README with setup steps
 0667. ✨ feat: add export to CSV option
 0657. 🎨 style: standardize quote style
+0157. ✅ test: mock database connection in test suite
