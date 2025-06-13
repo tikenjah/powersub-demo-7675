@@ -3381,3 +3381,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0925. ✨ feat: add export to CSV option
 0737. 🐛 fix: handle 500 error in quiz API
+0298. ♻️ chore: update .gitignore
