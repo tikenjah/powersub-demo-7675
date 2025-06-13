@@ -9701,3 +9701,4 @@
 0789. ✨ feat: create admin dashboard
 0427. ✅ test: mock database connection in test suite
 0035. ✅ test: increase coverage on auth module
+0617. ✨ feat: support email verification
