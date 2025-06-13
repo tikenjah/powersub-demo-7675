@@ -3377,3 +3377,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0746. ♻️ chore: add GitHub actions badge
 0909. 🔧 refactor: organize models into subfolders
+0044. ✅ test: add unit test for quiz service
