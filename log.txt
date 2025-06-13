@@ -10666,3 +10666,4 @@
 0153. ♻️ chore: rename env.example
 0174. 📚 docs: clarify environment setup
 0959. 🐛 fix: fix null pointer exception on login
+0454. ♻️ chore: bump dependencies
