@@ -8661,3 +8661,4 @@
 0734. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
 0789. ✨ feat: create admin dashboard
+0297. 🎨 style: remove trailing whitespace
