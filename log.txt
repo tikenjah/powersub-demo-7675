@@ -3384,3 +3384,4 @@
 0298. ♻️ chore: update .gitignore
 0390. 🎨 style: standardize quote style
 0895. ✨ feat: support email verification
+0912. 📚 docs: document token refresh logic
