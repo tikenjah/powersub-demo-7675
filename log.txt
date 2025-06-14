@@ -7650,3 +7650,4 @@
 0157. ✅ test: mock database connection in test suite
 0544. 🔧 refactor: organize models into subfolders
 0694. 🎨 style: rename variables for clarity
+0441. 📚 docs: add API usage examples
