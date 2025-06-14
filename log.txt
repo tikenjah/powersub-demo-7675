@@ -3398,3 +3398,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0263. 📚 docs: add API usage examples
 0111. 📚 docs: update README with setup steps
+0977. 🔧 refactor: organize models into subfolders
