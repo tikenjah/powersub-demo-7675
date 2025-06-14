@@ -3389,3 +3389,4 @@
 0749. ✨ feat: support email verification
 0599. ✅ test: test user registration edge cases
 0812. 🔧 refactor: refactor quiz grading logic
+0968. 🎨 style: standardize quote style
