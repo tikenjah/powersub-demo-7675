@@ -3396,3 +3396,4 @@
 0221. ✨ feat: add user authentication
 0714. 📚 docs: improve code comments in utils
 0514. 🐛 fix: fix broken CSS in mobile view
+0263. 📚 docs: add API usage examples
