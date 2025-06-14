@@ -5670,3 +5670,4 @@
 0927. ♻️ chore: bump dependencies
 0531. 🐛 fix: prevent crash on empty input
 0178. ✨ feat: support email verification
+0308. 🚀 perf: reduce image load time
