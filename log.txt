@@ -8666,3 +8666,4 @@
 0212. 🎨 style: standardize quote style
 0492. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
+0565. ♻️ chore: add GitHub actions badge
