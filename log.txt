@@ -5673,3 +5673,4 @@
 0308. 🚀 perf: reduce image load time
 0128. ♻️ chore: rename env.example
 0104. 🎨 style: apply consistent indentation
+0667. ✨ feat: add export to CSV option
