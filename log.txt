@@ -10672,3 +10672,4 @@
 0691. 🎨 style: rename variables for clarity
 0358. 🚀 perf: reduce image load time
 0205. 📚 docs: update README with setup steps
+0491. 🚀 perf: lazy-load components
