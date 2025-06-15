@@ -10670,3 +10670,4 @@
 0332. 🎨 style: standardize quote style
 0503. ♻️ chore: rename env.example
 0691. 🎨 style: rename variables for clarity
+0358. 🚀 perf: reduce image load time
