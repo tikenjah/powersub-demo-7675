@@ -6660,3 +6660,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0247. 🎨 style: apply consistent indentation
 0783. 🐛 fix: handle 500 error in quiz API
+0859. ✨ feat: create admin dashboard
