@@ -5674,3 +5674,4 @@
 0128. ♻️ chore: rename env.example
 0104. 🎨 style: apply consistent indentation
 0667. ✨ feat: add export to CSV option
+0901. ✨ feat: add user authentication
