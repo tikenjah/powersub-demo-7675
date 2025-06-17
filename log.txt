@@ -3430,3 +3430,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0095. ✅ test: mock database connection in test suite
 0697. ♻️ chore: bump dependencies
+0931. 🚀 perf: reduce image load time
