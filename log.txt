@@ -3439,3 +3439,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0490. ✨ feat: create admin dashboard
 0978. 🐛 fix: prevent crash on empty input
+0875. ✅ test: increase coverage on auth module
