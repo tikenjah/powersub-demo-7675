@@ -3432,3 +3432,4 @@
 0697. ♻️ chore: bump dependencies
 0931. 🚀 perf: reduce image load time
 0678. ✨ feat: add user authentication
+0970. ♻️ chore: update .gitignore
