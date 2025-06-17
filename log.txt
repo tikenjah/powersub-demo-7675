@@ -3436,3 +3436,4 @@
 0290. ✅ test: test user registration edge cases
 0898. 🐛 fix: fix broken CSS in mobile view
 0150. 🎨 style: remove trailing whitespace
+0231. 🔧 refactor: clean up auth middleware
