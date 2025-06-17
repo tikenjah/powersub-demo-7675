@@ -3433,3 +3433,4 @@
 0931. 🚀 perf: reduce image load time
 0678. ✨ feat: add user authentication
 0970. ♻️ chore: update .gitignore
+0290. ✅ test: test user registration edge cases
