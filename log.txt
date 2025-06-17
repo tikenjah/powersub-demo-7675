@@ -3441,3 +3441,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0875. ✅ test: increase coverage on auth module
 0032. 🎨 style: apply consistent indentation
+0730. ✅ test: test user registration edge cases
