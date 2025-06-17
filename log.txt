@@ -10676,3 +10676,4 @@
 0859. ✨ feat: create admin dashboard
 0430. 🐛 fix: fix null pointer exception on login
 0269. ✅ test: test user registration edge cases
+0271. ✅ test: add unit test for quiz service
