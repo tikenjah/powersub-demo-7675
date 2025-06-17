@@ -3429,3 +3429,4 @@
 0596. ♻️ chore: update .gitignore
 0666. 🐛 fix: fix broken CSS in mobile view
 0095. ✅ test: mock database connection in test suite
+0697. ♻️ chore: bump dependencies
