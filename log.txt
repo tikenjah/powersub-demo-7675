@@ -3426,3 +3426,4 @@
 0121. ✨ feat: support email verification
 0572. ✨ feat: add user authentication
 0345. 📚 docs: document token refresh logic
+0596. ♻️ chore: update .gitignore
