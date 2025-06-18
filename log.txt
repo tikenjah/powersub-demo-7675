@@ -3445,3 +3445,4 @@
 0175. 📚 docs: add API usage examples
 0816. 🔧 refactor: organize models into subfolders
 0006. 🐛 fix: prevent crash on empty input
+0974. ✨ feat: add export to CSV option
