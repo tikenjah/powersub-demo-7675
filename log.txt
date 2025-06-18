@@ -5681,3 +5681,4 @@
 0569. 📚 docs: document token refresh logic
 0136. 🚀 perf: lazy-load components
 0890. 🔧 refactor: organize models into subfolders
+0387. ✨ feat: enable dark mode toggle
