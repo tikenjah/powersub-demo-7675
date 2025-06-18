@@ -6666,3 +6666,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0852. ✨ feat: enable dark mode toggle
 0051. ✨ feat: enable dark mode toggle
+0536. ✨ feat: add user authentication
