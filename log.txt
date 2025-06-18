@@ -8678,3 +8678,4 @@
 0688. 🚀 perf: reduce image load time
 0457. 🐛 fix: handle 500 error in quiz API
 0553. 🐛 fix: correct typo in registration form
+0440. 📚 docs: update README with setup steps
