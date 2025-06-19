@@ -7664,3 +7664,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0710. 🐛 fix: fix broken CSS in mobile view
 0336. ✨ feat: add export to CSV option
+0562. 🔧 refactor: clean up auth middleware
