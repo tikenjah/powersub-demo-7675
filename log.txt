@@ -6670,3 +6670,4 @@
 0940. 📚 docs: document token refresh logic
 0401. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0562. 🔧 refactor: clean up auth middleware
