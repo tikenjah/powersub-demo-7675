@@ -3453,3 +3453,4 @@
 0461. ✨ feat: add user authentication
 0426. ✅ test: add integration test for /submit endpoint
 0840. 🔧 refactor: refactor quiz grading logic
+0889. 🚀 perf: lazy-load components
