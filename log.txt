@@ -3475,3 +3475,4 @@
 0667. ✨ feat: add export to CSV option
 0561. 📚 docs: write FAQ section
 0723. 🔧 refactor: remove redundant code blocks
+0099. 🚀 perf: reduce image load time
