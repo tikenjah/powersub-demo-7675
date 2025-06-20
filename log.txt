@@ -3478,3 +3478,4 @@
 0099. 🚀 perf: reduce image load time
 0415. 🐛 fix: handle 500 error in quiz API
 0283. ♻️ chore: add GitHub actions badge
+0906. 📚 docs: add API usage examples
