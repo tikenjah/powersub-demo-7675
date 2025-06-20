@@ -7673,3 +7673,4 @@
 0195. 📚 docs: clarify environment setup
 0654. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
