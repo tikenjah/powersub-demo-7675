@@ -3473,3 +3473,4 @@
 0398. 🚀 perf: cache repeated calculations
 0950. 🎨 style: reformat files with black
 0667. ✨ feat: add export to CSV option
+0561. 📚 docs: write FAQ section
