@@ -5687,3 +5687,4 @@
 0102. ✨ feat: support email verification
 0455. ♻️ chore: clean up unused files
 0295. 🎨 style: remove trailing whitespace
+0360. ✨ feat: add export to CSV option
