@@ -3479,3 +3479,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0283. ♻️ chore: add GitHub actions badge
 0906. 📚 docs: add API usage examples
+0436. ✅ test: add integration test for /submit endpoint
