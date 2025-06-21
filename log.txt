@@ -3487,3 +3487,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0159. 🚀 perf: lazy-load components
 0186. ✅ test: test user registration edge cases
+0781. 🚀 perf: reduce image load time
