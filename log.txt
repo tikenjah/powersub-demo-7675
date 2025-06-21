@@ -6673,3 +6673,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0977. 🔧 refactor: organize models into subfolders
 0161. ✨ feat: create admin dashboard
+0417. 🎨 style: rename variables for clarity
