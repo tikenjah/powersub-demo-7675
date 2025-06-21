@@ -8683,3 +8683,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0726. ✨ feat: enable dark mode toggle
 0226. 🚀 perf: lazy-load components
+0258. 🐛 fix: prevent crash on empty input
