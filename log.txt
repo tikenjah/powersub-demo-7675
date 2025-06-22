@@ -3497,3 +3497,4 @@
 0809. ♻️ chore: rename env.example
 0583. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
+0697. ♻️ chore: bump dependencies
