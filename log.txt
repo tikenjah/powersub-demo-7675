@@ -6675,3 +6675,4 @@
 0161. ✨ feat: create admin dashboard
 0417. 🎨 style: rename variables for clarity
 0182. 🔧 refactor: remove redundant code blocks
+0647. 🐛 fix: prevent crash on empty input
