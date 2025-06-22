@@ -3498,3 +3498,4 @@
 0583. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
 0697. ♻️ chore: bump dependencies
+0264. 🚀 perf: optimize database query for quiz results
