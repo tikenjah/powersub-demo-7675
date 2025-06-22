@@ -9711,3 +9711,4 @@
 0771. 🚀 perf: cache repeated calculations
 0140. 🐛 fix: handle 500 error in quiz API
 0097. 🐛 fix: handle 500 error in quiz API
+0349. ✅ test: increase coverage on auth module
