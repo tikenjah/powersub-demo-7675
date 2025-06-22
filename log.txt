@@ -3502,3 +3502,4 @@
 0766. 🎨 style: reformat files with black
 0442. 🎨 style: standardize quote style
 0512. 🚀 perf: reduce image load time
+1000. ✅ test: increase coverage on auth module
