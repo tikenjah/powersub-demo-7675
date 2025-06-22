@@ -3499,3 +3499,4 @@
 0493. ✨ feat: add user authentication
 0697. ♻️ chore: bump dependencies
 0264. 🚀 perf: optimize database query for quiz results
+0766. 🎨 style: reformat files with black
