@@ -10689,3 +10689,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0001. 🚀 perf: cache repeated calculations
 0589. 🐛 fix: fix broken CSS in mobile view
+0732. ♻️ chore: add GitHub actions badge
