@@ -10692,3 +10692,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0419. 🎨 style: remove trailing whitespace
 0509. ♻️ chore: bump dependencies
+0926. 🔧 refactor: organize models into subfolders
