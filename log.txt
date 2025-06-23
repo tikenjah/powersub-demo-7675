@@ -3505,3 +3505,4 @@
 1000. ✅ test: increase coverage on auth module
 0200. 🐛 fix: handle 500 error in quiz API
 0531. 🐛 fix: prevent crash on empty input
+0843. 📚 docs: document token refresh logic
