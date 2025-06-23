@@ -8697,3 +8697,4 @@
 0442. 🎨 style: standardize quote style
 0786. ✨ feat: enable dark mode toggle
 0487. 🎨 style: reformat files with black
+0521. 🎨 style: standardize quote style
