@@ -9720,3 +9720,4 @@
 0348. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
 0794. ♻️ chore: clean up unused files
+0849. 🐛 fix: correct typo in registration form
