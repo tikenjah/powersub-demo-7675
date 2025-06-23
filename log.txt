@@ -9721,3 +9721,4 @@
 0993. ✨ feat: implement quiz timer feature
 0794. ♻️ chore: clean up unused files
 0849. 🐛 fix: correct typo in registration form
+0332. 🎨 style: standardize quote style
