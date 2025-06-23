@@ -8694,3 +8694,4 @@
 0521. 🎨 style: standardize quote style
 0035. ✅ test: increase coverage on auth module
 0729. 🔧 refactor: refactor quiz grading logic
+0442. 🎨 style: standardize quote style
