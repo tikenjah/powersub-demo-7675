@@ -8692,3 +8692,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0337. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
+0035. ✅ test: increase coverage on auth module
