@@ -6676,3 +6676,4 @@
 0417. 🎨 style: rename variables for clarity
 0182. 🔧 refactor: remove redundant code blocks
 0647. 🐛 fix: prevent crash on empty input
+0174. 📚 docs: clarify environment setup
