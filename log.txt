@@ -3507,3 +3507,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0843. 📚 docs: document token refresh logic
 0501. ✨ feat: add export to CSV option
+0370. 🚀 perf: reduce image load time
