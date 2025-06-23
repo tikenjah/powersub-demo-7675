@@ -3504,3 +3504,4 @@
 0512. 🚀 perf: reduce image load time
 1000. ✅ test: increase coverage on auth module
 0200. 🐛 fix: handle 500 error in quiz API
+0531. 🐛 fix: prevent crash on empty input
