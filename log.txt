@@ -3524,3 +3524,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0932. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
+0035. ✅ test: increase coverage on auth module
