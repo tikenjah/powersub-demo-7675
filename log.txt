@@ -5696,3 +5696,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0432. 🎨 style: apply consistent indentation
 0667. ✨ feat: add export to CSV option
+0575. ✅ test: add unit test for quiz service
