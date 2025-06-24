@@ -3526,3 +3526,4 @@
 0053. ✅ test: increase coverage on auth module
 0035. ✅ test: increase coverage on auth module
 0033. 🎨 style: apply consistent indentation
+0064. 📚 docs: clarify environment setup
