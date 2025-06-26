@@ -10702,3 +10702,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0254. 🚀 perf: reduce image load time
 0292. 📚 docs: clarify environment setup
+0088. 📚 docs: add API usage examples
