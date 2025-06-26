@@ -6684,3 +6684,4 @@
 0385. ♻️ chore: clean up unused files
 0720. ✨ feat: add export to CSV option
 0922. 📚 docs: write FAQ section
+0102. ✨ feat: support email verification
