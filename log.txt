@@ -6689,3 +6689,4 @@
 0279. ✨ feat: support email verification
 0809. ♻️ chore: rename env.example
 0498. ✅ test: mock database connection in test suite
+0442. 🎨 style: standardize quote style
