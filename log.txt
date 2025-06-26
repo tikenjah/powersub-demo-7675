@@ -6686,3 +6686,4 @@
 0922. 📚 docs: write FAQ section
 0102. ✨ feat: support email verification
 0943. 🎨 style: rename variables for clarity
+0279. ✨ feat: support email verification
