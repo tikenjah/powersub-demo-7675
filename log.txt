@@ -3550,3 +3550,4 @@
 0709. ♻️ chore: bump dependencies
 0038. 🎨 style: rename variables for clarity
 0497. 🔧 refactor: refactor quiz grading logic
+0544. 🔧 refactor: organize models into subfolders
