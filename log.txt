@@ -7687,3 +7687,4 @@
 0076. 🎨 style: reformat files with black
 0158. 📚 docs: clarify environment setup
 0797. 📚 docs: add API usage examples
+0514. 🐛 fix: fix broken CSS in mobile view
