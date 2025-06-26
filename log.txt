@@ -7691,3 +7691,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0976. ✨ feat: implement quiz timer feature
 0076. 🎨 style: reformat files with black
+0331. 🐛 fix: fix broken CSS in mobile view
