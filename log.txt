@@ -6685,3 +6685,4 @@
 0720. ✨ feat: add export to CSV option
 0922. 📚 docs: write FAQ section
 0102. ✨ feat: support email verification
+0943. 🎨 style: rename variables for clarity
