@@ -6690,3 +6690,4 @@
 0809. ♻️ chore: rename env.example
 0498. ✅ test: mock database connection in test suite
 0442. 🎨 style: standardize quote style
+0234. ♻️ chore: rename env.example
