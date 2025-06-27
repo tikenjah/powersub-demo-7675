@@ -8707,3 +8707,4 @@
 0610. 🚀 perf: lazy-load components
 0630. 🚀 perf: lazy-load components
 0524. ♻️ chore: rename env.example
+0290. ✅ test: test user registration edge cases
