@@ -9730,3 +9730,4 @@
 0172. 📚 docs: add API usage examples
 0160. ♻️ chore: bump dependencies
 0813. 🔧 refactor: organize models into subfolders
+0866. 📚 docs: add API usage examples
