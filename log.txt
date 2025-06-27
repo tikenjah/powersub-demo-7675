@@ -3572,3 +3572,4 @@
 0102. ✨ feat: support email verification
 0037. 🐛 fix: correct typo in registration form
 0040. 🔧 refactor: clean up auth middleware
+0675. 🔧 refactor: organize models into subfolders
