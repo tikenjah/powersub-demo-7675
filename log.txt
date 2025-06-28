@@ -10708,3 +10708,4 @@
 0678. ✨ feat: add user authentication
 0824. 🚀 perf: lazy-load components
 0182. 🔧 refactor: remove redundant code blocks
+0929. ✨ feat: support email verification
