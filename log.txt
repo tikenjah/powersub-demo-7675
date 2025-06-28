@@ -3578,3 +3578,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0801. ✨ feat: enable dark mode toggle
 0597. 🚀 perf: cache repeated calculations
+0660. 🐛 fix: correct typo in registration form
