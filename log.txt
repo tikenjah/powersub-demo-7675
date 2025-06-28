@@ -3583,3 +3583,4 @@
 0345. 📚 docs: document token refresh logic
 0692. ✅ test: add integration test for /submit endpoint
 0788. 📚 docs: add API usage examples
+0344. ♻️ chore: add GitHub actions badge
