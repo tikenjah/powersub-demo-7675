@@ -7694,3 +7694,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0758. 🚀 perf: optimize database query for quiz results
 0284. ✨ feat: implement quiz timer feature
+0518. ✨ feat: support email verification
