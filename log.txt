@@ -5711,3 +5711,4 @@
 0682. ♻️ chore: rename env.example
 0022. 📚 docs: document token refresh logic
 0526. ✨ feat: add user authentication
+0749. ✨ feat: support email verification
