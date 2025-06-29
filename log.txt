@@ -3590,3 +3590,4 @@
 0407. 🚀 perf: cache repeated calculations
 0547. 📚 docs: write FAQ section
 0270. ♻️ chore: rename env.example
+0722. 📚 docs: add API usage examples
