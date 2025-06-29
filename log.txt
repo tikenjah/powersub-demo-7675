@@ -3599,3 +3599,4 @@
 0670. ✨ feat: add export to CSV option
 0315. ✅ test: add integration test for /submit endpoint
 0762. 🚀 perf: lazy-load components
+0852. ✨ feat: enable dark mode toggle
