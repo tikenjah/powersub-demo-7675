@@ -3627,3 +3627,4 @@
 0875. ✅ test: increase coverage on auth module
 0556. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
+0551. 📚 docs: write FAQ section
