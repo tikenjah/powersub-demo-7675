@@ -8721,3 +8721,4 @@
 0855. 🎨 style: reformat files with black
 0195. 📚 docs: clarify environment setup
 0922. 📚 docs: write FAQ section
+0075. ✅ test: mock database connection in test suite
