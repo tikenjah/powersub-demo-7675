@@ -10709,3 +10709,4 @@
 0824. 🚀 perf: lazy-load components
 0182. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
+0835. 🐛 fix: prevent crash on empty input
