@@ -7698,3 +7698,4 @@
 0693. 📚 docs: add API usage examples
 0612. ✅ test: test user registration edge cases
 0750. 🎨 style: apply consistent indentation
+0195. 📚 docs: clarify environment setup
