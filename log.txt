@@ -3611,3 +3611,4 @@
 0377. ✨ feat: add user authentication
 0713. 🐛 fix: handle 500 error in quiz API
 0825. 🔧 refactor: split large controller into smaller functions
+0899. 🚀 perf: cache repeated calculations
