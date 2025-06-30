@@ -7699,3 +7699,4 @@
 0612. ✅ test: test user registration edge cases
 0750. 🎨 style: apply consistent indentation
 0195. 📚 docs: clarify environment setup
+0974. ✨ feat: add export to CSV option
