@@ -10710,3 +10710,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
 0835. 🐛 fix: prevent crash on empty input
+0349. ✅ test: increase coverage on auth module
