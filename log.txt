@@ -3628,3 +3628,4 @@
 0556. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
 0551. 📚 docs: write FAQ section
+0780. 📚 docs: add API usage examples
