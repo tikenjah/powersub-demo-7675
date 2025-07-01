@@ -6698,3 +6698,4 @@
 0854. ♻️ chore: rename env.example
 0834. ✅ test: increase coverage on auth module
 0736. 🐛 fix: fix null pointer exception on login
+0382. 📚 docs: improve code comments in utils
