@@ -3630,3 +3630,4 @@
 0551. 📚 docs: write FAQ section
 0780. 📚 docs: add API usage examples
 0402. 🎨 style: reformat files with black
+0582. ✨ feat: add export to CSV option
