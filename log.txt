@@ -3643,3 +3643,4 @@
 0591. ♻️ chore: clean up unused files
 0144. ✅ test: increase coverage on auth module
 0719. 🎨 style: apply consistent indentation
+0265. 🎨 style: reformat files with black
