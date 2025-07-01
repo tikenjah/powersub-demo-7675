@@ -3648,3 +3648,4 @@
 0409. 🚀 perf: lazy-load components
 0695. ✨ feat: create admin dashboard
 0445. 📚 docs: improve code comments in utils
+0491. 🚀 perf: lazy-load components
