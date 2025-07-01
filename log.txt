@@ -9739,3 +9739,4 @@
 0985. 📚 docs: document token refresh logic
 0774. 🔧 refactor: refactor quiz grading logic
 0396. 🔧 refactor: split large controller into smaller functions
+0895. ✨ feat: support email verification
