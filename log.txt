@@ -5722,3 +5722,4 @@
 0502. 📚 docs: update README with setup steps
 0816. 🔧 refactor: organize models into subfolders
 0174. 📚 docs: clarify environment setup
+0989. 📚 docs: write FAQ section
