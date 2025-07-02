@@ -7706,3 +7706,4 @@
 0047. 🎨 style: rename variables for clarity
 0979. 🎨 style: standardize quote style
 0683. ✅ test: mock database connection in test suite
+0816. 🔧 refactor: organize models into subfolders
