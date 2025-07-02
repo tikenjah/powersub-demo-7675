@@ -6704,3 +6704,4 @@
 0070. ✨ feat: implement quiz timer feature
 0634. 🎨 style: reformat files with black
 0619. ✨ feat: create admin dashboard
+0660. 🐛 fix: correct typo in registration form
