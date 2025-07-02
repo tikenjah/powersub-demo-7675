@@ -5719,3 +5719,4 @@
 0384. 📚 docs: clarify environment setup
 0797. 📚 docs: add API usage examples
 0729. 🔧 refactor: refactor quiz grading logic
+0502. 📚 docs: update README with setup steps
