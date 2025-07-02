@@ -5720,3 +5720,4 @@
 0797. 📚 docs: add API usage examples
 0729. 🔧 refactor: refactor quiz grading logic
 0502. 📚 docs: update README with setup steps
+0816. 🔧 refactor: organize models into subfolders
