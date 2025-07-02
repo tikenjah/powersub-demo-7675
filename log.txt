@@ -10717,3 +10717,4 @@
 0336. ✨ feat: add export to CSV option
 0665. ♻️ chore: update .gitignore
 0322. 🔧 refactor: split large controller into smaller functions
+0485. 📚 docs: update README with setup steps
