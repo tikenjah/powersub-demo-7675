@@ -3673,3 +3673,4 @@
 0929. ✨ feat: support email verification
 0499. 🎨 style: reformat files with black
 0749. ✨ feat: support email verification
+0515. 🚀 perf: optimize database query for quiz results
