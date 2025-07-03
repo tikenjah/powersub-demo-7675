@@ -3670,3 +3670,4 @@
 0090. ✅ test: increase coverage on auth module
 0148. 🔧 refactor: organize models into subfolders
 0143. ✨ feat: implement quiz timer feature
+0929. ✨ feat: support email verification
