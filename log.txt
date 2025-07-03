@@ -3672,3 +3672,4 @@
 0143. ✨ feat: implement quiz timer feature
 0929. ✨ feat: support email verification
 0499. 🎨 style: reformat files with black
+0749. ✨ feat: support email verification
