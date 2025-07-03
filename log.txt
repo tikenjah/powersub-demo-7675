@@ -6710,3 +6710,4 @@
 0700. 🎨 style: rename variables for clarity
 0691. 🎨 style: rename variables for clarity
 0799. ♻️ chore: clean up unused files
+0834. ✅ test: increase coverage on auth module
