@@ -6712,3 +6712,4 @@
 0799. ♻️ chore: clean up unused files
 0834. ✅ test: increase coverage on auth module
 0703. 🔧 refactor: clean up auth middleware
+0942. ✅ test: increase coverage on auth module
