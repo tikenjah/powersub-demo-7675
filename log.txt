@@ -3663,3 +3663,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0738. 🐛 fix: prevent crash on empty input
 0376. 🎨 style: apply consistent indentation
+0734. ✨ feat: add export to CSV option
