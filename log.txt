@@ -7710,3 +7710,4 @@
 0785. ✨ feat: enable dark mode toggle
 0009. ✨ feat: enable dark mode toggle
 0422. 🔧 refactor: organize models into subfolders
+0457. 🐛 fix: handle 500 error in quiz API
