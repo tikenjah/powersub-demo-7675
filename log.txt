@@ -9747,3 +9747,4 @@
 0824. 🚀 perf: lazy-load components
 0835. 🐛 fix: prevent crash on empty input
 0291. 📚 docs: write FAQ section
+0974. ✨ feat: add export to CSV option
