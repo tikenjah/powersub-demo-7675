@@ -3686,3 +3686,4 @@
 0363. 📚 docs: clarify environment setup
 0312. ✨ feat: add user authentication
 0777. 📚 docs: document token refresh logic
+0161. ✨ feat: create admin dashboard
