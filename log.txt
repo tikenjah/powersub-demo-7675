@@ -3684,3 +3684,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0519. 📚 docs: document token refresh logic
 0363. 📚 docs: clarify environment setup
+0312. ✨ feat: add user authentication
