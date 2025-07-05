@@ -3697,3 +3697,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0027. 📚 docs: clarify environment setup
 0113. ✨ feat: add user authentication
+0573. ✅ test: add integration test for /submit endpoint
