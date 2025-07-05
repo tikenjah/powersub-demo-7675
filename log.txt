@@ -9754,3 +9754,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0878. 🔧 refactor: split large controller into smaller functions
 0261. 🔧 refactor: refactor quiz grading logic
+0466. 🚀 perf: optimize database query for quiz results
