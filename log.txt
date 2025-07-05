@@ -10725,3 +10725,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0629. 🔧 refactor: organize models into subfolders
 0985. 📚 docs: document token refresh logic
+0170. ✅ test: increase coverage on auth module
