@@ -9750,3 +9750,4 @@
 0974. ✨ feat: add export to CSV option
 0442. 🎨 style: standardize quote style
 0658. 🎨 style: rename variables for clarity
+0079. 🐛 fix: correct typo in registration form
