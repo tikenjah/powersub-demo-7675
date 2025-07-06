@@ -3709,3 +3709,4 @@
 0831. 📚 docs: clarify environment setup
 0235. 🐛 fix: fix null pointer exception on login
 0476. 🚀 perf: reduce image load time
+0116. ✨ feat: support email verification
