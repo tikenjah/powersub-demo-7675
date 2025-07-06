@@ -3707,3 +3707,4 @@
 0914. ✅ test: test user registration edge cases
 0826. 📚 docs: clarify environment setup
 0831. 📚 docs: clarify environment setup
+0235. 🐛 fix: fix null pointer exception on login
