@@ -10733,3 +10733,4 @@
 0217. 🚀 perf: reduce image load time
 0351. ✨ feat: add export to CSV option
 0438. ♻️ chore: bump dependencies
+0414. 🔧 refactor: remove redundant code blocks
