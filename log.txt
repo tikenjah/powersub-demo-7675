@@ -8741,3 +8741,4 @@
 0764. ✨ feat: add user authentication
 0505. ♻️ chore: add GitHub actions badge
 0904. ✨ feat: implement quiz timer feature
+0077. ♻️ chore: rename env.example
