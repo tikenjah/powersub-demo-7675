@@ -10731,3 +10731,4 @@
 0115. 🚀 perf: reduce image load time
 0869. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
+0351. ✨ feat: add export to CSV option
