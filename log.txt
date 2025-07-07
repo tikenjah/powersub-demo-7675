@@ -3717,3 +3717,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0491. 🚀 perf: lazy-load components
 0014. 🔧 refactor: remove redundant code blocks
+0436. ✅ test: add integration test for /submit endpoint
