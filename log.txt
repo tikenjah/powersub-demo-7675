@@ -3734,3 +3734,4 @@
 0490. ✨ feat: create admin dashboard
 0640. ♻️ chore: bump dependencies
 0078. ♻️ chore: update .gitignore
+0359. 🔧 refactor: clean up auth middleware
