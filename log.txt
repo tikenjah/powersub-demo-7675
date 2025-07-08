@@ -3724,3 +3724,4 @@
 0716. ✨ feat: implement quiz timer feature
 0013. ✅ test: increase coverage on auth module
 0331. 🐛 fix: fix broken CSS in mobile view
+0361. ✨ feat: support email verification
