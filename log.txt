@@ -5734,3 +5734,4 @@
 0868. ✅ test: add unit test for quiz service
 0481. ✅ test: add unit test for quiz service
 0197. 📚 docs: update README with setup steps
+0096. 🐛 fix: prevent crash on empty input
