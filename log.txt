@@ -3733,3 +3733,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0490. ✨ feat: create admin dashboard
 0640. ♻️ chore: bump dependencies
+0078. ♻️ chore: update .gitignore
