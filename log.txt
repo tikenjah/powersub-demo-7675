@@ -7723,3 +7723,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0705. 🔧 refactor: refactor quiz grading logic
 0156. 🎨 style: rename variables for clarity
+0875. ✅ test: increase coverage on auth module
