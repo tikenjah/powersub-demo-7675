@@ -3740,3 +3740,4 @@
 0730. ✅ test: test user registration edge cases
 0921. 🐛 fix: correct typo in registration form
 0393. 🚀 perf: lazy-load components
+0778. 📚 docs: write FAQ section
