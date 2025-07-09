@@ -3745,3 +3745,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0835. 🐛 fix: prevent crash on empty input
 0224. 🐛 fix: fix broken CSS in mobile view
+0397. 🐛 fix: handle 500 error in quiz API
