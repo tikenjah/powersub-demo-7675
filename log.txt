@@ -9767,3 +9767,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0239. 🎨 style: standardize quote style
 0096. 🐛 fix: prevent crash on empty input
+0556. ✨ feat: support email verification
