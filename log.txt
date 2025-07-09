@@ -3743,3 +3743,4 @@
 0778. 📚 docs: write FAQ section
 0193. 🚀 perf: optimize database query for quiz results
 0733. 🐛 fix: fix null pointer exception on login
+0835. 🐛 fix: prevent crash on empty input
