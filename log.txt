@@ -9765,3 +9765,4 @@
 0153. ♻️ chore: rename env.example
 0021. ✨ feat: support email verification
 0422. 🔧 refactor: organize models into subfolders
+0239. 🎨 style: standardize quote style
