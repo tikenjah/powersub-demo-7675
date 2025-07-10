@@ -10743,3 +10743,4 @@
 0439. 🐛 fix: correct typo in registration form
 0805. ♻️ chore: add GitHub actions badge
 0311. 🎨 style: apply consistent indentation
+0399. ✅ test: mock database connection in test suite
