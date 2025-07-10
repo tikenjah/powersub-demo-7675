@@ -5739,3 +5739,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0210. 🎨 style: apply consistent indentation
 0357. ✅ test: add unit test for quiz service
+0426. ✅ test: add integration test for /submit endpoint
