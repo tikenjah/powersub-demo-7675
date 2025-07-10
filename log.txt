@@ -8750,3 +8750,4 @@
 0971. 🎨 style: standardize quote style
 0505. ♻️ chore: add GitHub actions badge
 0525. ✅ test: mock database connection in test suite
+0507. 🔧 refactor: clean up auth middleware
