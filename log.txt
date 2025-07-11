@@ -10747,3 +10747,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 1000. ✅ test: increase coverage on auth module
 0672. 🐛 fix: fix broken CSS in mobile view
+0698. 🐛 fix: handle 500 error in quiz API
