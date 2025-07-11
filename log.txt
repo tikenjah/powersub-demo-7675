@@ -3769,3 +3769,4 @@
 0886. ♻️ chore: clean up unused files
 0788. 📚 docs: add API usage examples
 0667. ✨ feat: add export to CSV option
+0493. ✨ feat: add user authentication
