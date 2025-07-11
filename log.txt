@@ -5741,3 +5741,4 @@
 0357. ✅ test: add unit test for quiz service
 0426. ✅ test: add integration test for /submit endpoint
 0463. 🚀 perf: reduce image load time
+0708. ✅ test: add integration test for /submit endpoint
