@@ -8753,3 +8753,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0957. 🐛 fix: fix null pointer exception on login
 0032. 🎨 style: apply consistent indentation
+0765. ♻️ chore: clean up unused files
