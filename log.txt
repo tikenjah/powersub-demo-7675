@@ -7735,3 +7735,4 @@
 0660. 🐛 fix: correct typo in registration form
 0408. ♻️ chore: add GitHub actions badge
 0261. 🔧 refactor: refactor quiz grading logic
+0959. 🐛 fix: fix null pointer exception on login
