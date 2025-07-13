@@ -3793,3 +3793,4 @@
 0401. 🚀 perf: reduce image load time
 0415. 🐛 fix: handle 500 error in quiz API
 0609. 🐛 fix: handle 500 error in quiz API
+0496. ✅ test: add integration test for /submit endpoint
