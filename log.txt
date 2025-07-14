@@ -3806,3 +3806,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0227. ✅ test: test user registration edge cases
 0121. ✨ feat: support email verification
+0055. 📚 docs: update README with setup steps
