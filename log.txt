@@ -3810,3 +3810,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0442. 🎨 style: standardize quote style
 0741. 🎨 style: apply consistent indentation
+0962. ✨ feat: create admin dashboard
