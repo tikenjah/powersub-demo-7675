@@ -3803,3 +3803,4 @@
 0564. 📚 docs: clarify environment setup
 0489. 🔧 refactor: organize models into subfolders
 0134. ✨ feat: implement quiz timer feature
+0573. ✅ test: add integration test for /submit endpoint
