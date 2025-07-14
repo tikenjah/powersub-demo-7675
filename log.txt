@@ -9778,3 +9778,4 @@
 0122. ✨ feat: support email verification
 0882. 🚀 perf: optimize database query for quiz results
 0254. 🚀 perf: reduce image load time
+0473. 📚 docs: write FAQ section
