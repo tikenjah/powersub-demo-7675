@@ -3825,3 +3825,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0466. 🚀 perf: optimize database query for quiz results
 0538. 🐛 fix: fix broken CSS in mobile view
+0198. 📚 docs: clarify environment setup
