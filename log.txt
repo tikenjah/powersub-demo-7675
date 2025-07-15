@@ -3817,3 +3817,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0023. 📚 docs: clarify environment setup
 0594. 🎨 style: reformat files with black
+0121. ✨ feat: support email verification
