@@ -3823,3 +3823,4 @@
 0424. ✨ feat: add user authentication
 0930. 🎨 style: apply consistent indentation
 0154. 🐛 fix: prevent crash on empty input
+0466. 🚀 perf: optimize database query for quiz results
