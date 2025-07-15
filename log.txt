@@ -3818,3 +3818,4 @@
 0023. 📚 docs: clarify environment setup
 0594. 🎨 style: reformat files with black
 0121. ✨ feat: support email verification
+0737. 🐛 fix: handle 500 error in quiz API
