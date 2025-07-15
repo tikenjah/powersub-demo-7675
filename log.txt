@@ -3821,3 +3821,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0789. ✨ feat: create admin dashboard
 0424. ✨ feat: add user authentication
+0930. 🎨 style: apply consistent indentation
