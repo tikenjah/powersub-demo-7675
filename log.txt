@@ -7744,3 +7744,4 @@
 0975. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
 0080. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
