@@ -7743,3 +7743,4 @@
 0935. 📚 docs: update README with setup steps
 0975. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
+0080. ✨ feat: support email verification
