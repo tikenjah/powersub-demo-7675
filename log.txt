@@ -3813,3 +3813,4 @@
 0962. ✨ feat: create admin dashboard
 0667. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
+0101. 📚 docs: clarify environment setup
