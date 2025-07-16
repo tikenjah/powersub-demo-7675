@@ -5749,3 +5749,4 @@
 0399. ✅ test: mock database connection in test suite
 0175. 📚 docs: add API usage examples
 0196. ♻️ chore: bump dependencies
+0354. 📚 docs: add API usage examples
