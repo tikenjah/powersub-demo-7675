@@ -3847,3 +3847,4 @@
 0649. 📚 docs: update README with setup steps
 0749. ✨ feat: support email verification
 0320. 📚 docs: update README with setup steps
+0865. ♻️ chore: add GitHub actions badge
