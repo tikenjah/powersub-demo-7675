@@ -8767,3 +8767,4 @@
 0351. ✨ feat: add export to CSV option
 0600. 🐛 fix: prevent crash on empty input
 0289. 🐛 fix: resolve issue with date parsing
+0333. 🚀 perf: cache repeated calculations
