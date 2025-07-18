@@ -3857,3 +3857,4 @@
 0132. ✅ test: add unit test for quiz service
 0728. 🔧 refactor: split large controller into smaller functions
 0021. ✨ feat: support email verification
+0827. 🚀 perf: optimize database query for quiz results
