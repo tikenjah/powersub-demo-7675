@@ -10765,3 +10765,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0940. 📚 docs: document token refresh logic
 0882. 🚀 perf: optimize database query for quiz results
+0989. 📚 docs: write FAQ section
