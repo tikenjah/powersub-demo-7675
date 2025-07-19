@@ -3867,3 +3867,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0931. 🚀 perf: reduce image load time
 0736. 🐛 fix: fix null pointer exception on login
+0346. ✅ test: mock database connection in test suite
