@@ -3863,3 +3863,4 @@
 0639. 🐛 fix: correct typo in registration form
 0767. 🔧 refactor: remove redundant code blocks
 0851. ✅ test: mock database connection in test suite
+0852. ✨ feat: enable dark mode toggle
