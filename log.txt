@@ -3871,3 +3871,4 @@
 0044. ✅ test: add unit test for quiz service
 0879. 🎨 style: standardize quote style
 0949. 📚 docs: write FAQ section
+0320. 📚 docs: update README with setup steps
