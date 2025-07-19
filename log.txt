@@ -6745,3 +6745,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0295. 🎨 style: remove trailing whitespace
 0034. 📚 docs: improve code comments in utils
+0502. 📚 docs: update README with setup steps
