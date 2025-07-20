@@ -3883,3 +3883,4 @@
 0300. ✨ feat: add export to CSV option
 0912. 📚 docs: document token refresh logic
 0001. 🚀 perf: cache repeated calculations
+0290. ✅ test: test user registration edge cases
