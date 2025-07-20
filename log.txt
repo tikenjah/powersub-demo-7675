@@ -10773,3 +10773,4 @@
 0215. 🎨 style: reformat files with black
 0598. 🔧 refactor: remove redundant code blocks
 0720. ✨ feat: add export to CSV option
+0826. 📚 docs: clarify environment setup
