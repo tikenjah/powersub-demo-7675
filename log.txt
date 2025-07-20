@@ -3886,3 +3886,4 @@
 0290. ✅ test: test user registration edge cases
 0319. 🐛 fix: handle 500 error in quiz API
 0274. 🔧 refactor: refactor quiz grading logic
+0782. 📚 docs: improve code comments in utils
