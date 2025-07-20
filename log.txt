@@ -3884,3 +3884,4 @@
 0912. 📚 docs: document token refresh logic
 0001. 🚀 perf: cache repeated calculations
 0290. ✅ test: test user registration edge cases
+0319. 🐛 fix: handle 500 error in quiz API
