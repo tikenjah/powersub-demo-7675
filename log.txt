@@ -3892,3 +3892,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0911. ✅ test: increase coverage on auth module
 0643. 🎨 style: apply consistent indentation
+0362. 📚 docs: add API usage examples
