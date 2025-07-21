@@ -7761,3 +7761,4 @@
 0238. 🎨 style: apply consistent indentation
 0672. 🐛 fix: fix broken CSS in mobile view
 0211. 🔧 refactor: remove redundant code blocks
+0592. 📚 docs: add API usage examples
