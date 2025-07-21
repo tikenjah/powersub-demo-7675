@@ -5760,3 +5760,4 @@
 0462. ♻️ chore: update .gitignore
 0969. ✨ feat: create admin dashboard
 0861. ♻️ chore: clean up unused files
+0939. 📚 docs: update README with setup steps
