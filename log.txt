@@ -3899,3 +3899,4 @@
 0858. ♻️ chore: clean up unused files
 0356. 📚 docs: write FAQ section
 0253. 📚 docs: update README with setup steps
+0412. ✅ test: increase coverage on auth module
