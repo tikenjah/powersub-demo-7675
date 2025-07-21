@@ -7762,3 +7762,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0211. 🔧 refactor: remove redundant code blocks
 0592. 📚 docs: add API usage examples
+0096. 🐛 fix: prevent crash on empty input
