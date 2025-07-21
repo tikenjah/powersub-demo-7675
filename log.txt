@@ -3897,3 +3897,4 @@
 0944. ✨ feat: add user authentication
 0780. 📚 docs: add API usage examples
 0858. ♻️ chore: clean up unused files
+0356. 📚 docs: write FAQ section
