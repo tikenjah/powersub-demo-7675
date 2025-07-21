@@ -8778,3 +8778,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0918. ✨ feat: enable dark mode toggle
 0144. ✅ test: increase coverage on auth module
+0331. 🐛 fix: fix broken CSS in mobile view
