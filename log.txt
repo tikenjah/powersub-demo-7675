@@ -3905,3 +3905,4 @@
 0509. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
 0463. 🚀 perf: reduce image load time
+0913. 🚀 perf: optimize database query for quiz results
