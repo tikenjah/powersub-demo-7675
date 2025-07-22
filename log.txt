@@ -3909,3 +3909,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0562. 🔧 refactor: clean up auth middleware
 0911. ✅ test: increase coverage on auth module
+0745. ✅ test: add unit test for quiz service
