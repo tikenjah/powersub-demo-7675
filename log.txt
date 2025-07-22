@@ -3911,3 +3911,4 @@
 0911. ✅ test: increase coverage on auth module
 0745. ✅ test: add unit test for quiz service
 0528. ♻️ chore: clean up unused files
+0312. ✨ feat: add user authentication
