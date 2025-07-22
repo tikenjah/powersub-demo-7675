@@ -3904,3 +3904,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0509. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
+0463. 🚀 perf: reduce image load time
