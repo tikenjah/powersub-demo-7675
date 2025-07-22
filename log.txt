@@ -3914,3 +3914,4 @@
 0312. ✨ feat: add user authentication
 0555. ✨ feat: create admin dashboard
 0548. 📚 docs: write FAQ section
+0379. ✨ feat: support email verification
