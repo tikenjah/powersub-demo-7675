@@ -3917,3 +3917,4 @@
 0379. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0484. 🐛 fix: handle 500 error in quiz API
+0627. 📚 docs: document token refresh logic
