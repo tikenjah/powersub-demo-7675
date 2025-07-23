@@ -7764,3 +7764,4 @@
 0592. 📚 docs: add API usage examples
 0096. 🐛 fix: prevent crash on empty input
 0787. ♻️ chore: rename env.example
+0979. 🎨 style: standardize quote style
