@@ -10783,3 +10783,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
 0668. 🚀 perf: optimize database query for quiz results
+0666. 🐛 fix: fix broken CSS in mobile view
