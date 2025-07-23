@@ -6756,3 +6756,4 @@
 0916. ♻️ chore: bump dependencies
 0779. 🔧 refactor: organize models into subfolders
 0667. ✨ feat: add export to CSV option
+0933. 📚 docs: clarify environment setup
