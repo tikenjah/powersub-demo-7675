@@ -10782,3 +10782,4 @@
 0809. ♻️ chore: rename env.example
 0206. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
+0668. 🚀 perf: optimize database query for quiz results
