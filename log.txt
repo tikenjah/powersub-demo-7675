@@ -9799,3 +9799,4 @@
 0257. 📚 docs: clarify environment setup
 0942. ✅ test: increase coverage on auth module
 0917. ✅ test: add integration test for /submit endpoint
+0030. 🐛 fix: fix null pointer exception on login
