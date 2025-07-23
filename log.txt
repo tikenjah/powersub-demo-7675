@@ -3926,3 +3926,4 @@
 0095. ✅ test: mock database connection in test suite
 0618. ✨ feat: support email verification
 0683. ✅ test: mock database connection in test suite
+0152. ✨ feat: add user authentication
