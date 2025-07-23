@@ -7765,3 +7765,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0787. ♻️ chore: rename env.example
 0979. 🎨 style: standardize quote style
+0128. ♻️ chore: rename env.example
