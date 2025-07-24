@@ -8785,3 +8785,4 @@
 0339. 📚 docs: update README with setup steps
 0380. 🐛 fix: fix null pointer exception on login
 0921. 🐛 fix: correct typo in registration form
+0820. 📚 docs: add API usage examples
