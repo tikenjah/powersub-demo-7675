@@ -5772,3 +5772,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0493. ✨ feat: add user authentication
 0460. 📚 docs: write FAQ section
+0828. ♻️ chore: add GitHub actions badge
