@@ -10786,3 +10786,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0783. 🐛 fix: handle 500 error in quiz API
 0582. ✨ feat: add export to CSV option
+0010. ✨ feat: add user authentication
