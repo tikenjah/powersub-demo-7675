@@ -7767,3 +7767,4 @@
 0979. 🎨 style: standardize quote style
 0128. ♻️ chore: rename env.example
 0252. 🎨 style: remove trailing whitespace
+0020. ✅ test: add integration test for /submit endpoint
