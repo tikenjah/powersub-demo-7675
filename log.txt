@@ -3934,3 +3934,4 @@
 0529. 📚 docs: write FAQ section
 0896. 🚀 perf: reduce image load time
 0025. 🚀 perf: optimize database query for quiz results
+0018. 🔧 refactor: organize models into subfolders
