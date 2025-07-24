@@ -3930,3 +3930,4 @@
 0742. 📚 docs: clarify environment setup
 0982. 🚀 perf: lazy-load components
 0404. 📚 docs: improve code comments in utils
+0833. ✨ feat: add user authentication
