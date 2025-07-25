@@ -6763,3 +6763,4 @@
 0864. 🐛 fix: correct typo in registration form
 0014. 🔧 refactor: remove redundant code blocks
 0930. 🎨 style: apply consistent indentation
+0969. ✨ feat: create admin dashboard
