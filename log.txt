@@ -9808,3 +9808,4 @@
 0242. ♻️ chore: clean up unused files
 0379. ✨ feat: support email verification
 0102. ✨ feat: support email verification
+0743. 🎨 style: apply consistent indentation
