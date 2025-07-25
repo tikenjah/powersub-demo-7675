@@ -9806,3 +9806,4 @@
 0933. 📚 docs: clarify environment setup
 0901. ✨ feat: add user authentication
 0242. ♻️ chore: clean up unused files
+0379. ✨ feat: support email verification
