@@ -6761,3 +6761,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0804. ♻️ chore: add GitHub actions badge
 0864. 🐛 fix: correct typo in registration form
+0014. 🔧 refactor: remove redundant code blocks
