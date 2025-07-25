@@ -3945,3 +3945,4 @@
 0335. ♻️ chore: update .gitignore
 0832. 🔧 refactor: remove redundant code blocks
 0770. ♻️ chore: rename env.example
+0593. 🐛 fix: correct typo in registration form
