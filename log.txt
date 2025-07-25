@@ -9809,3 +9809,4 @@
 0379. ✨ feat: support email verification
 0102. ✨ feat: support email verification
 0743. 🎨 style: apply consistent indentation
+0696. 🔧 refactor: clean up auth middleware
