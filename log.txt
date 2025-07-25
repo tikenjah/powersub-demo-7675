@@ -8789,3 +8789,4 @@
 0555. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
 0666. 🐛 fix: fix broken CSS in mobile view
+0947. 📚 docs: write FAQ section
