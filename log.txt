@@ -3950,3 +3950,4 @@
 0388. 🎨 style: reformat files with black
 0517. ✅ test: mock database connection in test suite
 0272. 🔧 refactor: remove redundant code blocks
+0278. 🔧 refactor: clean up auth middleware
