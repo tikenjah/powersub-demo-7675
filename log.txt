@@ -8788,3 +8788,4 @@
 0820. 📚 docs: add API usage examples
 0555. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
+0666. 🐛 fix: fix broken CSS in mobile view
