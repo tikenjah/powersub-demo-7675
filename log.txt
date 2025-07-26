@@ -5781,3 +5781,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0798. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
+0622. 🎨 style: apply consistent indentation
