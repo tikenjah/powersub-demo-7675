@@ -3959,3 +3959,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0858. ♻️ chore: clean up unused files
 0348. ✅ test: test user registration edge cases
+0824. 🚀 perf: lazy-load components
