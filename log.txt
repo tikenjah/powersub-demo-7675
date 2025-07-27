@@ -6766,3 +6766,4 @@
 0969. ✨ feat: create admin dashboard
 0744. 🔧 refactor: remove redundant code blocks
 0453. 🎨 style: standardize quote style
+0339. 📚 docs: update README with setup steps
