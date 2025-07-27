@@ -3969,3 +3969,4 @@
 0326. 🚀 perf: cache repeated calculations
 0326. 🚀 perf: cache repeated calculations
 0507. 🔧 refactor: clean up auth middleware
+0362. 📚 docs: add API usage examples
