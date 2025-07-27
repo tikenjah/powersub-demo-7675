@@ -8791,3 +8791,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0947. 📚 docs: write FAQ section
 0852. ✨ feat: enable dark mode toggle
+0873. 🚀 perf: cache repeated calculations
