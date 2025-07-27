@@ -3968,3 +3968,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0326. 🚀 perf: cache repeated calculations
 0326. 🚀 perf: cache repeated calculations
+0507. 🔧 refactor: clean up auth middleware
