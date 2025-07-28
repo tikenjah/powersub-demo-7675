@@ -10794,3 +10794,4 @@
 0346. ✅ test: mock database connection in test suite
 0534. 🔧 refactor: split large controller into smaller functions
 0643. 🎨 style: apply consistent indentation
+0479. 🐛 fix: fix null pointer exception on login
