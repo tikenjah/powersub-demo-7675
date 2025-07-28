@@ -7775,3 +7775,4 @@
 0910. 🎨 style: remove trailing whitespace
 0121. ✨ feat: support email verification
 0240. 🔧 refactor: remove redundant code blocks
+0826. 📚 docs: clarify environment setup
