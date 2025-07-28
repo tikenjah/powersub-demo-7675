@@ -3992,3 +3992,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0618. ✨ feat: support email verification
 0437. 📚 docs: clarify environment setup
+0573. ✅ test: add integration test for /submit endpoint
