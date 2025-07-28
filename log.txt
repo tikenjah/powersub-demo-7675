@@ -8792,3 +8792,4 @@
 0947. 📚 docs: write FAQ section
 0852. ✨ feat: enable dark mode toggle
 0873. 🚀 perf: cache repeated calculations
+0116. ✨ feat: support email verification
