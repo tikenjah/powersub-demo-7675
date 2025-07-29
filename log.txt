@@ -4003,3 +4003,4 @@
 0440. 📚 docs: update README with setup steps
 0886. ♻️ chore: clean up unused files
 0272. 🔧 refactor: remove redundant code blocks
+0552. 🐛 fix: fix null pointer exception on login
