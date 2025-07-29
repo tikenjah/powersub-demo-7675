@@ -5785,3 +5785,4 @@
 0685. ✅ test: test user registration edge cases
 0383. 🐛 fix: fix broken CSS in mobile view
 0760. 🐛 fix: resolve issue with date parsing
+0385. ♻️ chore: clean up unused files
