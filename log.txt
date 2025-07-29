@@ -8793,3 +8793,4 @@
 0852. ✨ feat: enable dark mode toggle
 0873. 🚀 perf: cache repeated calculations
 0116. ✨ feat: support email verification
+0975. 🎨 style: apply consistent indentation
