@@ -10800,3 +10800,4 @@
 0682. ♻️ chore: rename env.example
 0335. ♻️ chore: update .gitignore
 0096. 🐛 fix: prevent crash on empty input
+0668. 🚀 perf: optimize database query for quiz results
