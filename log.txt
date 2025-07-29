@@ -3999,3 +3999,4 @@
 0320. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
 0426. ✅ test: add integration test for /submit endpoint
+0135. ✅ test: test user registration edge cases
