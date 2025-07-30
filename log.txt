@@ -6776,3 +6776,4 @@
 0196. ♻️ chore: bump dependencies
 0960. ✅ test: increase coverage on auth module
 0538. 🐛 fix: fix broken CSS in mobile view
+0077. ♻️ chore: rename env.example
