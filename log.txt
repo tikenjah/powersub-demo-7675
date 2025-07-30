@@ -4013,3 +4013,4 @@
 0624. ✅ test: add unit test for quiz service
 0100. ♻️ chore: update .gitignore
 0379. ✨ feat: support email verification
+0388. 🎨 style: reformat files with black
