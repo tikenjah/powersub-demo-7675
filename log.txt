@@ -4008,3 +4008,4 @@
 0118. 🚀 perf: reduce image load time
 0563. 📚 docs: clarify environment setup
 0512. 🚀 perf: reduce image load time
+0439. 🐛 fix: correct typo in registration form
