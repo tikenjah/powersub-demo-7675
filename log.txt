@@ -4011,3 +4011,4 @@
 0439. 🐛 fix: correct typo in registration form
 0656. 🎨 style: apply consistent indentation
 0624. ✅ test: add unit test for quiz service
+0100. ♻️ chore: update .gitignore
