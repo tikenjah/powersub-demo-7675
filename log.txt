@@ -6777,3 +6777,4 @@
 0960. ✅ test: increase coverage on auth module
 0538. 🐛 fix: fix broken CSS in mobile view
 0077. ♻️ chore: rename env.example
+0486. ✨ feat: add export to CSV option
