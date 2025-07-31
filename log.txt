@@ -7782,3 +7782,4 @@
 0203. 🚀 perf: lazy-load components
 0784. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
+0084. 🐛 fix: handle 500 error in quiz API
