@@ -7783,3 +7783,4 @@
 0784. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
 0084. 🐛 fix: handle 500 error in quiz API
+0213. ✅ test: add integration test for /submit endpoint
