@@ -6784,3 +6784,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0889. 🚀 perf: lazy-load components
 0195. 📚 docs: clarify environment setup
+0745. ✅ test: add unit test for quiz service
