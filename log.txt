@@ -4024,3 +4024,4 @@
 0541. 🐛 fix: correct typo in registration form
 0990. ♻️ chore: rename env.example
 0109. 🚀 perf: lazy-load components
+0469. 🚀 perf: lazy-load components
