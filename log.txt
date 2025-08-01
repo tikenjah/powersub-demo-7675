@@ -4041,3 +4041,4 @@
 0823. ✨ feat: add user authentication
 0336. ✨ feat: add export to CSV option
 0816. 🔧 refactor: organize models into subfolders
+0552. 🐛 fix: fix null pointer exception on login
