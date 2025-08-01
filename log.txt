@@ -4039,3 +4039,4 @@
 0830. 🎨 style: apply consistent indentation
 0755. 🚀 perf: cache repeated calculations
 0823. ✨ feat: add user authentication
+0336. ✨ feat: add export to CSV option
