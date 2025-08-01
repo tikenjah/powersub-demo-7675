@@ -5790,3 +5790,4 @@
 0124. 🎨 style: reformat files with black
 0888. 🚀 perf: lazy-load components
 0160. ♻️ chore: bump dependencies
+0773. 📚 docs: document token refresh logic
