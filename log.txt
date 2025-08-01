@@ -4044,3 +4044,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0841. 🚀 perf: optimize database query for quiz results
 0234. ♻️ chore: rename env.example
+0689. 🎨 style: reformat files with black
