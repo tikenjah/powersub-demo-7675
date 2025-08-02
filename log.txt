@@ -7789,3 +7789,4 @@
 0691. 🎨 style: rename variables for clarity
 0962. ✨ feat: create admin dashboard
 0462. ♻️ chore: update .gitignore
+0784. ♻️ chore: clean up unused files
