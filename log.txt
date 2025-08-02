@@ -4049,3 +4049,4 @@
 0709. ♻️ chore: bump dependencies
 0674. 🔧 refactor: split large controller into smaller functions
 0567. 📚 docs: add API usage examples
+0701. 🔧 refactor: clean up auth middleware
