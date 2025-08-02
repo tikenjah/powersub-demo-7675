@@ -6790,3 +6790,4 @@
 0750. 🎨 style: apply consistent indentation
 0392. 🎨 style: remove trailing whitespace
 0239. 🎨 style: standardize quote style
+0419. 🎨 style: remove trailing whitespace
