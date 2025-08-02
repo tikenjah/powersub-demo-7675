@@ -6793,3 +6793,4 @@
 0419. 🎨 style: remove trailing whitespace
 0376. 🎨 style: apply consistent indentation
 0660. 🐛 fix: correct typo in registration form
+0077. ♻️ chore: rename env.example
