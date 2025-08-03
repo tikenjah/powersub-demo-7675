@@ -9827,3 +9827,4 @@
 0323. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
 0463. 🚀 perf: reduce image load time
+0752. ✅ test: add integration test for /submit endpoint
