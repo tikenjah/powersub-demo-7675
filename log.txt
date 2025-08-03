@@ -4070,3 +4070,4 @@
 0854. ♻️ chore: rename env.example
 0235. 🐛 fix: fix null pointer exception on login
 0045. 🎨 style: apply consistent indentation
+0701. 🔧 refactor: clean up auth middleware
