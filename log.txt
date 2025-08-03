@@ -9826,3 +9826,4 @@
 0784. ♻️ chore: clean up unused files
 0323. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
+0463. 🚀 perf: reduce image load time
