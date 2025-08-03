@@ -5797,3 +5797,4 @@
 0798. 🚀 perf: reduce image load time
 0768. 🎨 style: remove trailing whitespace
 0739. 🎨 style: remove trailing whitespace
+0079. 🐛 fix: correct typo in registration form
