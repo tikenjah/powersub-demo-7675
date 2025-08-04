@@ -4084,3 +4084,4 @@
 0730. ✅ test: test user registration edge cases
 0712. 🎨 style: apply consistent indentation
 0568. 🐛 fix: handle 500 error in quiz API
+0668. 🚀 perf: optimize database query for quiz results
