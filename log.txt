@@ -5802,3 +5802,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0440. 📚 docs: update README with setup steps
 0715. ✨ feat: create admin dashboard
+0100. ♻️ chore: update .gitignore
