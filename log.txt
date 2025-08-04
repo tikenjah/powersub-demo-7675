@@ -9828,3 +9828,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0463. 🚀 perf: reduce image load time
 0752. ✅ test: add integration test for /submit endpoint
+0929. ✨ feat: support email verification
