@@ -6797,3 +6797,4 @@
 0778. 📚 docs: write FAQ section
 0312. ✨ feat: add user authentication
 0739. 🎨 style: remove trailing whitespace
+0987. ✨ feat: create admin dashboard
