@@ -6796,3 +6796,4 @@
 0077. ♻️ chore: rename env.example
 0778. 📚 docs: write FAQ section
 0312. ✨ feat: add user authentication
+0739. 🎨 style: remove trailing whitespace
