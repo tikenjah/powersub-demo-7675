@@ -8808,3 +8808,4 @@
 0167. 🚀 perf: reduce image load time
 0005. ✅ test: add unit test for quiz service
 0176. 🔧 refactor: remove redundant code blocks
+0368. 🚀 perf: lazy-load components
