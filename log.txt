@@ -5804,3 +5804,4 @@
 0715. ✨ feat: create admin dashboard
 0100. ♻️ chore: update .gitignore
 0325. 🎨 style: rename variables for clarity
+0383. 🐛 fix: fix broken CSS in mobile view
