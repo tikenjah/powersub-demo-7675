@@ -4116,3 +4116,4 @@
 0987. ✨ feat: create admin dashboard
 0813. 🔧 refactor: organize models into subfolders
 0035. ✅ test: increase coverage on auth module
+0860. 🔧 refactor: organize models into subfolders
