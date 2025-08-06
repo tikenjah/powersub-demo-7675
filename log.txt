@@ -10822,3 +10822,4 @@
 0876. ♻️ chore: rename env.example
 0591. ♻️ chore: clean up unused files
 0463. 🚀 perf: reduce image load time
+0662. ♻️ chore: clean up unused files
