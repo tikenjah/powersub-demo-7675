@@ -4112,3 +4112,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0005. ✅ test: add unit test for quiz service
 0429. ✨ feat: add user authentication
+0957. 🐛 fix: fix null pointer exception on login
