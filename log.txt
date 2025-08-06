@@ -6802,3 +6802,4 @@
 0793. 📚 docs: clarify environment setup
 0576. ♻️ chore: update .gitignore
 0318. 🔧 refactor: refactor quiz grading logic
+0583. ✅ test: increase coverage on auth module
