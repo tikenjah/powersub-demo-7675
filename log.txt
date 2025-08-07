@@ -6807,3 +6807,4 @@
 0991. ♻️ chore: clean up unused files
 0773. 📚 docs: document token refresh logic
 0276. ✅ test: add integration test for /submit endpoint
+0923. ✨ feat: support email verification
