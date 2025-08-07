@@ -4126,3 +4126,4 @@
 0632. 🎨 style: remove trailing whitespace
 0637. 🎨 style: apply consistent indentation
 0362. 📚 docs: add API usage examples
+0711. 🐛 fix: fix broken CSS in mobile view
