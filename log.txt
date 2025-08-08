@@ -8816,3 +8816,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0622. 🎨 style: apply consistent indentation
 0750. 🎨 style: apply consistent indentation
+0397. 🐛 fix: handle 500 error in quiz API
