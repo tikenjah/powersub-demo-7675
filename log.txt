@@ -8817,3 +8817,4 @@
 0622. 🎨 style: apply consistent indentation
 0750. 🎨 style: apply consistent indentation
 0397. 🐛 fix: handle 500 error in quiz API
+0826. 📚 docs: clarify environment setup
