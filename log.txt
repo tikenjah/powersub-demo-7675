@@ -8818,3 +8818,4 @@
 0750. 🎨 style: apply consistent indentation
 0397. 🐛 fix: handle 500 error in quiz API
 0826. 📚 docs: clarify environment setup
+0821. ✅ test: add integration test for /submit endpoint
