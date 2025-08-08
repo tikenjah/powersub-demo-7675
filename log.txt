@@ -4134,3 +4134,4 @@
 0492. 🎨 style: remove trailing whitespace
 0391. 🐛 fix: fix null pointer exception on login
 0220. 🐛 fix: fix null pointer exception on login
+0079. 🐛 fix: correct typo in registration form
