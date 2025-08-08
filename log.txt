@@ -6808,3 +6808,4 @@
 0773. 📚 docs: document token refresh logic
 0276. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
+0292. 📚 docs: clarify environment setup
