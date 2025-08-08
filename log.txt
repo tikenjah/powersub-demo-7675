@@ -10828,3 +10828,4 @@
 0884. 📚 docs: clarify environment setup
 0959. 🐛 fix: fix null pointer exception on login
 0844. 📚 docs: update README with setup steps
+0227. ✅ test: test user registration edge cases
