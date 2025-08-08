@@ -4140,3 +4140,4 @@
 0831. 📚 docs: clarify environment setup
 0448. 🐛 fix: correct typo in registration form
 0769. ✨ feat: create admin dashboard
+0579. 📚 docs: clarify environment setup
