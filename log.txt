@@ -8822,3 +8822,4 @@
 0986. 📚 docs: document token refresh logic
 0716. ✨ feat: implement quiz timer feature
 0574. ✨ feat: enable dark mode toggle
+0834. ✅ test: increase coverage on auth module
