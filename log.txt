@@ -10833,3 +10833,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0618. ✨ feat: support email verification
 0440. 📚 docs: update README with setup steps
+0447. ♻️ chore: bump dependencies
