@@ -6811,3 +6811,4 @@
 0292. 📚 docs: clarify environment setup
 0169. 📚 docs: add API usage examples
 0328. 🐛 fix: resolve issue with date parsing
+0538. 🐛 fix: fix broken CSS in mobile view
