@@ -4153,3 +4153,4 @@
 0187. ✨ feat: support email verification
 0285. 🐛 fix: resolve issue with date parsing
 0686. 🎨 style: standardize quote style
+0359. 🔧 refactor: clean up auth middleware
