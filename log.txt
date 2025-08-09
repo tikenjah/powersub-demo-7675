@@ -10830,3 +10830,4 @@
 0844. 📚 docs: update README with setup steps
 0227. ✅ test: test user registration edge cases
 0536. ✨ feat: add user authentication
+0672. 🐛 fix: fix broken CSS in mobile view
