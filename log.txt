@@ -4150,3 +4150,4 @@
 0203. 🚀 perf: lazy-load components
 0232. 🎨 style: apply consistent indentation
 0831. 📚 docs: clarify environment setup
+0187. ✨ feat: support email verification
