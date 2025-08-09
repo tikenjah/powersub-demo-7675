@@ -4147,3 +4147,4 @@
 0302. ✨ feat: implement quiz timer feature
 0810. 🔧 refactor: refactor quiz grading logic
 0260. ✨ feat: create admin dashboard
+0203. 🚀 perf: lazy-load components
