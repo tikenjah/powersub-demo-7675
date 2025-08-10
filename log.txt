@@ -10841,3 +10841,4 @@
 0938. 🎨 style: rename variables for clarity
 0102. ✨ feat: support email verification
 0694. 🎨 style: rename variables for clarity
+0612. ✅ test: test user registration edge cases
