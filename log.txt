@@ -8823,3 +8823,4 @@
 0716. ✨ feat: implement quiz timer feature
 0574. ✨ feat: enable dark mode toggle
 0834. ✅ test: increase coverage on auth module
+0444. ✅ test: add unit test for quiz service
