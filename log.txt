@@ -8824,3 +8824,4 @@
 0574. ✨ feat: enable dark mode toggle
 0834. ✅ test: increase coverage on auth module
 0444. ✅ test: add unit test for quiz service
+0290. ✅ test: test user registration edge cases
