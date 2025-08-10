@@ -6813,3 +6813,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0538. 🐛 fix: fix broken CSS in mobile view
 0525. ✅ test: mock database connection in test suite
+0474. ✅ test: add unit test for quiz service
