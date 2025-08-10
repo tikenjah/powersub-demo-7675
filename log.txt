@@ -7813,3 +7813,4 @@
 0487. 🎨 style: reformat files with black
 0689. 🎨 style: reformat files with black
 0242. ♻️ chore: clean up unused files
+0607. 🐛 fix: prevent crash on empty input
