@@ -9838,3 +9838,4 @@
 0342. 🚀 perf: cache repeated calculations
 0870. ♻️ chore: clean up unused files
 0474. ✅ test: add unit test for quiz service
+0772. 🐛 fix: fix null pointer exception on login
