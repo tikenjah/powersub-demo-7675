@@ -4167,3 +4167,4 @@
 0964. ♻️ chore: clean up unused files
 0902. ✨ feat: enable dark mode toggle
 0636. ✅ test: increase coverage on auth module
+0351. ✨ feat: add export to CSV option
