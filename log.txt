@@ -4169,3 +4169,4 @@
 0636. ✅ test: increase coverage on auth module
 0351. ✨ feat: add export to CSV option
 0213. ✅ test: add integration test for /submit endpoint
+0444. ✅ test: add unit test for quiz service
