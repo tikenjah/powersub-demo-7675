@@ -10839,3 +10839,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0240. 🔧 refactor: remove redundant code blocks
 0938. 🎨 style: rename variables for clarity
+0102. ✨ feat: support email verification
