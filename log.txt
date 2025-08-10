@@ -4170,3 +4170,4 @@
 0351. ✨ feat: add export to CSV option
 0213. ✅ test: add integration test for /submit endpoint
 0444. ✅ test: add unit test for quiz service
+0110. 🐛 fix: prevent crash on empty input
