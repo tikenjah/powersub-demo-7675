@@ -9841,3 +9841,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0335. ♻️ chore: update .gitignore
 0325. 🎨 style: rename variables for clarity
+0233. 🚀 perf: lazy-load components
