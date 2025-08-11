@@ -4177,3 +4177,4 @@
 0830. 🎨 style: apply consistent indentation
 0024. 📚 docs: write FAQ section
 0641. 📚 docs: write FAQ section
+0378. 🐛 fix: prevent crash on empty input
