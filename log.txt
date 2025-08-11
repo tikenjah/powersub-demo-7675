@@ -4184,3 +4184,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0908. ♻️ chore: bump dependencies
 0226. 🚀 perf: lazy-load components
+0095. ✅ test: mock database connection in test suite
