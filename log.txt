@@ -5818,3 +5818,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0339. 📚 docs: update README with setup steps
 0854. ♻️ chore: rename env.example
+0247. 🎨 style: apply consistent indentation
