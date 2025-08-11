@@ -5821,3 +5821,4 @@
 0247. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
 0015. ✨ feat: implement quiz timer feature
+0894. ✅ test: add integration test for /submit endpoint
