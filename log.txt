@@ -5819,3 +5819,4 @@
 0339. 📚 docs: update README with setup steps
 0854. ♻️ chore: rename env.example
 0247. 🎨 style: apply consistent indentation
+0287. 📚 docs: write FAQ section
