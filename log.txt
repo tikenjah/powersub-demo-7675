@@ -4175,3 +4175,4 @@
 0914. ✅ test: test user registration edge cases
 0175. 📚 docs: add API usage examples
 0830. 🎨 style: apply consistent indentation
+0024. 📚 docs: write FAQ section
