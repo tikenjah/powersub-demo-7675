@@ -10844,3 +10844,4 @@
 0612. ✅ test: test user registration edge cases
 0158. 📚 docs: clarify environment setup
 0954. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
