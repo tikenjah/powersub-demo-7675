@@ -4191,3 +4191,4 @@
 0509. ♻️ chore: bump dependencies
 0493. ✨ feat: add user authentication
 0995. ✅ test: mock database connection in test suite
+0677. 📚 docs: add API usage examples
