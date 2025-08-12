@@ -4193,3 +4193,4 @@
 0995. ✅ test: mock database connection in test suite
 0677. 📚 docs: add API usage examples
 0828. ♻️ chore: add GitHub actions badge
+0762. 🚀 perf: lazy-load components
