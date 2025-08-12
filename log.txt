@@ -6826,3 +6826,4 @@
 0684. 🚀 perf: reduce image load time
 0813. 🔧 refactor: organize models into subfolders
 0582. ✨ feat: add export to CSV option
+0882. 🚀 perf: optimize database query for quiz results
