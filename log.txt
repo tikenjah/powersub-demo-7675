@@ -4197,3 +4197,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0905. ♻️ chore: bump dependencies
 0011. ✅ test: add unit test for quiz service
+0021. ✨ feat: support email verification
