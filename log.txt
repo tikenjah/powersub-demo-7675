@@ -4203,3 +4203,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0872. 🎨 style: rename variables for clarity
 0455. ♻️ chore: clean up unused files
+0895. ✨ feat: support email verification
