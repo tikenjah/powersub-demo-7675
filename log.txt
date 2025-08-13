@@ -4206,3 +4206,4 @@
 0895. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
 0985. 📚 docs: document token refresh logic
+0722. 📚 docs: add API usage examples
