@@ -4195,3 +4195,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0762. 🚀 perf: lazy-load components
 0511. 🐛 fix: fix broken CSS in mobile view
+0905. ♻️ chore: bump dependencies
