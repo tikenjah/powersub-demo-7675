@@ -9845,3 +9845,4 @@
 0381. ♻️ chore: clean up unused files
 0117. ✅ test: increase coverage on auth module
 0286. ✅ test: mock database connection in test suite
+0568. 🐛 fix: handle 500 error in quiz API
