@@ -4194,3 +4194,4 @@
 0677. 📚 docs: add API usage examples
 0828. ♻️ chore: add GitHub actions badge
 0762. 🚀 perf: lazy-load components
+0511. 🐛 fix: fix broken CSS in mobile view
