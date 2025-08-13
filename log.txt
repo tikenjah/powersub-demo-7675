@@ -4199,3 +4199,4 @@
 0011. ✅ test: add unit test for quiz service
 0021. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
+0227. ✅ test: test user registration edge cases
