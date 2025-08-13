@@ -10848,3 +10848,4 @@
 0714. 📚 docs: improve code comments in utils
 0063. 🐛 fix: handle 500 error in quiz API
 0686. 🎨 style: standardize quote style
+0029. 🚀 perf: lazy-load components
