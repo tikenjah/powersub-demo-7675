@@ -8835,3 +8835,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0753. 🔧 refactor: remove redundant code blocks
 0262. 🎨 style: remove trailing whitespace
+0752. ✅ test: add integration test for /submit endpoint
