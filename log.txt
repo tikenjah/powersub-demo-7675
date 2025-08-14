@@ -10852,3 +10852,4 @@
 0551. 📚 docs: write FAQ section
 0363. 📚 docs: clarify environment setup
 0606. 📚 docs: improve code comments in utils
+0860. 🔧 refactor: organize models into subfolders
