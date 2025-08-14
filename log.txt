@@ -10850,3 +10850,4 @@
 0686. 🎨 style: standardize quote style
 0029. 🚀 perf: lazy-load components
 0551. 📚 docs: write FAQ section
+0363. 📚 docs: clarify environment setup
