@@ -6831,3 +6831,4 @@
 0064. 📚 docs: clarify environment setup
 0982. 🚀 perf: lazy-load components
 0291. 📚 docs: write FAQ section
+0344. ♻️ chore: add GitHub actions badge
