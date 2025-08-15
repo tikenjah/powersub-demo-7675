@@ -8840,3 +8840,4 @@
 0320. 📚 docs: update README with setup steps
 0290. ✅ test: test user registration edge cases
 0949. 📚 docs: write FAQ section
+0370. 🚀 perf: reduce image load time
