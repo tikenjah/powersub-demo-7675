@@ -4235,3 +4235,4 @@
 0410. 🎨 style: reformat files with black
 0390. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
+0117. ✅ test: increase coverage on auth module
