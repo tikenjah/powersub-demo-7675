@@ -9850,3 +9850,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0514. 🐛 fix: fix broken CSS in mobile view
 0437. 📚 docs: clarify environment setup
+0882. 🚀 perf: optimize database query for quiz results
