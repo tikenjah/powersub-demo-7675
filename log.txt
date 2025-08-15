@@ -6833,3 +6833,4 @@
 0291. 📚 docs: write FAQ section
 0344. ♻️ chore: add GitHub actions badge
 0853. 🔧 refactor: refactor quiz grading logic
+0788. 📚 docs: add API usage examples
