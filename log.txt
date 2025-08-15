@@ -8838,3 +8838,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0903. ✅ test: mock database connection in test suite
 0320. 📚 docs: update README with setup steps
+0290. ✅ test: test user registration edge cases
