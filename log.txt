@@ -4238,3 +4238,4 @@
 0117. ✅ test: increase coverage on auth module
 0678. ✨ feat: add user authentication
 0175. 📚 docs: add API usage examples
+0085. ✨ feat: support email verification
