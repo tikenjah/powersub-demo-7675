@@ -4246,3 +4246,4 @@
 0174. 📚 docs: clarify environment setup
 0130. 🔧 refactor: split large controller into smaller functions
 0706. ✨ feat: support email verification
+0393. 🚀 perf: lazy-load components
