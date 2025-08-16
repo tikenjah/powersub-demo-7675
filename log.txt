@@ -4245,3 +4245,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0174. 📚 docs: clarify environment setup
 0130. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
