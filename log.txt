@@ -10857,3 +10857,4 @@
 0137. 🎨 style: rename variables for clarity
 0980. 🎨 style: reformat files with black
 0390. 🎨 style: standardize quote style
+0384. 📚 docs: clarify environment setup
