@@ -4241,3 +4241,4 @@
 0085. ✨ feat: support email verification
 0652. 🔧 refactor: organize models into subfolders
 0427. ✅ test: mock database connection in test suite
+0055. 📚 docs: update README with setup steps
