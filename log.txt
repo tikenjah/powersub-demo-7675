@@ -9854,3 +9854,4 @@
 0493. ✨ feat: add user authentication
 0513. ♻️ chore: bump dependencies
 0144. ✅ test: increase coverage on auth module
+0271. ✅ test: add unit test for quiz service
