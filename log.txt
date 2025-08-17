@@ -4256,3 +4256,4 @@
 0284. ✨ feat: implement quiz timer feature
 0551. 📚 docs: write FAQ section
 0707. 🎨 style: apply consistent indentation
+0399. ✅ test: mock database connection in test suite
