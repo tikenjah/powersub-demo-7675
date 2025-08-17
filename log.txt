@@ -4252,3 +4252,4 @@
 0132. ✅ test: add unit test for quiz service
 0156. 🎨 style: rename variables for clarity
 0527. 🎨 style: remove trailing whitespace
+0420. 🚀 perf: reduce image load time
