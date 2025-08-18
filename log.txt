@@ -4261,3 +4261,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0984. ♻️ chore: clean up unused files
 0302. ✨ feat: implement quiz timer feature
+0493. ✨ feat: add user authentication
