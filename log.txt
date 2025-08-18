@@ -4262,3 +4262,4 @@
 0984. ♻️ chore: clean up unused files
 0302. ✨ feat: implement quiz timer feature
 0493. ✨ feat: add user authentication
+0372. ✨ feat: add user authentication
