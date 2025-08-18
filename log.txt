@@ -4265,3 +4265,4 @@
 0372. ✨ feat: add user authentication
 0510. 🎨 style: rename variables for clarity
 0098. 🎨 style: rename variables for clarity
+0053. ✅ test: increase coverage on auth module
