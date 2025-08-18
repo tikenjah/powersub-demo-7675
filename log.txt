@@ -4271,3 +4271,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0836. 🚀 perf: optimize database query for quiz results
 0009. ✨ feat: enable dark mode toggle
+0970. ♻️ chore: update .gitignore
