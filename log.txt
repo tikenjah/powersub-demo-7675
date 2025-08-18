@@ -5832,3 +5832,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0767. 🔧 refactor: remove redundant code blocks
 0300. ✨ feat: add export to CSV option
+0515. 🚀 perf: optimize database query for quiz results
