@@ -7827,3 +7827,4 @@
 0525. ✅ test: mock database connection in test suite
 0311. 🎨 style: apply consistent indentation
 1000. ✅ test: increase coverage on auth module
+0353. ♻️ chore: rename env.example
