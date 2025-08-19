@@ -4275,3 +4275,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0961. 📚 docs: add API usage examples
 0145. 📚 docs: improve code comments in utils
+0505. ♻️ chore: add GitHub actions badge
