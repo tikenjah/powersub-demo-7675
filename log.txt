@@ -4272,3 +4272,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0009. ✨ feat: enable dark mode toggle
 0970. ♻️ chore: update .gitignore
+0457. 🐛 fix: handle 500 error in quiz API
