@@ -5836,3 +5836,4 @@
 0109. 🚀 perf: lazy-load components
 0531. 🐛 fix: prevent crash on empty input
 0070. ✨ feat: implement quiz timer feature
+0466. 🚀 perf: optimize database query for quiz results
