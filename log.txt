@@ -10866,3 +10866,4 @@
 0312. ✨ feat: add user authentication
 0915. 🚀 perf: cache repeated calculations
 0409. 🚀 perf: lazy-load components
+0307. ✨ feat: support email verification
