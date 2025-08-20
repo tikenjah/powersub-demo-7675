@@ -4283,3 +4283,4 @@
 0982. 🚀 perf: lazy-load components
 0506. 🐛 fix: handle 500 error in quiz API
 0664. ✅ test: add unit test for quiz service
+0477. 🐛 fix: fix broken CSS in mobile view
