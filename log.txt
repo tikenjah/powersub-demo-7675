@@ -6843,3 +6843,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0401. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0676. 🐛 fix: prevent crash on empty input
