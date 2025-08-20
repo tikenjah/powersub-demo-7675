@@ -9861,3 +9861,4 @@
 0499. 🎨 style: reformat files with black
 0059. ♻️ chore: bump dependencies
 0440. 📚 docs: update README with setup steps
+0562. 🔧 refactor: clean up auth middleware
