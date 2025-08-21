@@ -10869,3 +10869,4 @@
 0307. ✨ feat: support email verification
 0873. 🚀 perf: cache repeated calculations
 0965. 🎨 style: reformat files with black
+0763. 🔧 refactor: organize models into subfolders
