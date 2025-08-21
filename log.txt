@@ -7834,3 +7834,4 @@
 0185. 📚 docs: write FAQ section
 0815. 🔧 refactor: split large controller into smaller functions
 0569. 📚 docs: document token refresh logic
+0263. 📚 docs: add API usage examples
