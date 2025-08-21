@@ -5840,3 +5840,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0885. ♻️ chore: update .gitignore
 0749. ✨ feat: support email verification
+0463. 🚀 perf: reduce image load time
