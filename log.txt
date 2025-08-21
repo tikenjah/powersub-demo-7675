@@ -9867,3 +9867,4 @@
 0225. 🚀 perf: reduce image load time
 0434. 📚 docs: document token refresh logic
 0661. ✅ test: add integration test for /submit endpoint
+0193. 🚀 perf: optimize database query for quiz results
