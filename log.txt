@@ -10871,3 +10871,4 @@
 0965. 🎨 style: reformat files with black
 0763. 🔧 refactor: organize models into subfolders
 0217. 🚀 perf: reduce image load time
+0515. 🚀 perf: optimize database query for quiz results
