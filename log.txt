@@ -7837,3 +7837,4 @@
 0263. 📚 docs: add API usage examples
 0401. 🚀 perf: reduce image load time
 0108. 🎨 style: remove trailing whitespace
+0406. ✨ feat: add export to CSV option
