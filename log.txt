@@ -6848,3 +6848,4 @@
 0132. ✅ test: add unit test for quiz service
 0774. 🔧 refactor: refactor quiz grading logic
 0672. 🐛 fix: fix broken CSS in mobile view
+0713. 🐛 fix: handle 500 error in quiz API
