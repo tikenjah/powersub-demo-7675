@@ -7836,3 +7836,4 @@
 0569. 📚 docs: document token refresh logic
 0263. 📚 docs: add API usage examples
 0401. 🚀 perf: reduce image load time
+0108. 🎨 style: remove trailing whitespace
