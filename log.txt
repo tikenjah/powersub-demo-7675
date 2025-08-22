@@ -4320,3 +4320,4 @@
 0502. 📚 docs: update README with setup steps
 0518. ✨ feat: support email verification
 0929. ✨ feat: support email verification
+0873. 🚀 perf: cache repeated calculations
