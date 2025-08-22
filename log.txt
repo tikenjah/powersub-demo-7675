@@ -6850,3 +6850,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0713. 🐛 fix: handle 500 error in quiz API
 0591. ♻️ chore: clean up unused files
+0059. ♻️ chore: bump dependencies
