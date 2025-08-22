@@ -4322,3 +4322,4 @@
 0929. ✨ feat: support email verification
 0873. 🚀 perf: cache repeated calculations
 0163. ✨ feat: implement quiz timer feature
+0203. 🚀 perf: lazy-load components
