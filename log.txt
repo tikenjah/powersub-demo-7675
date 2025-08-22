@@ -4319,3 +4319,4 @@
 0970. ♻️ chore: update .gitignore
 0502. 📚 docs: update README with setup steps
 0518. ✨ feat: support email verification
+0929. ✨ feat: support email verification
