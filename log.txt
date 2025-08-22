@@ -6852,3 +6852,4 @@
 0591. ♻️ chore: clean up unused files
 0059. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
+0630. 🚀 perf: lazy-load components
