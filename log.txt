@@ -5850,3 +5850,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0650. ✅ test: add unit test for quiz service
 0706. ✨ feat: support email verification
+0625. 🐛 fix: handle 500 error in quiz API
