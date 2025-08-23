@@ -4334,3 +4334,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0371. ✅ test: add integration test for /submit endpoint
 0353. ♻️ chore: rename env.example
+0331. 🐛 fix: fix broken CSS in mobile view
