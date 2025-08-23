@@ -8859,3 +8859,4 @@
 0765. ♻️ chore: clean up unused files
 0263. 📚 docs: add API usage examples
 0970. ♻️ chore: update .gitignore
+0248. 🐛 fix: handle 500 error in quiz API
