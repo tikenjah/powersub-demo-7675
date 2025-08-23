@@ -7844,3 +7844,4 @@
 0260. ✨ feat: create admin dashboard
 0263. 📚 docs: add API usage examples
 0127. 🐛 fix: fix null pointer exception on login
+0758. 🚀 perf: optimize database query for quiz results
