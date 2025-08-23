@@ -4337,3 +4337,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0990. ♻️ chore: rename env.example
 0087. ✨ feat: add export to CSV option
+0478. 🐛 fix: resolve issue with date parsing
