@@ -9871,3 +9871,4 @@
 0943. 🎨 style: rename variables for clarity
 0132. ✅ test: add unit test for quiz service
 0795. 📚 docs: update README with setup steps
+0672. 🐛 fix: fix broken CSS in mobile view
