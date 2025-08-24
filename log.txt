@@ -7849,3 +7849,4 @@
 0946. ✅ test: add unit test for quiz service
 0951. 🎨 style: rename variables for clarity
 0383. 🐛 fix: fix broken CSS in mobile view
+0153. ♻️ chore: rename env.example
