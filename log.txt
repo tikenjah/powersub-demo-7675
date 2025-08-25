@@ -4360,3 +4360,4 @@
 0048. 📚 docs: update README with setup steps
 0855. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
+0079. 🐛 fix: correct typo in registration form
