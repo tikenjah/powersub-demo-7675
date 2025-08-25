@@ -5867,3 +5867,4 @@
 0302. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
 0307. ✨ feat: support email verification
+0246. ✅ test: add integration test for /submit endpoint
