@@ -5863,3 +5863,4 @@
 0332. 🎨 style: standardize quote style
 0833. ✨ feat: add user authentication
 0547. 📚 docs: write FAQ section
+0375. 🐛 fix: handle 500 error in quiz API
