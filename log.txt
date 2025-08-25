@@ -4361,3 +4361,4 @@
 0855. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
 0079. 🐛 fix: correct typo in registration form
+0174. 📚 docs: clarify environment setup
