@@ -10876,3 +10876,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0867. 🔧 refactor: refactor quiz grading logic
 0941. 🚀 perf: cache repeated calculations
+0371. ✅ test: add integration test for /submit endpoint
