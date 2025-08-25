@@ -5866,3 +5866,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0302. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
+0307. ✨ feat: support email verification
