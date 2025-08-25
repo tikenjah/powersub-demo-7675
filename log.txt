@@ -4353,3 +4353,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0427. ✅ test: mock database connection in test suite
 0574. ✨ feat: enable dark mode toggle
+0390. 🎨 style: standardize quote style
