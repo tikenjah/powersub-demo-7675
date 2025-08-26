@@ -10881,3 +10881,4 @@
 0695. ✨ feat: create admin dashboard
 0643. 🎨 style: apply consistent indentation
 0866. 📚 docs: add API usage examples
+0375. 🐛 fix: handle 500 error in quiz API
