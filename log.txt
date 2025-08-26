@@ -4374,3 +4374,4 @@
 0382. 📚 docs: improve code comments in utils
 0130. 🔧 refactor: split large controller into smaller functions
 0497. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
