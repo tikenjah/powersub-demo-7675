@@ -4364,3 +4364,4 @@
 0174. 📚 docs: clarify environment setup
 0391. 🐛 fix: fix null pointer exception on login
 0714. 📚 docs: improve code comments in utils
+0020. ✅ test: add integration test for /submit endpoint
