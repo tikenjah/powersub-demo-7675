@@ -10880,3 +10880,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0695. ✨ feat: create admin dashboard
 0643. 🎨 style: apply consistent indentation
+0866. 📚 docs: add API usage examples
