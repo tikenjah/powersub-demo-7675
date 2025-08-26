@@ -7857,3 +7857,4 @@
 0312. ✨ feat: add user authentication
 0956. 📚 docs: clarify environment setup
 0132. ✅ test: add unit test for quiz service
+0791. 🔧 refactor: clean up auth middleware
