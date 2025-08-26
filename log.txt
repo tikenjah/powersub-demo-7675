@@ -4377,3 +4377,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0501. ✨ feat: add export to CSV option
 0417. 🎨 style: rename variables for clarity
+0998. 🐛 fix: fix null pointer exception on login
