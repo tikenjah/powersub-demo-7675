@@ -4368,3 +4368,4 @@
 0197. 📚 docs: update README with setup steps
 0604. 📚 docs: add API usage examples
 0147. ♻️ chore: bump dependencies
+0693. 📚 docs: add API usage examples
