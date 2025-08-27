@@ -4389,3 +4389,4 @@
 0901. ✨ feat: add user authentication
 0340. 🚀 perf: optimize database query for quiz results
 0754. 🐛 fix: handle 500 error in quiz API
+0737. 🐛 fix: handle 500 error in quiz API
