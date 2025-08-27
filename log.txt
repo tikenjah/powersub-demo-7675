@@ -4380,3 +4380,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0655. 🚀 perf: cache repeated calculations
 0282. 🔧 refactor: remove redundant code blocks
+0745. ✅ test: add unit test for quiz service
