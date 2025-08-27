@@ -8864,3 +8864,4 @@
 0009. ✨ feat: enable dark mode toggle
 0291. 📚 docs: write FAQ section
 0498. ✅ test: mock database connection in test suite
+0695. ✨ feat: create admin dashboard
