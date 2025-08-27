@@ -4384,3 +4384,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0568. 🐛 fix: handle 500 error in quiz API
 0447. ♻️ chore: bump dependencies
+0895. ✨ feat: support email verification
