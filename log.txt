@@ -5871,3 +5871,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0575. ✅ test: add unit test for quiz service
 0461. ✨ feat: add user authentication
+0102. ✨ feat: support email verification
