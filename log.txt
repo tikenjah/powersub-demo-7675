@@ -7862,3 +7862,4 @@
 0142. ✨ feat: implement quiz timer feature
 0361. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
+0868. ✅ test: add unit test for quiz service
