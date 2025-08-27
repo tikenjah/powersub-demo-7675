@@ -4383,3 +4383,4 @@
 0745. ✅ test: add unit test for quiz service
 0200. 🐛 fix: handle 500 error in quiz API
 0568. 🐛 fix: handle 500 error in quiz API
+0447. ♻️ chore: bump dependencies
