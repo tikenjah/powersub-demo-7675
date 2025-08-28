@@ -5873,3 +5873,4 @@
 0461. ✨ feat: add user authentication
 0102. ✨ feat: support email verification
 0549. ✨ feat: enable dark mode toggle
+0886. ♻️ chore: clean up unused files
