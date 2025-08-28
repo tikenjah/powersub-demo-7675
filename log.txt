@@ -4396,3 +4396,4 @@
 0163. ✨ feat: implement quiz timer feature
 0897. 🐛 fix: prevent crash on empty input
 0206. 🐛 fix: handle 500 error in quiz API
+0226. 🚀 perf: lazy-load components
