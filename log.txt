@@ -4410,3 +4410,4 @@
 0604. 📚 docs: add API usage examples
 0667. ✨ feat: add export to CSV option
 0909. 🔧 refactor: organize models into subfolders
+0348. ✅ test: test user registration edge cases
