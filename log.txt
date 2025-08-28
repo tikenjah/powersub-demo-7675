@@ -7866,3 +7866,4 @@
 0405. ✅ test: mock database connection in test suite
 0798. 🚀 perf: reduce image load time
 0029. 🚀 perf: lazy-load components
+0241. 📚 docs: add API usage examples
