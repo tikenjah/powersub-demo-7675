@@ -6867,3 +6867,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0227. ✅ test: test user registration edge cases
 0046. 🎨 style: rename variables for clarity
+0231. 🔧 refactor: clean up auth middleware
