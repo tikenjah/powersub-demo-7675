@@ -10887,3 +10887,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0253. 📚 docs: update README with setup steps
 0158. 📚 docs: clarify environment setup
+0981. 🚀 perf: lazy-load components
