@@ -4420,3 +4420,4 @@
 0047. 🎨 style: rename variables for clarity
 0936. 🔧 refactor: organize models into subfolders
 0634. 🎨 style: reformat files with black
+0030. 🐛 fix: fix null pointer exception on login
