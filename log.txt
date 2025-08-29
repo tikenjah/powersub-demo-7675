@@ -5879,3 +5879,4 @@
 0241. 📚 docs: add API usage examples
 0711. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
+0434. 📚 docs: document token refresh logic
