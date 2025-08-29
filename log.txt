@@ -8875,3 +8875,4 @@
 0870. ♻️ chore: clean up unused files
 0076. 🎨 style: reformat files with black
 0418. ✅ test: mock database connection in test suite
+0129. 🔧 refactor: organize models into subfolders
