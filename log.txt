@@ -7869,3 +7869,4 @@
 0241. 📚 docs: add API usage examples
 0427. ✅ test: mock database connection in test suite
 0712. 🎨 style: apply consistent indentation
+0625. 🐛 fix: handle 500 error in quiz API
