@@ -7879,3 +7879,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0929. ✨ feat: support email verification
 0572. ✨ feat: add user authentication
+0116. ✨ feat: support email verification
