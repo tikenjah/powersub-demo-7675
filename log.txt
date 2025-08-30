@@ -4421,3 +4421,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0634. 🎨 style: reformat files with black
 0030. 🐛 fix: fix null pointer exception on login
+0010. ✨ feat: add user authentication
