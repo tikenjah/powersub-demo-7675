@@ -5880,3 +5880,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
 0434. 📚 docs: document token refresh logic
+0962. ✨ feat: create admin dashboard
