@@ -4429,3 +4429,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0587. 🔧 refactor: remove redundant code blocks
 0460. 📚 docs: write FAQ section
+0764. ✨ feat: add user authentication
