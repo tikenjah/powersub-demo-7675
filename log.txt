@@ -4438,3 +4438,4 @@
 0308. 🚀 perf: reduce image load time
 0509. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
+0506. 🐛 fix: handle 500 error in quiz API
