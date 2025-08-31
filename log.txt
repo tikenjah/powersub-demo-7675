@@ -9887,3 +9887,4 @@
 0015. ✨ feat: implement quiz timer feature
 0236. 🔧 refactor: remove redundant code blocks
 0506. 🐛 fix: handle 500 error in quiz API
+0395. 📚 docs: write FAQ section
