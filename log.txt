@@ -10888,3 +10888,4 @@
 0253. 📚 docs: update README with setup steps
 0158. 📚 docs: clarify environment setup
 0981. 🚀 perf: lazy-load components
+0321. 🔧 refactor: organize models into subfolders
