@@ -10890,3 +10890,4 @@
 0981. 🚀 perf: lazy-load components
 0321. 🔧 refactor: organize models into subfolders
 0840. 🔧 refactor: refactor quiz grading logic
+0612. ✅ test: test user registration edge cases
