@@ -5882,3 +5882,4 @@
 0434. 📚 docs: document token refresh logic
 0962. ✨ feat: create admin dashboard
 0943. 🎨 style: rename variables for clarity
+0676. 🐛 fix: prevent crash on empty input
