@@ -5886,3 +5886,4 @@
 0417. 🎨 style: rename variables for clarity
 0464. 🎨 style: remove trailing whitespace
 0187. ✨ feat: support email verification
+0415. 🐛 fix: handle 500 error in quiz API
