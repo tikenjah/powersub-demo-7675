@@ -4459,3 +4459,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0615. 🐛 fix: correct typo in registration form
 0835. 🐛 fix: prevent crash on empty input
+0535. 📚 docs: write FAQ section
