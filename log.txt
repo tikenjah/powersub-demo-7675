@@ -7884,3 +7884,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0100. ♻️ chore: update .gitignore
 0778. 📚 docs: write FAQ section
+0208. 🔧 refactor: clean up auth middleware
