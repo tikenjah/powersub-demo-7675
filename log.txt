@@ -9895,3 +9895,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0151. ✅ test: add unit test for quiz service
 0718. 🐛 fix: resolve issue with date parsing
+0882. 🚀 perf: optimize database query for quiz results
