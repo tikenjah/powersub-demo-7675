@@ -8879,3 +8879,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0504. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
+0557. 🔧 refactor: clean up auth middleware
