@@ -10893,3 +10893,4 @@
 0612. ✅ test: test user registration edge cases
 0214. 📚 docs: improve code comments in utils
 0119. 📚 docs: improve code comments in utils
+0939. 📚 docs: update README with setup steps
