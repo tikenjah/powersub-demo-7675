@@ -8881,3 +8881,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0557. 🔧 refactor: clean up auth middleware
 0420. 🚀 perf: reduce image load time
+0747. 🔧 refactor: clean up auth middleware
