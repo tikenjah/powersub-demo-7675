@@ -9899,3 +9899,4 @@
 0051. ✨ feat: enable dark mode toggle
 0587. 🔧 refactor: remove redundant code blocks
 0684. 🚀 perf: reduce image load time
+0490. ✨ feat: create admin dashboard
