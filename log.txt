@@ -9900,3 +9900,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0684. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0911. ✅ test: increase coverage on auth module
