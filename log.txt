@@ -10899,3 +10899,4 @@
 0122. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0247. 🎨 style: apply consistent indentation
+0582. ✨ feat: add export to CSV option
