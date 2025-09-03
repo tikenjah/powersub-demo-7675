@@ -4475,3 +4475,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0555. ✨ feat: create admin dashboard
 0442. 🎨 style: standardize quote style
+0206. 🐛 fix: handle 500 error in quiz API
