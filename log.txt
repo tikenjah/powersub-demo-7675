@@ -6888,3 +6888,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0542. 🔧 refactor: organize models into subfolders
 0545. 🎨 style: standardize quote style
+0895. ✨ feat: support email verification
