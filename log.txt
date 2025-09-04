@@ -5894,3 +5894,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0129. 🔧 refactor: organize models into subfolders
 0526. ✨ feat: add user authentication
+0688. 🚀 perf: reduce image load time
