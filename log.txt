@@ -4492,3 +4492,4 @@
 0954. 🚀 perf: cache repeated calculations
 0489. 🔧 refactor: organize models into subfolders
 0179. 🔧 refactor: split large controller into smaller functions
+0614. 🚀 perf: reduce image load time
