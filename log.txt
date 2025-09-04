@@ -4504,3 +4504,4 @@
 0311. 🎨 style: apply consistent indentation
 0811. 🎨 style: reformat files with black
 0161. ✨ feat: create admin dashboard
+0324. 📚 docs: document token refresh logic
