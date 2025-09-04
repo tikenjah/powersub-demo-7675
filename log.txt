@@ -4495,3 +4495,4 @@
 0614. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
 0260. ✨ feat: create admin dashboard
+0264. 🚀 perf: optimize database query for quiz results
