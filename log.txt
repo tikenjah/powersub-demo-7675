@@ -9906,3 +9906,4 @@
 0649. 📚 docs: update README with setup steps
 0108. 🎨 style: remove trailing whitespace
 0996. ✅ test: test user registration edge cases
+0220. 🐛 fix: fix null pointer exception on login
