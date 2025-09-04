@@ -6892,3 +6892,4 @@
 0333. 🚀 perf: cache repeated calculations
 0204. 🎨 style: standardize quote style
 0212. 🎨 style: standardize quote style
+0709. ♻️ chore: bump dependencies
