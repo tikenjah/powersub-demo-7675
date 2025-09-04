@@ -8889,3 +8889,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0511. 🐛 fix: fix broken CSS in mobile view
 0092. 🚀 perf: reduce image load time
+0402. 🎨 style: reformat files with black
