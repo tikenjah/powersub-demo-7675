@@ -4499,3 +4499,4 @@
 0956. 📚 docs: clarify environment setup
 0442. 🎨 style: standardize quote style
 0116. ✨ feat: support email verification
+0688. 🚀 perf: reduce image load time
