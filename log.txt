@@ -7891,3 +7891,4 @@
 0906. 📚 docs: add API usage examples
 0047. 🎨 style: rename variables for clarity
 0347. ♻️ chore: update .gitignore
+0636. ✅ test: increase coverage on auth module
