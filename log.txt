@@ -6897,3 +6897,4 @@
 0870. ♻️ chore: clean up unused files
 0745. ✅ test: add unit test for quiz service
 0431. 🎨 style: reformat files with black
+0463. 🚀 perf: reduce image load time
