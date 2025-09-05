@@ -9909,3 +9909,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0633. ✨ feat: add user authentication
 0107. 🐛 fix: prevent crash on empty input
+0553. 🐛 fix: correct typo in registration form
