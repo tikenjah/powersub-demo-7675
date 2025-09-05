@@ -7892,3 +7892,4 @@
 0047. 🎨 style: rename variables for clarity
 0347. ♻️ chore: update .gitignore
 0636. ✅ test: increase coverage on auth module
+0767. 🔧 refactor: remove redundant code blocks
