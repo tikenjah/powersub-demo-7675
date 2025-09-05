@@ -4511,3 +4511,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0298. ♻️ chore: update .gitignore
 0321. 🔧 refactor: organize models into subfolders
+0614. 🚀 perf: reduce image load time
