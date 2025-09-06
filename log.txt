@@ -4530,3 +4530,4 @@
 0595. ✨ feat: enable dark mode toggle
 0282. 🔧 refactor: remove redundant code blocks
 0237. 🎨 style: standardize quote style
+0982. 🚀 perf: lazy-load components
