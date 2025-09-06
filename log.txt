@@ -4520,3 +4520,4 @@
 0131. 📚 docs: write FAQ section
 0598. 🔧 refactor: remove redundant code blocks
 0468. 📚 docs: update README with setup steps
+0894. ✅ test: add integration test for /submit endpoint
