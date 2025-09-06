@@ -10910,3 +10910,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0824. 🚀 perf: lazy-load components
 0923. ✨ feat: support email verification
+0493. ✨ feat: add user authentication
