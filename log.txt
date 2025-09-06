@@ -10911,3 +10911,4 @@
 0824. 🚀 perf: lazy-load components
 0923. ✨ feat: support email verification
 0493. ✨ feat: add user authentication
+0670. ✨ feat: add export to CSV option
