@@ -6898,3 +6898,4 @@
 0745. ✅ test: add unit test for quiz service
 0431. 🎨 style: reformat files with black
 0463. 🚀 perf: reduce image load time
+0877. 🚀 perf: optimize database query for quiz results
