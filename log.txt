@@ -5903,3 +5903,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0330. ✅ test: test user registration edge cases
 0674. 🔧 refactor: split large controller into smaller functions
+0650. ✅ test: add unit test for quiz service
