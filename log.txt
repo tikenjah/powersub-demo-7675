@@ -4534,3 +4534,4 @@
 0372. ✨ feat: add user authentication
 0808. 🚀 perf: optimize database query for quiz results
 0875. ✅ test: increase coverage on auth module
+0958. 🐛 fix: prevent crash on empty input
