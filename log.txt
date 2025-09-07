@@ -4536,3 +4536,4 @@
 0875. ✅ test: increase coverage on auth module
 0958. 🐛 fix: prevent crash on empty input
 0956. 📚 docs: clarify environment setup
+0040. 🔧 refactor: clean up auth middleware
