@@ -10915,3 +10915,4 @@
 0850. ♻️ chore: rename env.example
 0528. ♻️ chore: clean up unused files
 0341. 🚀 perf: lazy-load components
+0390. 🎨 style: standardize quote style
