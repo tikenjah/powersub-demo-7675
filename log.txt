@@ -4551,3 +4551,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0140. 🐛 fix: handle 500 error in quiz API
 0153. ♻️ chore: rename env.example
+0114. ♻️ chore: update .gitignore
