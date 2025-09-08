@@ -8902,3 +8902,4 @@
 0961. 📚 docs: add API usage examples
 0580. ♻️ chore: bump dependencies
 0676. 🐛 fix: prevent crash on empty input
+0689. 🎨 style: reformat files with black
