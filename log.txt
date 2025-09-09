@@ -4553,3 +4553,4 @@
 0153. ♻️ chore: rename env.example
 0114. ♻️ chore: update .gitignore
 0726. ✨ feat: enable dark mode toggle
+0576. ♻️ chore: update .gitignore
