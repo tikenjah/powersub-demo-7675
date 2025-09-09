@@ -6910,3 +6910,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0478. 🐛 fix: resolve issue with date parsing
 0298. ♻️ chore: update .gitignore
+0724. ✅ test: mock database connection in test suite
