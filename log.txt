@@ -6911,3 +6911,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0298. ♻️ chore: update .gitignore
 0724. ✅ test: mock database connection in test suite
+0948. 🐛 fix: fix broken CSS in mobile view
