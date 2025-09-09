@@ -10920,3 +10920,4 @@
 0451. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
 0651. ✨ feat: enable dark mode toggle
+0029. 🚀 perf: lazy-load components
