@@ -8903,3 +8903,4 @@
 0580. ♻️ chore: bump dependencies
 0676. 🐛 fix: prevent crash on empty input
 0689. 🎨 style: reformat files with black
+0140. 🐛 fix: handle 500 error in quiz API
