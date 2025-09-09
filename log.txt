@@ -9917,3 +9917,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0799. ♻️ chore: clean up unused files
 0895. ✨ feat: support email verification
+0724. ✅ test: mock database connection in test suite
