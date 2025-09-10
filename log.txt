@@ -4571,3 +4571,4 @@
 0112. ✨ feat: enable dark mode toggle
 0124. 🎨 style: reformat files with black
 0558. ✨ feat: enable dark mode toggle
+0194. 🎨 style: standardize quote style
