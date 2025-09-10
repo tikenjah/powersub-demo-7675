@@ -4566,3 +4566,4 @@
 0646. ✅ test: test user registration edge cases
 0892. ✅ test: add unit test for quiz service
 0244. ✨ feat: add export to CSV option
+0476. 🚀 perf: reduce image load time
