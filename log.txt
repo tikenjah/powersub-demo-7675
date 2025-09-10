@@ -4563,3 +4563,4 @@
 0620. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
 0494. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
