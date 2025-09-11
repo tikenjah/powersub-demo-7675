@@ -7909,3 +7909,4 @@
 0196. ♻️ chore: bump dependencies
 0781. 🚀 perf: reduce image load time
 0134. ✨ feat: implement quiz timer feature
+0268. 🐛 fix: prevent crash on empty input
