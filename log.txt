@@ -9921,3 +9921,4 @@
 0953. 🎨 style: remove trailing whitespace
 0732. ♻️ chore: add GitHub actions badge
 0742. 📚 docs: clarify environment setup
+0987. ✨ feat: create admin dashboard
