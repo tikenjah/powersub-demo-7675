@@ -4573,3 +4573,4 @@
 0558. ✨ feat: enable dark mode toggle
 0194. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
+0646. ✅ test: test user registration edge cases
