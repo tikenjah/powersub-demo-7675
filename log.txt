@@ -4574,3 +4574,4 @@
 0194. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
 0646. ✅ test: test user registration edge cases
+0058. ♻️ chore: add GitHub actions badge
