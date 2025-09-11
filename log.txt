@@ -6917,3 +6917,4 @@
 0910. 🎨 style: remove trailing whitespace
 0619. ✨ feat: create admin dashboard
 0753. 🔧 refactor: remove redundant code blocks
+0836. 🚀 perf: optimize database query for quiz results
