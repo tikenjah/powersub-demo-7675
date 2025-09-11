@@ -5909,3 +5909,4 @@
 0619. ✨ feat: create admin dashboard
 0251. ♻️ chore: update .gitignore
 0372. ✨ feat: add user authentication
+0691. 🎨 style: rename variables for clarity
