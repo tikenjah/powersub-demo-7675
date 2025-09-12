@@ -9924,3 +9924,4 @@
 0987. ✨ feat: create admin dashboard
 0175. 📚 docs: add API usage examples
 0986. 📚 docs: document token refresh logic
+0456. 🚀 perf: optimize database query for quiz results
