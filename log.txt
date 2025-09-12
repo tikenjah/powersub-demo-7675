@@ -4595,3 +4595,4 @@
 0916. ♻️ chore: bump dependencies
 0211. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
+0094. 📚 docs: document token refresh logic
