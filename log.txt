@@ -8907,3 +8907,4 @@
 0690. 🚀 perf: lazy-load components
 0733. 🐛 fix: fix null pointer exception on login
 0984. ♻️ chore: clean up unused files
+0536. ✨ feat: add user authentication
