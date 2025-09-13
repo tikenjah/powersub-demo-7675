@@ -10926,3 +10926,4 @@
 0214. 📚 docs: improve code comments in utils
 0814. 🔧 refactor: remove redundant code blocks
 0722. 📚 docs: add API usage examples
+0222. 🐛 fix: handle 500 error in quiz API
