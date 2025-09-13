@@ -5921,3 +5921,4 @@
 0241. 📚 docs: add API usage examples
 0710. 🐛 fix: fix broken CSS in mobile view
 0267. 📚 docs: improve code comments in utils
+0501. ✨ feat: add export to CSV option
