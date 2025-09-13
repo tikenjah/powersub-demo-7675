@@ -7914,3 +7914,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0127. 🐛 fix: fix null pointer exception on login
 0071. 🔧 refactor: refactor quiz grading logic
+0279. ✨ feat: support email verification
