@@ -5924,3 +5924,4 @@
 0501. ✨ feat: add export to CSV option
 0327. 🔧 refactor: split large controller into smaller functions
 0552. 🐛 fix: fix null pointer exception on login
+0279. ✨ feat: support email verification
