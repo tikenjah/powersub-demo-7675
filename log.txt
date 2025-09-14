@@ -8913,3 +8913,4 @@
 0632. 🎨 style: remove trailing whitespace
 0216. 🎨 style: rename variables for clarity
 0274. 🔧 refactor: refactor quiz grading logic
+0213. ✅ test: add integration test for /submit endpoint
