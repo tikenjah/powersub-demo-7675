@@ -4619,3 +4619,4 @@
 0187. ✨ feat: support email verification
 0730. ✅ test: test user registration edge cases
 0076. 🎨 style: reformat files with black
+0165. 🎨 style: remove trailing whitespace
