@@ -5922,3 +5922,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0267. 📚 docs: improve code comments in utils
 0501. ✨ feat: add export to CSV option
+0327. 🔧 refactor: split large controller into smaller functions
