@@ -4629,3 +4629,4 @@
 0981. 🚀 perf: lazy-load components
 0799. ♻️ chore: clean up unused files
 0740. 🐛 fix: resolve issue with date parsing
+0055. 📚 docs: update README with setup steps
