@@ -5928,3 +5928,4 @@
 0839. 🎨 style: apply consistent indentation
 0520. 🐛 fix: fix null pointer exception on login
 0801. ✨ feat: enable dark mode toggle
+0241. 📚 docs: add API usage examples
