@@ -7917,3 +7917,4 @@
 0279. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
 0014. 🔧 refactor: remove redundant code blocks
+0412. ✅ test: increase coverage on auth module
