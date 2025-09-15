@@ -4635,3 +4635,4 @@
 0971. 🎨 style: standardize quote style
 0842. 🎨 style: remove trailing whitespace
 0194. 🎨 style: standardize quote style
+0798. 🚀 perf: reduce image load time
