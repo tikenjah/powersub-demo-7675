@@ -5926,3 +5926,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0279. ✨ feat: support email verification
 0839. 🎨 style: apply consistent indentation
+0520. 🐛 fix: fix null pointer exception on login
