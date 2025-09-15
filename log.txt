@@ -4630,3 +4630,4 @@
 0799. ♻️ chore: clean up unused files
 0740. 🐛 fix: resolve issue with date parsing
 0055. 📚 docs: update README with setup steps
+0349. ✅ test: increase coverage on auth module
