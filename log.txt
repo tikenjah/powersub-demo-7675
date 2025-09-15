@@ -10929,3 +10929,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0828. ♻️ chore: add GitHub actions badge
 0594. 🎨 style: reformat files with black
+0865. ♻️ chore: add GitHub actions badge
