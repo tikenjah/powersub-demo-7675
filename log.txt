@@ -4653,3 +4653,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0230. ✨ feat: create admin dashboard
 0445. 📚 docs: improve code comments in utils
+0208. 🔧 refactor: clean up auth middleware
