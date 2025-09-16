@@ -4644,3 +4644,4 @@
 0591. ♻️ chore: clean up unused files
 0407. 🚀 perf: cache repeated calculations
 0987. ✨ feat: create admin dashboard
+0206. 🐛 fix: handle 500 error in quiz API
