@@ -6932,3 +6932,4 @@
 0360. ✨ feat: add export to CSV option
 0843. 📚 docs: document token refresh logic
 0764. ✨ feat: add user authentication
+0787. ♻️ chore: rename env.example
