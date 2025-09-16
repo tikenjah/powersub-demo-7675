@@ -8922,3 +8922,4 @@
 0811. 🎨 style: reformat files with black
 0512. 🚀 perf: reduce image load time
 0254. 🚀 perf: reduce image load time
+0578. ✅ test: add integration test for /submit endpoint
