@@ -7921,3 +7921,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0464. 🎨 style: remove trailing whitespace
 0994. 🚀 perf: reduce image load time
+0077. ♻️ chore: rename env.example
