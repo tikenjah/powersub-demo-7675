@@ -4656,3 +4656,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0863. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
+0820. 📚 docs: add API usage examples
