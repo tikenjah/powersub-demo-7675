@@ -7923,3 +7923,4 @@
 0994. 🚀 perf: reduce image load time
 0077. ♻️ chore: rename env.example
 0024. 📚 docs: write FAQ section
+0117. ✅ test: increase coverage on auth module
