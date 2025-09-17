@@ -6934,3 +6934,4 @@
 0764. ✨ feat: add user authentication
 0787. ♻️ chore: rename env.example
 0853. 🔧 refactor: refactor quiz grading logic
+0348. ✅ test: test user registration edge cases
