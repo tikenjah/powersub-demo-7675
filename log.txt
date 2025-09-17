@@ -10937,3 +10937,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0759. 🔧 refactor: organize models into subfolders
 0617. ✨ feat: support email verification
+0468. 📚 docs: update README with setup steps
