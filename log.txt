@@ -5935,3 +5935,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0040. 🔧 refactor: clean up auth middleware
 0981. 🚀 perf: lazy-load components
+0957. 🐛 fix: fix null pointer exception on login
