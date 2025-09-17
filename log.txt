@@ -10935,3 +10935,4 @@
 0637. 🎨 style: apply consistent indentation
 0034. 📚 docs: improve code comments in utils
 0532. 🔧 refactor: split large controller into smaller functions
+0759. 🔧 refactor: organize models into subfolders
