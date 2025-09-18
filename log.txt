@@ -10940,3 +10940,4 @@
 0468. 📚 docs: update README with setup steps
 0463. 🚀 perf: reduce image load time
 0665. ♻️ chore: update .gitignore
+0278. 🔧 refactor: clean up auth middleware
