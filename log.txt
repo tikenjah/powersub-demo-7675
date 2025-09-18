@@ -9937,3 +9937,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0125. ✅ test: add integration test for /submit endpoint
 0573. ✅ test: add integration test for /submit endpoint
+0409. 🚀 perf: lazy-load components
