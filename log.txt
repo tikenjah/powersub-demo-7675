@@ -4688,3 +4688,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0011. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
+0286. ✅ test: mock database connection in test suite
