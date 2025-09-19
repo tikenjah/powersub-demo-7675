@@ -8930,3 +8930,4 @@
 0883. 📚 docs: improve code comments in utils
 0654. ✨ feat: create admin dashboard
 0780. 📚 docs: add API usage examples
+0863. 🐛 fix: correct typo in registration form
