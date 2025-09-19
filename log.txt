@@ -6938,3 +6938,4 @@
 0707. 🎨 style: apply consistent indentation
 0610. 🚀 perf: lazy-load components
 0036. 🔧 refactor: clean up auth middleware
+0987. ✨ feat: create admin dashboard
