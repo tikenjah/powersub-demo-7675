@@ -7930,3 +7930,4 @@
 0966. 📚 docs: improve code comments in utils
 0766. 🎨 style: reformat files with black
 0295. 🎨 style: remove trailing whitespace
+0303. 🎨 style: rename variables for clarity
