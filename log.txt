@@ -4680,3 +4680,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0353. ♻️ chore: rename env.example
 0443. 🎨 style: standardize quote style
+0189. 📚 docs: clarify environment setup
