@@ -4685,3 +4685,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0415. 🐛 fix: handle 500 error in quiz API
 0503. ♻️ chore: rename env.example
+0890. 🔧 refactor: organize models into subfolders
