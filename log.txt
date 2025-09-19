@@ -6942,3 +6942,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0819. 🚀 perf: reduce image load time
 0973. 🔧 refactor: organize models into subfolders
+0567. 📚 docs: add API usage examples
