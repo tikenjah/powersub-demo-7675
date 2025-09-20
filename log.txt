@@ -6950,3 +6950,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0975. 🎨 style: apply consistent indentation
 0464. 🎨 style: remove trailing whitespace
+0710. 🐛 fix: fix broken CSS in mobile view
