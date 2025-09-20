@@ -5941,3 +5941,4 @@
 0563. 📚 docs: clarify environment setup
 0986. 📚 docs: document token refresh logic
 0786. ✨ feat: enable dark mode toggle
+0386. 🚀 perf: optimize database query for quiz results
