@@ -4699,3 +4699,4 @@
 0300. ✨ feat: add export to CSV option
 0222. 🐛 fix: handle 500 error in quiz API
 0402. 🎨 style: reformat files with black
+0376. 🎨 style: apply consistent indentation
