@@ -6952,3 +6952,4 @@
 0464. 🎨 style: remove trailing whitespace
 0710. 🐛 fix: fix broken CSS in mobile view
 0842. 🎨 style: remove trailing whitespace
+0138. 🎨 style: rename variables for clarity
