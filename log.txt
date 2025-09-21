@@ -4716,3 +4716,4 @@
 0307. ✨ feat: support email verification
 0479. 🐛 fix: fix null pointer exception on login
 0938. 🎨 style: rename variables for clarity
+0515. 🚀 perf: optimize database query for quiz results
