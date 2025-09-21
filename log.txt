@@ -4721,3 +4721,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0091. ✨ feat: add user authentication
 0659. 📚 docs: add API usage examples
+0936. 🔧 refactor: organize models into subfolders
