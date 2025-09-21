@@ -8936,3 +8936,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0303. 🎨 style: rename variables for clarity
 0387. ✨ feat: enable dark mode toggle
+0446. 🎨 style: apply consistent indentation
