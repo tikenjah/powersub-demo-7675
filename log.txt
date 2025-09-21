@@ -4722,3 +4722,4 @@
 0091. ✨ feat: add user authentication
 0659. 📚 docs: add API usage examples
 0936. 🔧 refactor: organize models into subfolders
+0834. ✅ test: increase coverage on auth module
