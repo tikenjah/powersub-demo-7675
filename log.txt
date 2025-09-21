@@ -4719,3 +4719,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0772. 🐛 fix: fix null pointer exception on login
 0735. ♻️ chore: add GitHub actions badge
+0091. ✨ feat: add user authentication
