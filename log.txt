@@ -5948,3 +5948,4 @@
 0639. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
 0204. 🎨 style: standardize quote style
+0200. 🐛 fix: handle 500 error in quiz API
