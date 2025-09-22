@@ -4733,3 +4733,4 @@
 0356. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
 0715. ✨ feat: create admin dashboard
+0400. 🐛 fix: fix null pointer exception on login
