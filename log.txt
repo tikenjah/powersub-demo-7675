@@ -4736,3 +4736,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0185. 📚 docs: write FAQ section
 0893. 🐛 fix: handle 500 error in quiz API
+0796. 🔧 refactor: refactor quiz grading logic
