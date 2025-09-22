@@ -5949,3 +5949,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0204. 🎨 style: standardize quote style
 0200. 🐛 fix: handle 500 error in quiz API
+0401. 🚀 perf: reduce image load time
