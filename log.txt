@@ -4760,3 +4760,4 @@
 0995. ✅ test: mock database connection in test suite
 0801. ✨ feat: enable dark mode toggle
 0256. ✅ test: mock database connection in test suite
+0036. 🔧 refactor: clean up auth middleware
