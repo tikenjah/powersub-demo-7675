@@ -4756,3 +4756,4 @@
 0939. 📚 docs: update README with setup steps
 0842. 🎨 style: remove trailing whitespace
 0349. ✅ test: increase coverage on auth module
+0844. 📚 docs: update README with setup steps
