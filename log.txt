@@ -4758,3 +4758,4 @@
 0349. ✅ test: increase coverage on auth module
 0844. 📚 docs: update README with setup steps
 0995. ✅ test: mock database connection in test suite
+0801. ✨ feat: enable dark mode toggle
