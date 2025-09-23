@@ -4749,3 +4749,4 @@
 0017. ✅ test: mock database connection in test suite
 0576. ♻️ chore: update .gitignore
 0023. 📚 docs: clarify environment setup
+0784. ♻️ chore: clean up unused files
