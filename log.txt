@@ -4747,3 +4747,4 @@
 0766. 🎨 style: reformat files with black
 0793. 📚 docs: clarify environment setup
 0017. ✅ test: mock database connection in test suite
+0576. ♻️ chore: update .gitignore
