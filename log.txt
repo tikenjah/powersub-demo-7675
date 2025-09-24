@@ -4775,3 +4775,4 @@
 0027. 📚 docs: clarify environment setup
 0886. ♻️ chore: clean up unused files
 0807. 🔧 refactor: remove redundant code blocks
+0682. ♻️ chore: rename env.example
