@@ -6959,3 +6959,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0223. 🔧 refactor: remove redundant code blocks
 0001. 🚀 perf: cache repeated calculations
+0230. ✨ feat: create admin dashboard
