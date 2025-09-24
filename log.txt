@@ -4776,3 +4776,4 @@
 0886. ♻️ chore: clean up unused files
 0807. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
+0286. ✅ test: mock database connection in test suite
