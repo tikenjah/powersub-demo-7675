@@ -5957,3 +5957,4 @@
 0077. ♻️ chore: rename env.example
 0490. ✨ feat: create admin dashboard
 0119. 📚 docs: improve code comments in utils
+0934. ✨ feat: support email verification
