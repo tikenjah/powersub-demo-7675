@@ -7946,3 +7946,4 @@
 0715. ✨ feat: create admin dashboard
 0450. 🐛 fix: fix broken CSS in mobile view
 0847. ♻️ chore: clean up unused files
+0460. 📚 docs: write FAQ section
