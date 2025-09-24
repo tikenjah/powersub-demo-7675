@@ -4765,3 +4765,4 @@
 0574. ✨ feat: enable dark mode toggle
 0019. ✨ feat: enable dark mode toggle
 0289. 🐛 fix: resolve issue with date parsing
+0702. ✨ feat: add user authentication
