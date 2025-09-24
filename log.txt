@@ -8947,3 +8947,4 @@
 0198. 📚 docs: clarify environment setup
 0148. 🔧 refactor: organize models into subfolders
 0302. ✨ feat: implement quiz timer feature
+0154. 🐛 fix: prevent crash on empty input
