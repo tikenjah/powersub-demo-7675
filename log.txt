@@ -8948,3 +8948,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0302. ✨ feat: implement quiz timer feature
 0154. 🐛 fix: prevent crash on empty input
+0882. 🚀 perf: optimize database query for quiz results
