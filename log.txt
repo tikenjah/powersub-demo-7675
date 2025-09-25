@@ -7948,3 +7948,4 @@
 0847. ♻️ chore: clean up unused files
 0460. 📚 docs: write FAQ section
 0839. 🎨 style: apply consistent indentation
+0567. 📚 docs: add API usage examples
