@@ -4783,3 +4783,4 @@
 0286. ✅ test: mock database connection in test suite
 0935. 📚 docs: update README with setup steps
 0673. 🐛 fix: correct typo in registration form
+0222. 🐛 fix: handle 500 error in quiz API
