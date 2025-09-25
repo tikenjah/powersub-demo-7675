@@ -9955,3 +9955,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0673. 🐛 fix: correct typo in registration form
 0012. 🚀 perf: cache repeated calculations
+0406. ✨ feat: add export to CSV option
