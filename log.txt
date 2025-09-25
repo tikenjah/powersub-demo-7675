@@ -4781,3 +4781,4 @@
 0964. ♻️ chore: clean up unused files
 0553. 🐛 fix: correct typo in registration form
 0286. ✅ test: mock database connection in test suite
+0935. 📚 docs: update README with setup steps
