@@ -8952,3 +8952,4 @@
 0336. ✨ feat: add export to CSV option
 0576. ♻️ chore: update .gitignore
 0424. ✨ feat: add user authentication
+0621. 🔧 refactor: clean up auth middleware
