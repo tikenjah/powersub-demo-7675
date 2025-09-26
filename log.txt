@@ -4792,3 +4792,4 @@
 0771. 🚀 perf: cache repeated calculations
 0410. 🎨 style: reformat files with black
 0972. 🔧 refactor: refactor quiz grading logic
+0079. 🐛 fix: correct typo in registration form
