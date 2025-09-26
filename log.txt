@@ -4805,3 +4805,4 @@
 0712. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
 0790. 📚 docs: write FAQ section
+0056. ♻️ chore: rename env.example
