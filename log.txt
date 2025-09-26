@@ -6965,3 +6965,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0276. ✅ test: add integration test for /submit endpoint
 0794. ♻️ chore: clean up unused files
+0689. 🎨 style: reformat files with black
