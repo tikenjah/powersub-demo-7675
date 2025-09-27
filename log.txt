@@ -7956,3 +7956,4 @@
 0861. ♻️ chore: clean up unused files
 0544. 🔧 refactor: organize models into subfolders
 0557. 🔧 refactor: clean up auth middleware
+0688. 🚀 perf: reduce image load time
