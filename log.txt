@@ -10958,3 +10958,4 @@
 0976. ✨ feat: implement quiz timer feature
 0087. ✨ feat: add export to CSV option
 0688. 🚀 perf: reduce image load time
+0562. 🔧 refactor: clean up auth middleware
