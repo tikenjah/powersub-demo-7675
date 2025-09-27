@@ -7955,3 +7955,4 @@
 0640. ♻️ chore: bump dependencies
 0861. ♻️ chore: clean up unused files
 0544. 🔧 refactor: organize models into subfolders
+0557. 🔧 refactor: clean up auth middleware
