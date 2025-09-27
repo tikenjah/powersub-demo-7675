@@ -4817,3 +4817,4 @@
 0593. 🐛 fix: correct typo in registration form
 0526. ✨ feat: add user authentication
 0462. ♻️ chore: update .gitignore
+0989. 📚 docs: write FAQ section
