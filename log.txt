@@ -8956,3 +8956,4 @@
 0454. ♻️ chore: bump dependencies
 0842. 🎨 style: remove trailing whitespace
 0139. 📚 docs: document token refresh logic
+0526. ✨ feat: add user authentication
