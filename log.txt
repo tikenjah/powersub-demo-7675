@@ -8955,3 +8955,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0454. ♻️ chore: bump dependencies
 0842. 🎨 style: remove trailing whitespace
+0139. 📚 docs: document token refresh logic
