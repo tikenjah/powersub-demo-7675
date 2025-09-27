@@ -7954,3 +7954,4 @@
 0592. 📚 docs: add API usage examples
 0640. ♻️ chore: bump dependencies
 0861. ♻️ chore: clean up unused files
+0544. 🔧 refactor: organize models into subfolders
