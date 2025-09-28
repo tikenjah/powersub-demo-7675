@@ -7958,3 +7958,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0688. 🚀 perf: reduce image load time
 0555. ✨ feat: create admin dashboard
+0823. ✨ feat: add user authentication
