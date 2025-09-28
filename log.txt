@@ -4840,3 +4840,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0140. 🐛 fix: handle 500 error in quiz API
 0569. 📚 docs: document token refresh logic
+0785. ✨ feat: enable dark mode toggle
