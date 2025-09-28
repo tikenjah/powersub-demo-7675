@@ -9973,3 +9973,4 @@
 0921. 🐛 fix: correct typo in registration form
 0365. 🚀 perf: reduce image load time
 0774. 🔧 refactor: refactor quiz grading logic
+0649. 📚 docs: update README with setup steps
