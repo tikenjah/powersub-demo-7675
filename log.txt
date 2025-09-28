@@ -4833,3 +4833,4 @@
 0003. ✅ test: increase coverage on auth module
 0116. ✨ feat: support email verification
 0783. 🐛 fix: handle 500 error in quiz API
+0896. 🚀 perf: reduce image load time
