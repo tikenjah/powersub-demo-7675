@@ -4836,3 +4836,4 @@
 0896. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
 0228. 🔧 refactor: remove redundant code blocks
+0699. 🎨 style: standardize quote style
