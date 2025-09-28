@@ -4837,3 +4837,4 @@
 0185. 📚 docs: write FAQ section
 0228. 🔧 refactor: remove redundant code blocks
 0699. 🎨 style: standardize quote style
+0496. ✅ test: add integration test for /submit endpoint
