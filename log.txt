@@ -4830,3 +4830,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0499. 🎨 style: reformat files with black
 0422. 🔧 refactor: organize models into subfolders
+0003. ✅ test: increase coverage on auth module
