@@ -8957,3 +8957,4 @@
 0842. 🎨 style: remove trailing whitespace
 0139. 📚 docs: document token refresh logic
 0526. ✨ feat: add user authentication
+0880. 🐛 fix: fix broken CSS in mobile view
