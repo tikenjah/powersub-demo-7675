@@ -8958,3 +8958,4 @@
 0139. 📚 docs: document token refresh logic
 0526. ✨ feat: add user authentication
 0880. 🐛 fix: fix broken CSS in mobile view
+0651. ✨ feat: enable dark mode toggle
