@@ -9976,3 +9976,4 @@
 0649. 📚 docs: update README with setup steps
 0568. 🐛 fix: handle 500 error in quiz API
 0236. 🔧 refactor: remove redundant code blocks
+0362. 📚 docs: add API usage examples
