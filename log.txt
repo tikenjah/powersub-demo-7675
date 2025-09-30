@@ -10964,3 +10964,4 @@
 0782. 📚 docs: improve code comments in utils
 0792. 🎨 style: standardize quote style
 0761. ✅ test: add unit test for quiz service
+0763. 🔧 refactor: organize models into subfolders
