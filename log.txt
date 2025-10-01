@@ -5975,3 +5975,4 @@
 0995. ✅ test: mock database connection in test suite
 0320. 📚 docs: update README with setup steps
 0842. 🎨 style: remove trailing whitespace
+0243. 🔧 refactor: clean up auth middleware
