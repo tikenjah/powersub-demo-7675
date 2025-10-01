@@ -4868,3 +4868,4 @@
 0731. 🎨 style: standardize quote style
 0245. 🐛 fix: resolve issue with date parsing
 0839. 🎨 style: apply consistent indentation
+0205. 📚 docs: update README with setup steps
