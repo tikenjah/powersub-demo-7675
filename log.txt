@@ -6977,3 +6977,4 @@
 0445. 📚 docs: improve code comments in utils
 0794. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
+0739. 🎨 style: remove trailing whitespace
