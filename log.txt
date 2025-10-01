@@ -8964,3 +8964,4 @@
 0851. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
 0886. ♻️ chore: clean up unused files
+0352. ✨ feat: add export to CSV option
