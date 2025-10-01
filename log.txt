@@ -4873,3 +4873,4 @@
 0663. 🚀 perf: reduce image load time
 0041. 🐛 fix: fix broken CSS in mobile view
 0455. ♻️ chore: clean up unused files
+0599. ✅ test: test user registration edge cases
