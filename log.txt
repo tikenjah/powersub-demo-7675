@@ -10966,3 +10966,4 @@
 0761. ✅ test: add unit test for quiz service
 0763. 🔧 refactor: organize models into subfolders
 0073. 🔧 refactor: split large controller into smaller functions
+0003. ✅ test: increase coverage on auth module
