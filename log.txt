@@ -6978,3 +6978,4 @@
 0794. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
 0739. 🎨 style: remove trailing whitespace
+0379. ✨ feat: support email verification
