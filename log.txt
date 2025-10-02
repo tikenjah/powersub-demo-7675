@@ -4890,3 +4890,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0131. 📚 docs: write FAQ section
 0670. ✨ feat: add export to CSV option
+0253. 📚 docs: update README with setup steps
