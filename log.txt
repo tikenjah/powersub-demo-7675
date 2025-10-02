@@ -4893,3 +4893,4 @@
 0253. 📚 docs: update README with setup steps
 0831. 📚 docs: clarify environment setup
 0525. ✅ test: mock database connection in test suite
+0617. ✨ feat: support email verification
