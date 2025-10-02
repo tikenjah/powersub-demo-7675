@@ -6980,3 +6980,4 @@
 0739. 🎨 style: remove trailing whitespace
 0379. ✨ feat: support email verification
 0058. ♻️ chore: add GitHub actions badge
+0127. 🐛 fix: fix null pointer exception on login
