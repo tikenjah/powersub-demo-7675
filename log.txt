@@ -4884,3 +4884,4 @@
 0061. ✨ feat: create admin dashboard
 0316. 🐛 fix: fix broken CSS in mobile view
 0359. 🔧 refactor: clean up auth middleware
+0572. ✨ feat: add user authentication
