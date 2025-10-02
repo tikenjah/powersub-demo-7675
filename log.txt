@@ -10970,3 +10970,4 @@
 0962. ✨ feat: create admin dashboard
 0746. ♻️ chore: add GitHub actions badge
 0082. 🔧 refactor: refactor quiz grading logic
+0522. 🐛 fix: handle 500 error in quiz API
