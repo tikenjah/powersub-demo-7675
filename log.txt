@@ -9978,3 +9978,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0362. 📚 docs: add API usage examples
 0934. ✨ feat: support email verification
+0777. 📚 docs: document token refresh logic
