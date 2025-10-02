@@ -4878,3 +4878,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0279. ✨ feat: support email verification
 0007. 🎨 style: rename variables for clarity
+0546. 🐛 fix: fix null pointer exception on login
