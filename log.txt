@@ -4904,3 +4904,4 @@
 0017. ✅ test: mock database connection in test suite
 0599. ✅ test: test user registration edge cases
 0308. 🚀 perf: reduce image load time
+0055. 📚 docs: update README with setup steps
