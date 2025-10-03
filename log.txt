@@ -6983,3 +6983,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0896. 🚀 perf: reduce image load time
 0467. ✅ test: add integration test for /submit endpoint
+0835. 🐛 fix: prevent crash on empty input
