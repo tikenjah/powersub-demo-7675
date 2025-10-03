@@ -4905,3 +4905,4 @@
 0599. ✅ test: test user registration edge cases
 0308. 🚀 perf: reduce image load time
 0055. 📚 docs: update README with setup steps
+0542. 🔧 refactor: organize models into subfolders
