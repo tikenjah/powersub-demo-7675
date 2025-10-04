@@ -4920,3 +4920,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0389. 📚 docs: improve code comments in utils
 0503. ♻️ chore: rename env.example
+0573. ✅ test: add integration test for /submit endpoint
