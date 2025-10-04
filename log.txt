@@ -10973,3 +10973,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0525. ✅ test: mock database connection in test suite
 0176. 🔧 refactor: remove redundant code blocks
+0922. 📚 docs: write FAQ section
