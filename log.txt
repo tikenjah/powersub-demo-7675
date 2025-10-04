@@ -4910,3 +4910,4 @@
 0555. ✨ feat: create admin dashboard
 0001. 🚀 perf: cache repeated calculations
 0957. 🐛 fix: fix null pointer exception on login
+0982. 🚀 perf: lazy-load components
