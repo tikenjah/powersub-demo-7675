@@ -4909,3 +4909,4 @@
 0839. 🎨 style: apply consistent indentation
 0555. ✨ feat: create admin dashboard
 0001. 🚀 perf: cache repeated calculations
+0957. 🐛 fix: fix null pointer exception on login
