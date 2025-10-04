@@ -5983,3 +5983,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0904. ✨ feat: implement quiz timer feature
 0381. ♻️ chore: clean up unused files
+0037. 🐛 fix: correct typo in registration form
