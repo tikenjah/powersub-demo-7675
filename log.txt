@@ -6984,3 +6984,4 @@
 0896. 🚀 perf: reduce image load time
 0467. ✅ test: add integration test for /submit endpoint
 0835. 🐛 fix: prevent crash on empty input
+0181. ♻️ chore: add GitHub actions badge
