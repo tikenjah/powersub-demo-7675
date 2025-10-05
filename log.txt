@@ -8979,3 +8979,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0359. 🔧 refactor: clean up auth middleware
 0306. 🎨 style: apply consistent indentation
+0291. 📚 docs: write FAQ section
