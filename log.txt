@@ -8981,3 +8981,4 @@
 0306. 🎨 style: apply consistent indentation
 0291. 📚 docs: write FAQ section
 0079. 🐛 fix: correct typo in registration form
+0292. 📚 docs: clarify environment setup
