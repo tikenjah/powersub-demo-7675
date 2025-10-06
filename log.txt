@@ -4940,3 +4940,4 @@
 0019. ✨ feat: enable dark mode toggle
 0831. 📚 docs: clarify environment setup
 0077. ♻️ chore: rename env.example
+0369. 🎨 style: standardize quote style
