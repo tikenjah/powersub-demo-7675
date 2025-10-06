@@ -4945,3 +4945,4 @@
 0986. 📚 docs: document token refresh logic
 0280. ✅ test: add integration test for /submit endpoint
 0122. ✨ feat: support email verification
+0066. 🔧 refactor: clean up auth middleware
