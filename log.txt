@@ -6989,3 +6989,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0854. ♻️ chore: rename env.example
 0540. ♻️ chore: add GitHub actions badge
+0925. ✨ feat: add export to CSV option
