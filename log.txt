@@ -5984,3 +5984,4 @@
 0904. ✨ feat: implement quiz timer feature
 0381. ♻️ chore: clean up unused files
 0037. 🐛 fix: correct typo in registration form
+0110. 🐛 fix: prevent crash on empty input
