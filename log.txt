@@ -6992,3 +6992,4 @@
 0925. ✨ feat: add export to CSV option
 0948. 🐛 fix: fix broken CSS in mobile view
 0923. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
