@@ -8984,3 +8984,4 @@
 0292. 📚 docs: clarify environment setup
 0661. ✅ test: add integration test for /submit endpoint
 0078. ♻️ chore: update .gitignore
+0996. ✅ test: test user registration edge cases
