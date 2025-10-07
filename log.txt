@@ -4948,3 +4948,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0112. ✨ feat: enable dark mode toggle
 0185. 📚 docs: write FAQ section
+0568. 🐛 fix: handle 500 error in quiz API
