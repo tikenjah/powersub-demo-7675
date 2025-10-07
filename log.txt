@@ -5987,3 +5987,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0760. 🐛 fix: resolve issue with date parsing
 0684. 🚀 perf: reduce image load time
+0785. ✨ feat: enable dark mode toggle
