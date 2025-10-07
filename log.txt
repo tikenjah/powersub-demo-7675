@@ -7990,3 +7990,4 @@
 0884. 📚 docs: clarify environment setup
 0942. ✅ test: increase coverage on auth module
 0098. 🎨 style: rename variables for clarity
+0320. 📚 docs: update README with setup steps
