@@ -6991,3 +6991,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0925. ✨ feat: add export to CSV option
 0948. 🐛 fix: fix broken CSS in mobile view
+0923. ✨ feat: support email verification
