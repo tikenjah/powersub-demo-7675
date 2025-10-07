@@ -4949,3 +4949,4 @@
 0112. ✨ feat: enable dark mode toggle
 0185. 📚 docs: write FAQ section
 0568. 🐛 fix: handle 500 error in quiz API
+0935. 📚 docs: update README with setup steps
