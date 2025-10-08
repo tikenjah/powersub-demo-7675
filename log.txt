@@ -4966,3 +4966,4 @@
 0695. ✨ feat: create admin dashboard
 0377. ✨ feat: add user authentication
 0660. 🐛 fix: correct typo in registration form
+0325. 🎨 style: rename variables for clarity
