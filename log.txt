@@ -4973,3 +4973,4 @@
 0050. ✨ feat: enable dark mode toggle
 0312. ✨ feat: add user authentication
 0958. 🐛 fix: prevent crash on empty input
+0711. 🐛 fix: fix broken CSS in mobile view
