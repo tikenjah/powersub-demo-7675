@@ -4965,3 +4965,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0695. ✨ feat: create admin dashboard
 0377. ✨ feat: add user authentication
+0660. 🐛 fix: correct typo in registration form
