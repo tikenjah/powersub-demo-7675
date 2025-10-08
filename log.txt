@@ -9992,3 +9992,4 @@
 0198. 📚 docs: clarify environment setup
 0939. 📚 docs: update README with setup steps
 0735. ♻️ chore: add GitHub actions badge
+0131. 📚 docs: write FAQ section
