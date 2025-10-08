@@ -4961,3 +4961,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0165. 🎨 style: remove trailing whitespace
 0581. ✅ test: add integration test for /submit endpoint
+0031. 📚 docs: document token refresh logic
