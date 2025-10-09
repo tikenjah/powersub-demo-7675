@@ -5992,3 +5992,4 @@
 0417. 🎨 style: rename variables for clarity
 0930. 🎨 style: apply consistent indentation
 0816. 🔧 refactor: organize models into subfolders
+0556. ✨ feat: support email verification
