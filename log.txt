@@ -4984,3 +4984,4 @@
 0336. ✨ feat: add export to CSV option
 0941. 🚀 perf: cache repeated calculations
 0387. ✨ feat: enable dark mode toggle
+0696. 🔧 refactor: clean up auth middleware
