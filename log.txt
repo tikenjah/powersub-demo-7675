@@ -4978,3 +4978,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0649. 📚 docs: update README with setup steps
 0508. ✅ test: add unit test for quiz service
+0967. ♻️ chore: add GitHub actions badge
