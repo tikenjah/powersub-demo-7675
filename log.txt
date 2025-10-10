@@ -5995,3 +5995,4 @@
 0556. ✨ feat: support email verification
 0006. 🐛 fix: prevent crash on empty input
 0809. ♻️ chore: rename env.example
+0391. 🐛 fix: fix null pointer exception on login
