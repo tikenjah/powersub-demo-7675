@@ -4996,3 +4996,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0878. 🔧 refactor: split large controller into smaller functions
 0713. 🐛 fix: handle 500 error in quiz API
+0281. ✨ feat: support email verification
