@@ -4991,3 +4991,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0239. 🎨 style: standardize quote style
 0741. 🎨 style: apply consistent indentation
+0519. 📚 docs: document token refresh logic
