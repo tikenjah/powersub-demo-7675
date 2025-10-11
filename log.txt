@@ -10996,3 +10996,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0336. ✨ feat: add export to CSV option
 0405. ✅ test: mock database connection in test suite
+0979. 🎨 style: standardize quote style
